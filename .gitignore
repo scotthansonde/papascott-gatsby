@@ -58,7 +58,8 @@ typings/
 .env
 
 .cache/
-# public
+public
 yarn-error.log
+src/posts/
 
 notes.txt
