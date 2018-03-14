@@ -1,0 +1,42 @@
+/* image alignment from WordPress https://codex.wordpress.org/Wrapping_Text_Around_Images */
+p img { padding: 0; max-width: 100%;}
+img.alignright { padding: 4px; margin: 0 0 2px 7px; display: inline;}
+img.alignleft { padding: 4px; margin: 0 7px 2px 0; display: inline; }
+
+.alignright { float: right; }
+.alignleft { float: left; }
+
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+
+.post p img.alignright {max-width: 50%;}
+.post p img.alignleft {max-width: 50%;}
+
+/* Force the Twitter Widget to 100% width */
+iframe[id^='twitter-widget-']{ width:100% !important;}
+
+img.emoji {display: inline; margin:0}
+
+p.twitter-header, p.tweet, p.timePosted {font-size: 16px; margin-bottom: 0px}
+#twitterWrapper {margin-bottom: 30px}
+
+/* Galleries and such */
+.lightbox {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.photo-gallery, .photo-gallery li {
+	list-style: none;
+	padding: 0;
+}
+
+.photo-gallery li {
+	display: inline-block;
+	width: 33%;
+}
+
+.photo-gallery li img {
+	width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+}
