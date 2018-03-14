@@ -20,7 +20,7 @@ export default ({ data, pathContext }) => {
 
   return (
     <div>
-      {group.map(({ node }, idx) => (
+      {group && group.map(({ node }, idx) => (
         <div className="post" key={idx}>
         <h1 className="post-title">
           <Link to={node.fields.slug} >
