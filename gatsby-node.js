@@ -11,9 +11,8 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
       basePath = "pages";
     }
     let basename = path.basename(createFilePath({ node, getNode, basePath }));
-    basename = `/${basename}/`;
-    
-    let slug = basename.replace(/\/^(\d+)-(\d+)-(\d+)-/, '/archives/$1/$2/$3/');
+    basename = `/${basename}/`;  
+    let slug = basename.replace( /^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/' );
     let title = node.frontmatter.title;
     let date = node.frontmatter.date;
     let nameArr = slug.split("-");
