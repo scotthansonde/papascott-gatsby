@@ -1,0 +1,2 @@
+webpackJsonp([0xc6c222210ae8],{6777:function(t,a){t.exports={data:{post:{html:"<p>Next. Work. Day. 3. May.</p>",fields:{title:"Vacation. Starts. Now.",date:"08 Apr 2004",url:"https://papascott.de/2004-04-08-vacation-starts-now/"}}},pathContext:{slug:"/2004-04-08-vacation-starts-now/",prev:{fields:{title:"Jodeldiplom",date:"08 Apr 2004",slug:"/2004-04-08-jodeldiplom/"}},next:{fields:{title:"HAM-FRA-ATL-TPA",date:"09 Apr 2004",slug:"/2004-04-09-ham-fra-atl-tpa/"}}}}}});
+//# sourceMappingURL=path---2004-04-08-vacation-starts-now-52148fb28df76c140671.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xb0c57ea8b102],{7246:function(t,e){t.exports={data:{post:{html:"<p>We're gone. To Leogang. In Austria. See you. Next week.</p>",fields:{title:"Vacation",date:"26 Feb 2005",url:"https://papascott.de/2005-02-26-vacation/"}}},pathContext:{slug:"/2005-02-26-vacation/",prev:{fields:{title:"Night Shift",date:"23 Feb 2005",slug:"/2005-02-23-night-shift/"}},next:{fields:{title:"Back Again",date:"05 Mar 2005",slug:"/2005-03-05-back-again/"}}}}}});
+//# sourceMappingURL=path---2005-02-26-vacation-7f0c700846cf934c2243.js.map

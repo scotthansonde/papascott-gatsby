@@ -1,0 +1,2 @@
+webpackJsonp([0x8c61854ef8c8],{5415:function(e,t){e.exports={data:{post:{html:"<p>Stoiber or Merkel. Will we know this week? We'll just have to see.</p>",fields:{title:"The K Question",date:"10 Jan 2002",url:"https://papascott.de/2002-01-10-the-k-question/"}}},pathContext:{slug:"/2002-01-10-the-k-question/",prev:{fields:{title:"Test",date:"10 Jan 2002",slug:"/2002-01-10-test/"}},next:{fields:{title:"Notes Sucks",date:"11 Jan 2002",slug:"/2002-01-11-notes-sucks/"}}}}}});
+//# sourceMappingURL=path---2002-01-10-the-k-question-72fe72c7695befe6e2cb.js.map

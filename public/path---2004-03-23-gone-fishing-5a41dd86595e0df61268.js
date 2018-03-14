@@ -1,0 +1,2 @@
+webpackJsonp([0x951df222efd2],{6749:function(e,t){e.exports={data:{post:{html:"<p>At least mentally. I'll be back here next week.</p>",fields:{title:"Gone Fishing",date:"23 Mar 2004",url:"https://papascott.de/2004-03-23-gone-fishing/"}}},pathContext:{slug:"/2004-03-23-gone-fishing/",prev:{fields:{title:"Ublog Apart",date:"22 Mar 2004",slug:"/2004-03-22-ublog-apart/"}},next:{fields:{title:"Bicycle",date:"27 Mar 2004",slug:"/2004-03-27-bicycle/"}}}}}});
+//# sourceMappingURL=path---2004-03-23-gone-fishing-5a41dd86595e0df61268.js.map

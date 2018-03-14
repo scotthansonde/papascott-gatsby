@@ -1,0 +1,2 @@
+webpackJsonp([0xb3b1ac196dc6],{7247:function(a,e){a.exports={data:{post:{html:"<p>We're back after a week offline in the Austrian Alps. Did we miss anything? Did anybody miss us?</p>",fields:{title:"Back Again",date:"05 Mar 2005",url:"https://papascott.de/2005-03-05-back-again/"}}},pathContext:{slug:"/2005-03-05-back-again/",prev:{fields:{title:"Vacation",date:"26 Feb 2005",slug:"/2005-02-26-vacation/"}},next:{fields:{title:"Silver Medal",date:"05 Mar 2005",slug:"/2005-03-05-silver-medal/"}}}}}});
+//# sourceMappingURL=path---2005-03-05-back-again-65bd76f8c0a98b845858.js.map

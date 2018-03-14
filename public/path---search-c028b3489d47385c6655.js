@@ -1,0 +1,2 @@
+webpackJsonp([0xe7884ae5879b],{9173:function(e,a){e.exports={data:{markdownRemark:{html:'<p>Search www.papascott.de using DuckDuckGo custom search.</p>\n<iframe src="https://duckduckgo.com/search.html?width=400&duck=yes&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:533px;height:60px;" frameborder="0"></iframe>',fields:{title:"Search"}}},pathContext:{slug:"/search/"}}}});
+//# sourceMappingURL=path---search-c028b3489d47385c6655.js.map

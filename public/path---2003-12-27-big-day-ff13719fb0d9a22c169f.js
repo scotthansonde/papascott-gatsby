@@ -1,0 +1,2 @@
+webpackJsonp([0x6aef2fce72fa],{6575:function(t,e){t.exports={data:{post:{html:"<p>Christopher, our pride and joy, turns 4 today!</p>",fields:{title:"Big Day",date:"27 Dec 2003",url:"https://papascott.de/2003-12-27-big-day/"}}},pathContext:{slug:"/2003-12-27-big-day/",prev:{fields:{title:"Goose Dinner",date:"26 Dec 2003",slug:"/2003-12-26-goose-dinner/"}},next:{fields:{title:"Caught",date:"27 Dec 2003",slug:"/2003-12-27-caught/"}}}}}});
+//# sourceMappingURL=path---2003-12-27-big-day-ff13719fb0d9a22c169f.js.map

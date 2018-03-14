@@ -1,0 +1,2 @@
+webpackJsonp([0x8e762a72df06],{5148:function(t,e){t.exports={data:{post:{html:"<p>We're back home. We're safe and sound, but still running a little ragged.</p>",fields:{title:"Return",date:"19 Oct 2000",url:"https://papascott.de/2000-10-19-return/"}}},pathContext:{slug:"/2000-10-19-return/",prev:{fields:{title:"Legion",date:"12 Oct 2000",slug:"/2000-10-12-legion/"}},next:{fields:{title:"Return",date:"20 Oct 2000",slug:"/2000-10-20-return/"}}}}}});
+//# sourceMappingURL=path---2000-10-19-return-94dad26b4acc6ad44d4d.js.map
