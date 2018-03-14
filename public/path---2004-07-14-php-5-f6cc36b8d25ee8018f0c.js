@@ -1,2 +1,0 @@
-webpackJsonp([0xc0e9c0c5bb21],{6907:function(e,t){e.exports={data:{post:{html:'<p><a href="http://www.php.net/">PHP5</a></p>',fields:{title:"PHP5",date:"14 Jul 2004",url:"https://papascott.de/2004-07-14-php5/"}}},pathContext:{slug:"/2004-07-14-php5/",prev:{fields:{title:"Health Care Cost Ratios",date:"14 Jul 2004",slug:"/2004-07-14-health-care-cost-ratios/"}},next:{fields:{title:"Super Size Me opens in Germany",date:"14 Jul 2004",slug:"/2004-07-14-super-size-me-opens-in-germany/"}}}}}});
-//# sourceMappingURL=path---2004-07-14-php-5-f6cc36b8d25ee8018f0c.js.map

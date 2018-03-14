@@ -1,2 +1,0 @@
-webpackJsonp([0xa87675631a9b],{5015:function(e,a){e.exports={data:{post:{html:"<p>Our stock closed at 40. Today we issued a press release about an upcoming WAP product.</p>",fields:{title:"Thursday",date:"03 Feb 2000",url:"https://papascott.de/2000-02-03-thursday/"}}},pathContext:{slug:"/2000-02-03-thursday/",prev:{fields:{title:"Wednesday",date:"02 Feb 2000",slug:"/2000-02-02-wednesday/"}},next:{fields:{title:"Casual Friday",date:"04 Feb 2000",slug:"/2000-02-04-casual-friday/"}}}}}});
-//# sourceMappingURL=path---2000-02-03-thursday-f596582b9dfe762b9a12.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{103:function(e,t){e.exports={data:{site:{siteMetadata:{title:"PapaScott",desc:"I like big blogs and I cannot lie"}},allMarkdownRemark:{edges:[{node:{fields:{title:"About",slug:"/about/"}}},{node:{fields:{title:"Search",slug:"/search/"}}}]}},layoutContext:{}}}});
-//# sourceMappingURL=path----32bf63c887cca30f86bf.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xc2537ee28676],{7092:function(t,o){t.exports={data:{post:{html:"<p>Clinton/Obama in 2008!</p>\n<p>I just wanted to be the first to say that...</p>",fields:{title:"First Post!",date:"03 Nov 2004",url:"https://papascott.de/2004-11-03-first-post/"}}},pathContext:{slug:"/2004-11-03-first-post/",prev:{fields:{title:"Do I have to stop?",date:"03 Nov 2004",slug:"/2004-11-03-do-i-have-to-stop/"}},next:{fields:{title:"Ding Dong!",date:"04 Nov 2004",slug:"/2004-11-04-ding-dong/"}}}}}});
-//# sourceMappingURL=path---2004-11-03-first-post-15525449212e4a1522af.js.map

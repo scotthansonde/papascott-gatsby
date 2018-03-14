@@ -1,2 +1,0 @@
-webpackJsonp([0x8e2d1fddbedd],{6750:function(e,t){e.exports={data:{post:{html:'<p><img src="/fotos/crh_fahrrad.jpg" alt="crh_fahrrad" /></p>',fields:{title:"Bicycle",date:"27 Mar 2004",url:"https://papascott.de/2004-03-27-bicycle/"}}},pathContext:{slug:"/2004-03-27-bicycle/",prev:{fields:{title:"Gone Fishing",date:"23 Mar 2004",slug:"/2004-03-23-gone-fishing/"}},next:{fields:{title:"Haberler",date:"28 Mar 2004",slug:"/2004-03-28-haberler/"}}}}}});
-//# sourceMappingURL=path---2004-03-27-bicycle-2f3ff34bc99649732506.js.map

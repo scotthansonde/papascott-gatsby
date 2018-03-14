@@ -1,2 +1,0 @@
-webpackJsonp([0x690a44314371],{5414:function(t,e){t.exports={data:{post:{html:"<p>And further testing...</p>",fields:{title:"Test",date:"10 Jan 2002",url:"https://papascott.de/2002-01-10-test/"}}},pathContext:{slug:"/2002-01-10-test/",prev:{fields:{title:"English Sucks",date:"10 Jan 2002",slug:"/2002-01-10-english-sucks/"}},next:{fields:{title:"The K Question",date:"10 Jan 2002",slug:"/2002-01-10-the-k-question/"}}}}}});
-//# sourceMappingURL=path---2002-01-10-test-cd97e48911d59bd29675.js.map

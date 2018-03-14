@@ -1,2 +1,0 @@
-webpackJsonp([0x5b09cf47273a],{6751:function(e,t){e.exports={data:{post:{html:'<p><a href="http://www.tagesschau.de/haberler">Haberler: ARD Tagesschau in Turkish</a></p>',fields:{title:"Haberler",date:"28 Mar 2004",url:"https://papascott.de/2004-03-28-haberler/"}}},pathContext:{slug:"/2004-03-28-haberler/",prev:{fields:{title:"Bicycle",date:"27 Mar 2004",slug:"/2004-03-27-bicycle/"}},next:{fields:{title:"Firesomething",date:"29 Mar 2004",slug:"/2004-03-29-firesomething/"}}}}}});
-//# sourceMappingURL=path---2004-03-28-haberler-b56731faeef3c97ab35a.js.map

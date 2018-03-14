@@ -1,2 +1,0 @@
-webpackJsonp([0xf927f8900006],{9150:function(e,n){e.exports={data:{markdownRemark:{html:"<p>PapaScott is a personal weblog by Scott Hanson. The opinions expressed\nhere are his and his alone.</p>\n<p>Born in 1962 in California, raised in Minnesota, he has lived since 1990\nin Germany. His wife Frauke is a McDonald's franchisee with 4\nrestaurants in Nordheide-Harburg. They live with teenaged son\nChristopher in Jesteburg (near Hamburg).</p>",fields:{title:"About"}}},pathContext:{slug:"/about/"}}}});
-//# sourceMappingURL=path---about-afbf8c8d8f364090d698.js.map
