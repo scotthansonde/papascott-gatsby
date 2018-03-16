@@ -11,14 +11,13 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
       basePath = "pages";
     }
     let basename = path.basename(createFilePath({ node, getNode, basePath }));
-    basename = `/${basename}/`;  
-    let slug = basename.replace( /^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/' );
+    let slashBasename = `/${basename}/`;  
+    let slug = slashBasename.replace( /^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/' );
     let title = node.frontmatter.title;
     let date = node.frontmatter.date;
-    let nameArr = slug.split("-");
+    let nameArr = basename.split("-");
     if ( !date || date === null) {
-      date =nameArr.splice(0, 3).join("-");
-      // title = nameArr.join(" ").replace(".md", "");
+      date = nameArr.splice(0, 3).join("-");
     }
     
     createNodeField({
