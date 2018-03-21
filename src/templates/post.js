@@ -21,7 +21,7 @@ export default ({ data, pathContext }) => {
         <span className="post-date">{post.fields.date}</span>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
-      <div className="related">
+      {/* <div className="related">
         <ul className="related-posts">
           {pathContext.prev ? (
             <RelatedPost type="Previous" slug={pathContext.prev.fields.slug} title={pathContext.prev.fields.title} date={pathContext.prev.fields.date} />
@@ -30,7 +30,7 @@ export default ({ data, pathContext }) => {
             <RelatedPost type="Next" slug={pathContext.next.fields.slug} title={pathContext.next.fields.title} date={pathContext.next.fields.date} />
           ) : null}
         </ul>
-      </div>
+      </div> */}
     </div>
   );
 };

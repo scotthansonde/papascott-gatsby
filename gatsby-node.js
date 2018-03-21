@@ -51,27 +51,35 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   }
 };
 
-const createTagPages = (createPage, edges) => {
-  const tagTemplate = path.resolve(`src/templates/tags.js`);
+const createArchivePages = (createPage, edges) => {
+  const archiveTemplate = path.resolve(`src/templates/archives.js`);
   const posts = {};
   
 
-  edges
-    .forEach(({ node }) => {
-      if (node.fields.tags) {
-        [node.fields.tags]
-          .forEach(tag => {
-            if (!posts[tag]) {
-              posts[tag] = [];
-            }
-            posts[tag].push(node);
-          });
-      }
-    });
+  // edges
+  //   .forEach(({ node }) => {
+  //     if (node.fields.tags) {
+  //       [node.fields.tags]
+  //         .forEach(tag => {
+  //           if (!posts[tag]) {
+  //             posts[tag] = [];
+  //           }
+  //           posts[tag].push(node);
+  //         });
+  //     }
+  //   });
+
+  edges.forEach ( ({node}) => {
+    [node.date].forEach(date => {
+      let yr=`Y${moment(date).year().toString()}`;
+      if (!posts[yr]) {posts[yr]=[]}
+      posts[yr].push(node);
+    })
+  })
 
   createPage({
     path: '/archives',
-    component: tagTemplate,
+    component: archiveTemplate,
     context: {
       posts
     }
@@ -82,7 +90,7 @@ const createTagPages = (createPage, edges) => {
       const post = posts[tagName];
       createPage({
         path: `/archives/${tagName.replace('Y','')}`,
-        component: tagTemplate,
+        component: archiveTemplate,
         context: {
           posts,
           post,
@@ -97,6 +105,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
+        archives:  allArticlelistJson(sort: {fields: [url], order: DESC}) {
+          edges {
+            node {
+              title
+              url
+              date
+            }
+          }
+        }
         posts: allMarkdownRemark(
           sort: { fields: [fileAbsolutePath], order: DESC }
           filter: {
@@ -113,20 +130,6 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               }
               
               html
-            }
-            next {
-              fields {
-                title
-                date
-                slug
-              }
-            }
-            previous {
-              fields {
-                title
-                date
-                slug
-              }
             }
           }
         }
@@ -147,7 +150,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     `).then(result => {
 
         const posts = result.data.posts.edges;
-        createTagPages(createPage, posts);
+        createArchivePages(createPage, result.data.archives.edges);
 
         createPaginatedPages({
           edges: result.data.posts.edges,
