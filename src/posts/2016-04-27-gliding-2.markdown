@@ -1,8 +1,0 @@
----
-layout: post
-title: "Gliding 2"
-date: "2016-04-27 18:38:59 +0200"
----
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nsF-UrqqkSQ" frameborder="0" allowfullscreen=""></iframe>
-
-This is how our son stays out of trouble on weekends. At 16 in Germany he can fly solo, but yet not drive a car. :-)
