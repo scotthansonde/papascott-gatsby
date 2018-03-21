@@ -11,15 +11,15 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
       basePath = "pages";
     }
     let basename = path.basename(createFilePath({ node, getNode, basePath }));
-    let slashBasename = `/${basename}/`;  
-    let slug = slashBasename.replace( /^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/' );
+    let slashBasename = `/${basename}/`;
+    let slug = slashBasename.replace(/^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/');
     let title = node.frontmatter.title;
     let date = node.frontmatter.date;
     let nameArr = basename.split("-");
-    if ( !date || date === null) {
+    if (!date || date === null) {
       date = nameArr.splice(0, 3).join("-");
     }
-    
+
     createNodeField({
       node,
       name: "slug",
@@ -34,12 +34,12 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
       createNodeField({
         node,
         name: "date",
-        value: moment(new Date (date)).format("DD MMM YYYY")
+        value: moment(new Date(date)).format("DD MMM YYYY")
       });
       createNodeField({
         node,
         name: "tags",
-        value: `Y${moment(new Date (date)).format("YYYY")}`
+        value: `Y${moment(new Date(date)).format("YYYY")}`
       });
 
       createNodeField({
@@ -54,7 +54,7 @@ exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
 const createArchivePages = (createPage, edges) => {
   const archiveTemplate = path.resolve(`src/templates/archives.js`);
   const posts = {};
-  
+
 
   // edges
   //   .forEach(({ node }) => {
@@ -69,10 +69,10 @@ const createArchivePages = (createPage, edges) => {
   //     }
   //   });
 
-  edges.forEach ( ({node}) => {
+  edges.forEach(({ node }) => {
     [node.date].forEach(date => {
-      let yr=`Y${moment(date).year().toString()}`;
-      if (!posts[yr]) {posts[yr]=[]}
+      let yr = `Y${moment(date).year().toString()}`;
+      if (!posts[yr]) { posts[yr] = [] }
       posts[yr].push(node);
     })
   })
@@ -89,7 +89,7 @@ const createArchivePages = (createPage, edges) => {
     .forEach(tagName => {
       const post = posts[tagName];
       createPage({
-        path: `/archives/${tagName.replace('Y','')}`,
+        path: `/archives/${tagName.replace('Y', '')}`,
         component: archiveTemplate,
         context: {
           posts,
@@ -150,14 +150,16 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
     `).then(result => {
 
         const posts = result.data.posts.edges;
+
         createArchivePages(createPage, result.data.archives.edges);
 
         createPaginatedPages({
-          edges: result.data.posts.edges,
+          edges: result.data.posts.edges.slice(0,3),
           createPage: createPage,
           pageTemplate: "src/templates/index.js",
           pageLength: 3
         });
+
         result.data.posts.edges.map(({ node, next, previous }) => {
           createPage({
             path: node.fields.slug,
@@ -169,6 +171,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
             }
           });
         });
+
         result.data.pages.edges.map(({ node }) => {
           createPage({
             path: node.fields.slug,

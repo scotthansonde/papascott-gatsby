@@ -30,10 +30,10 @@ export default ({ data, pathContext }) => {
           <div dangerouslySetInnerHTML={{ __html: node.html }} />
         </div>
       ))}
-      <div className="pagination">
+      {/* <div className="pagination">
         <NavLink test={last} url={nextUrl} text="Older" />
         <NavLink test={first} url={previousUrl} text="Newer" />
-      </div>
+      </div> */}
     </div>
   );
 };
