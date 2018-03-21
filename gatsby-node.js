@@ -131,6 +131,20 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
               
               html
             }
+            next {
+              fields {
+                title
+                date
+                slug
+              }
+            }
+            previous {
+              fields {
+                title
+                date
+                slug
+              }
+            }
           }
         }
         pages: allMarkdownRemark(
