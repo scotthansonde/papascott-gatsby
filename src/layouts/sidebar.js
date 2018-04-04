@@ -3,6 +3,9 @@ import Link from "gatsby-link";
 import moment from "moment";
 import _ from "lodash";
 
+const archivesStatic = _.rangeRight(1999, new Date().getFullYear()+1);
+
+
 export default ({ metadata, pages, archives }) => (
   <div className="sidebar" id="sidebar">
     <div className="sidebar-item">

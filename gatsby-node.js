@@ -70,10 +70,12 @@ const createArchivePages = (createPage, edges) => {
   //   });
 
   edges.forEach(({ node }) => {
-    [node.date].forEach(date => {
-      let yr = `Y${moment(date).year().toString()}`;
+    
+    [node.fields.tags].forEach(yr => {
+      // let yr = `Y${moment(date).year().toString()}`;
+      
       if (!posts[yr]) { posts[yr] = [] }
-      posts[yr].push(node);
+      posts[yr].push(node.fields);
     })
   })
 
@@ -105,15 +107,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        archives:  allArticlelistJson(sort: {fields: [url], order: DESC}) {
-          edges {
-            node {
-              title
-              url
-              date
-            }
-          }
-        }
+        
         posts: allMarkdownRemark(
           sort: { fields: [fileAbsolutePath], order: DESC }
           filter: {
@@ -165,7 +159,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
         const posts = result.data.posts.edges;
 
-        createArchivePages(createPage, result.data.archives.edges);
+        createArchivePages(createPage, result.data.posts.edges);
 
         createPaginatedPages({
           edges: result.data.posts.edges.slice(0,3),

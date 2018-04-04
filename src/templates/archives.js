@@ -16,9 +16,9 @@ export default function Archives({ pathContext }) {
         <ul className="posts">
           {post.map(( value ) => {
             return (
-              <li key={value.url}>
+              <li key={value.slug}>
               <span className="post-date">{value.date}&nbsp;
-                  <a href={value.url}>
+                  <a href={value.slug}>
                     {entities.decode(value.title)}
                   </a></span>
               </li>
