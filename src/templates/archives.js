@@ -1,5 +1,5 @@
 import React from 'react';
-import GatsbyLink from 'gatsby-link';
+import { Link } from 'gatsby';
 import Layout from "../components/layout";
 
 const Entities = require('html-entities').AllHtmlEntities;
