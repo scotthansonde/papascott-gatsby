@@ -1,12 +1,13 @@
 import React from "react";
+import Layout from "../components/layout";
 
 export default ({ data }) => {
   const page = data.markdownRemark;
   return (
-    <div>
+    <Layout>
       <h1 className="page-title">{page.fields.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: page.html}} />
-    </div>
+    </Layout>
   );
 };
 

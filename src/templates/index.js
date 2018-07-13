@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
+import Layout from "../components/layout";
 
 const NavLink = props => {
   if (!props.test) {
@@ -19,7 +20,7 @@ export default ({ data, pathContext }) => {
   const nextUrl = (index + 1).toString();
 
   return (
-    <div>
+    <Layout>
       {group && group.map(({ node }, idx) => (
         <div className="post" key={idx}>
         <h1 className="post-title">
@@ -34,6 +35,6 @@ export default ({ data, pathContext }) => {
         <NavLink test={last} url={nextUrl} text="Older" />
         <NavLink test={first} url={previousUrl} text="Newer" />
       </div> */}
-    </div>
+    </Layout>
   );
 };

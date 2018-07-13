@@ -1,5 +1,6 @@
 import React from 'react';
 import GatsbyLink from 'gatsby-link';
+import Layout from "../components/layout";
 
 const Entities = require('html-entities').AllHtmlEntities;
 const entities = new Entities();
@@ -9,7 +10,7 @@ export default function Archives({ pathContext }) {
   
   if (tag) {
     return (
-      <div>
+      <Layout>
         <h1>
           {tag.replace('Y','')} Achivies
         </h1>
@@ -28,11 +29,11 @@ export default function Archives({ pathContext }) {
         {/* <Link to="/tags">
           <TagsIcon /> All tags
         </Link> */}
-      </div>
+      </Layout>
     );
   }
   return (
-    <div>
+    <Layout>
       <h1>Archives</h1>
       <ul className="tags">
         {Object.keys(posts).map(tagName => {
@@ -49,6 +50,6 @@ export default function Archives({ pathContext }) {
       {/* <Link to="/">
         <HomeIcon /> All posts
       </Link> */}
-    </div>
+    </Layout>
   );
 }

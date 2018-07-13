@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
+import Layout from "../components/layout";
 
 const RelatedPost = ({ type, slug, title, date }) => (
   <li>
@@ -15,7 +16,7 @@ const RelatedPost = ({ type, slug, title, date }) => (
 export default ({ data, pathContext }) => {
   const post = data.post;
   return (
-    <div>
+    <Layout>
       <div className="post">
         <h1 className="post-title">{post.fields.title}</h1>
         <span className="post-date">{post.fields.date}</span>
@@ -31,7 +32,7 @@ export default ({ data, pathContext }) => {
           ) : null}
         </ul>
       </div>
-    </div>
+    </Layout>
   );
 };
 
