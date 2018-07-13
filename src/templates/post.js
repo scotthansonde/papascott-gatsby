@@ -13,7 +13,7 @@ const RelatedPost = ({ type, slug, title, date }) => (
   </li>
 );
 
-export default ({ data, pathContext }) => {
+export default ({ data, pageContext }) => {
   const post = data.post;
   return (
     <Layout>
@@ -24,11 +24,11 @@ export default ({ data, pathContext }) => {
       </div>
       <div className="related">
         <ul className="related-posts">
-          {pathContext.prev ? (
-            <RelatedPost type="Previous" slug={pathContext.prev.fields.slug} title={pathContext.prev.fields.title} date={pathContext.prev.fields.date} />
+          {pageContext.prev ? (
+            <RelatedPost type="Previous" slug={pageContext.prev.fields.slug} title={pageContext.prev.fields.title} date={pageContext.prev.fields.date} />
           ) : null}
-          {pathContext.next ? (
-            <RelatedPost type="Next" slug={pathContext.next.fields.slug} title={pathContext.next.fields.title} date={pathContext.next.fields.date} />
+          {pageContext.next ? (
+            <RelatedPost type="Next" slug={pageContext.next.fields.slug} title={pageContext.next.fields.title} date={pageContext.next.fields.date} />
           ) : null}
         </ul>
       </div>

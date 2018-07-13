@@ -14,8 +14,8 @@ const NavLink = props => {
   }
 };
 
-export default ({ data, pathContext }) => {
-  const { group, index, first, last } = pathContext;
+export default ({ data, pageContext }) => {
+  const { group, index, first, last } = pageContext;
   const previousUrl = index - 1 == 1 ? "" : (index - 1).toString();
   const nextUrl = (index + 1).toString();
 

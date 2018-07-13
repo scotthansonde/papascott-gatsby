@@ -5,8 +5,8 @@ import Layout from "../components/layout";
 const Entities = require('html-entities').AllHtmlEntities;
 const entities = new Entities();
 
-export default function Archives({ pathContext }) {
-  const { posts, post, tag } = pathContext;
+export default function Archives({ pageContext }) {
+  const { posts, post, tag } = pageContext;
   
   if (tag) {
     return (
