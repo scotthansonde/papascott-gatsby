@@ -40,9 +40,9 @@ export default function Archives({ pageContext }) {
           const tags = posts[tagName];
           return (
             <li key={tagName}>
-              <GatsbyLink to={`/archives/${tagName.replace('Y','')}`}>
+              <Link to={`/archives/${tagName.replace('Y','')}`}>
               {tagName.replace('Y','')} 
-              </GatsbyLink>
+              </Link>
             </li>
           );
         })}
