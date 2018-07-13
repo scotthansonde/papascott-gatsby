@@ -3,8 +3,8 @@ const { createFilePath } = require("gatsby-source-filesystem");
 const createPaginatedPages = require("gatsby-paginate");
 const moment = require("moment");
 
-exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
-  const { createNodeField } = boundActionCreators;
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions;
   if (node.internal.type === "MarkdownRemark") {
     let basePath = "posts";
     if (node.frontmatter.layout === "page") {
@@ -102,8 +102,8 @@ const createArchivePages = (createPage, edges) => {
     });
 };
 
-exports.createPages = ({ graphql, boundActionCreators }) => {
-  const { createPage } = boundActionCreators;
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions;
   return new Promise((resolve, reject) => {
     graphql(`
       {
