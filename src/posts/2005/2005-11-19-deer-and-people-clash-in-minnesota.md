@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: Deer and people clash in Minnesota
 date: 2005-11-19 22:13:35.000000000 +01:00
 categories:
 - minnesota
