@@ -10,7 +10,7 @@
     "help": "gh-pages --help"
   },
   "dependencies": {
-    "gatsby": "2.0.0-beta.29",
+    "gatsby": "next",
     "gatsby-paginate": "^1.0.6",
     "gatsby-plugin-google-fonts": "0.0.3",
     "gatsby-remark-prismjs": "next",
