@@ -7,9 +7,12 @@ module.exports = {
   pathPrefix: "/",
   plugins: [
     {
-      resolve: `gatsby-plugin-google-fonts`,
+      resolve: `gatsby-plugin-web-font-loader`,
       options: {
-        fonts: [`PT+Serif\:400,400italic,700`, `PT+Sans\:400`]
+        google: {
+
+          families: [`PT+Serif\:400,400italic,700`, `PT+Sans\:400`]
+        }
       }
     },
     {

@@ -13,6 +13,7 @@
     "gatsby": "^2.0.0",
     "gatsby-paginate": "^1.0.6",
     "gatsby-plugin-google-fonts": "0.0.4",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-remark-prismjs": "^3.0.0",
     "gatsby-source-filesystem": "^2.0.1",
     "gatsby-transformer-json": "^2.1.1",
