@@ -10,16 +10,16 @@
     "help": "gh-pages --help"
   },
   "dependencies": {
-    "gatsby": "^2.0.0-rc.15",
+    "gatsby": "^2.0.0",
     "gatsby-paginate": "^1.0.6",
-    "gatsby-plugin-google-fonts": "0.0.3",
-    "gatsby-remark-prismjs": "^3.0.0-rc.2",
-    "gatsby-source-filesystem": "^2.0.1-rc.2",
-    "gatsby-transformer-json": "^2.1.1-rc.2",
-    "gatsby-transformer-remark": "^2.1.1-rc.1",
+    "gatsby-plugin-google-fonts": "0.0.4",
+    "gatsby-remark-prismjs": "^3.0.0",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-json": "^2.1.1",
+    "gatsby-transformer-remark": "^2.1.1",
     "prismjs": "^1.15.0",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0"
