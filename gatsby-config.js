@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`PT+Serif\:400,400italic`, `700%7CPT+Sans\:400`]
+        fonts: [`PT+Serif\:400,400italic,700`, `PT+Sans\:400`]
       }
     },
     {
