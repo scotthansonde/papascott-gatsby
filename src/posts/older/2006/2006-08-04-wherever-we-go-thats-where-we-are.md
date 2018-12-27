@@ -21,7 +21,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/foBRr-wjung" /><embed src="http://www.youtube.com/v/foBRr-wjung" type="application/x-shockwave-flash" width="425" height="350" /></object></p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/foBRr-wjung" /><embed src="https://www.youtube.com/v/foBRr-wjung" type="application/x-shockwave-flash" width="425" height="350" /></object></p>
 <p>Christopher fishing with Grandpa on his first day in Minnesota (<a href="http://www.youtube.com/watch?v=foBRr-wjung">direct link</a>).</p>
 <p>I'll have to take back all the bad things I've said about Northwest Airlines. Our flight from Amsterdam to Minneapolis was our best flight ever to the States. The A330 is comfortable even in coach, and the entertainment system kept Christopher well occupied. And entry through immigration and customs in Minneapolis was also the fastest we've experienced, 10 minutes including waiting for luggage.</p>
 <p><strong>Update</strong></p>

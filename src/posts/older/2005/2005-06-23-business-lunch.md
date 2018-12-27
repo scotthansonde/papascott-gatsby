@@ -18,5 +18,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.flickr.com/photos/lumma/21076983/" title="photo sharing"><img src="http://photos17.flickr.com/21076983_bfcc55a8f3_m.jpg" alt="" border="0" /></a></p>
+<p><a href="http://www.flickr.com/photos/lumma/21076983/" title="photo sharing"><img src="https://photos17.flickr.com/21076983_bfcc55a8f3_m.jpg" alt="" border="0" /></a></p>
 <p>Take a D&ouml;ner, remove the healthy parts (the bread and the salad), keep the meat and sauce, add fries and put into a paper cone. The result is <a href="http://lumma.de/eintrag.php?id=1790">D&ouml;nerchips</a>. Don't accept <a href="http://www.hebig.com/archives/003187.shtml">cheap imitations</a>.</p>

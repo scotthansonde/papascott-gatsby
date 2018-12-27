@@ -18,4 +18,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://flickr.com/photos/bdinphoenix/1357851/"><img src="http://photos2.flickr.com/1357851_6aec366e02_t.jpg" border="0" align="right" /></a>J&ouml;rg earnestly asks <a href="http://www.schockwellenreiter.de/2005/04/29.html#buzzwordalarm" title="Der Schockwellenreiter: Weblog-Archiv 29.04.2005">"What is an 'impact blog'?"</a> To me it's obvious... it's a blog that makes a <a href="http://www.meteorcrater.com/" title="Meteor Crater - Experience the Impact!">big hole</a>. Experience the impact!</p>
+<p><a href="http://flickr.com/photos/bdinphoenix/1357851/"><img src="https://photos2.flickr.com/1357851_6aec366e02_t.jpg" border="0" align="right" /></a>J&ouml;rg earnestly asks <a href="http://www.schockwellenreiter.de/2005/04/29.html#buzzwordalarm" title="Der Schockwellenreiter: Weblog-Archiv 29.04.2005">"What is an 'impact blog'?"</a> To me it's obvious... it's a blog that makes a <a href="http://www.meteorcrater.com/" title="Meteor Crater - Experience the Impact!">big hole</a>. Experience the impact!</p>

@@ -26,7 +26,7 @@ author:
 </tr>
 <tr height="268">
 <td width="299"></td>
-<td align="left" valign="top" width="75"><img src="http://is2.okcupid.com/graphics/politics_you.gif" border="0" /></td>
+<td align="left" valign="top" width="75"><img src="https://is2.okcupid.com/graphics/politics_you.gif" border="0" /></td>
 </tr>
 </tbody>
 </table>

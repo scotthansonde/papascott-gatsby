@@ -21,4 +21,4 @@ author:
   last_name: Hanson
 ---
 <p>The <a href="http://csr.blogs.mcdonalds.com/default.asp?item=259137">McDonald's Corporate Responsibility blog links</a> to this commercial (<a href="http://www.youtube.com/watch?v=aKdsScAEgmE">direct link</a>) currently running in the US, featuring the career of Karen King, President of McDonald's USA East Division. This could also have been Frauke's career, except she she started a few years later and thankfully missed out on the lime green crew uniform phase.</p>
-<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/aKdsScAEgmE" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/aKdsScAEgmE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>
+<p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/aKdsScAEgmE" /><param name="wmode" value="transparent" /><embed src="https://www.youtube.com/v/aKdsScAEgmE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object></p>

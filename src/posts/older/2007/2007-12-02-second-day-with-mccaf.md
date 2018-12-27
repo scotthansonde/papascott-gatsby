@@ -23,4 +23,4 @@ author:
 ---
 <p><a href="http://www.flickr.com/photos/papascott/2080031357/" title="CIMG0362 by PapaScott, on Flickr"><img src="https://farm3.static.flickr.com/2264/2080031357_3d08fa71cf.jpg" width="500" height="375" alt="CIMG0362" /></a></p>
 <p>We were so busy yesterday that we forgot to take pictures, but here's a set at Flickr with some outdoor and indoor views of our new look: <a href="http://www.flickr.com/photos/papascott/sets/72157603355394867/">Second Day with McCaf&eacute;</a>.</p>
-<p><iframe align="center" src="http://www.flickr.com/slideShow/index.gne?set_id=72157603355394867" frameBorder="0" "width=500" height="500" scrolling="no"></p>
+<p><iframe align="center" src="https://www.flickr.com/slideShow/index.gne?set_id=72157603355394867" frameBorder="0" "width=500" height="500" scrolling="no"></p>

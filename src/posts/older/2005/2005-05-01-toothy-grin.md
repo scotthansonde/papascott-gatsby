@@ -18,5 +18,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.flickr.com/photos/papascott/11741568/" title="Flickr"><img src="http://photos8.flickr.com/11741568_42cc2e8d10_m.jpg" border="0" width="240" height="180" alt="IMG_0206" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/11741568/" title="Flickr"><img src="https://photos8.flickr.com/11741568_42cc2e8d10_m.jpg" border="0" width="240" height="180" alt="IMG_0206" /></a></p>
 <p>Christopher lost his first tooth this morning. He was a bit frightened at first, but some ice cream took care of that. In Germany, by the way,  you save your baby teeth in a little box <em>(Zahndose)</em> instead of selling them to the tooth fairy.</p>

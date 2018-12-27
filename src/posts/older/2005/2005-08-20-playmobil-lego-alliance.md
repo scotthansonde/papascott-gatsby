@@ -18,6 +18,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.flickr.com/photos/papascott/35584210/" title="photo sharing"><img src="http://photos28.flickr.com/35584210_78f7984635_m.jpg" alt="" style="border: solid 0px #000000;" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/35584210/" title="photo sharing"><img src="https://photos28.flickr.com/35584210_78f7984635_m.jpg" alt="" style="border: solid 0px #000000;" /></a></p>
 <p>Woe is us, our enemies have banded together.</p>
 <p>In the background, the remains of O'Hare Airport....</p>

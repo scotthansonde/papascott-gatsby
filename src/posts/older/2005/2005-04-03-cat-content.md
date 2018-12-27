@@ -18,5 +18,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.flickr.com/photos/papascott/8304119/" title="Click for full-size version"><img src="http://photos6.flickr.com/8304119_7eb0d65cb6_m.jpg" width="240" height="180" alt="nena_content" border="0" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/8304119/" title="Click for full-size version"><img src="https://photos6.flickr.com/8304119_7eb0d65cb6_m.jpg" width="240" height="180" alt="nena_content" border="0" /></a></p>
 <p>In this case, the cat is <a href="http://www.flickr.com/photos/papascott/8304119/" title="Click for full-size version">content in the bird feeder</a>.</p>
