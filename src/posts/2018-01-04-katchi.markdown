@@ -2,7 +2,6 @@
 layout: post
 title: "Katchi"
 date: "2018-01-04 10:40:45 +0100"
-tags: ['tagged']
 ---
 It's time to start blogging again, and I can think of no better way to start than these lyrics from Nick Waterhouse...
 

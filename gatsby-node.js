@@ -70,10 +70,10 @@ const createArchivePages = (createPage, edges) => {
   //   });
 
   edges.forEach(({ node }) => {
-    
+
     [node.fields.tags].forEach(yr => {
       // let yr = `Y${moment(date).year().toString()}`;
-      
+
       if (!posts[yr]) { posts[yr] = [] }
       posts[yr].push(node.fields);
     })
@@ -109,7 +109,7 @@ exports.createPages = ({ graphql, actions }) => {
       {
         
         posts: allMarkdownRemark(
-          sort: { fields: [fileAbsolutePath], order: DESC }
+          sort: { fields: [frontmatter___date], order: DESC }
           filter: {
             frontmatter: { layout: { eq: "post" } }
           }
@@ -157,39 +157,39 @@ exports.createPages = ({ graphql, actions }) => {
       }
     `).then(result => {
 
-        const posts = result.data.posts.edges;
+      const posts = result.data.posts.edges;
 
-        createArchivePages(createPage, result.data.posts.edges);
+      createArchivePages(createPage, result.data.posts.edges);
 
-        createPaginatedPages({
-          edges: result.data.posts.edges.slice(0,3),
-          createPage: createPage,
-          pageTemplate: "src/templates/index.js",
-          pageLength: 3
-        });
-
-        result.data.posts.edges.map(({ node, next, previous }) => {
-          createPage({
-            path: node.fields.slug,
-            component: path.resolve("./src/templates/post.js"),
-            context: {
-              slug: node.fields.slug,
-              prev: next,
-              next: previous
-            }
-          });
-        });
-
-        result.data.pages.edges.map(({ node }) => {
-          createPage({
-            path: node.fields.slug,
-            component: path.resolve("./src/templates/page.js"),
-            context: {
-              slug: node.fields.slug
-            }
-          });
-        });
-        resolve();
+      createPaginatedPages({
+        edges: result.data.posts.edges.slice(0, 3),
+        createPage: createPage,
+        pageTemplate: "src/templates/index.js",
+        pageLength: 3
       });
+
+      result.data.posts.edges.map(({ node, next, previous }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/post.js"),
+          context: {
+            slug: node.fields.slug,
+            prev: next,
+            next: previous
+          }
+        });
+      });
+
+      result.data.pages.edges.map(({ node }) => {
+        createPage({
+          path: node.fields.slug,
+          component: path.resolve("./src/templates/page.js"),
+          context: {
+            slug: node.fields.slug
+          }
+        });
+      });
+      resolve();
+    });
   });
 };

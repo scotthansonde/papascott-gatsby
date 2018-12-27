@@ -14,16 +14,34 @@ images:
     title: Front Counter
 ---
 <ul class="photo-gallery">
-  {% for image in page.images%}
+  
     <li>
-      <a href="{{ image.image_path }}" data-lightbox="1" title="{{ image.title }}">
-        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      <a href="/assets/gallery/rdz-win3.jpg" data-lightbox="1" title="Kiosks">
+        <img src="/assets/gallery/rdz-win3.jpg" alt="Kiosks" />
       </a>
     </li>
-  {% endfor %}
+  
+    <li>
+      <a href="/assets/gallery/rdz-win1.jpg" data-lightbox="1" title="Front Counter and McCafé">
+        <img src="/assets/gallery/rdz-win1.jpg" alt="Front Counter and McCafé" />
+      </a>
+    </li>
+  
+    <li>
+      <a href="/assets/gallery/rdz-win2.jpg" data-lightbox="1" title="McCafé Lounge with 'Broken' Logo">
+        <img src="/assets/gallery/rdz-win2.jpg" alt="McCafé Lounge with 'Broken' Logo" />
+      </a>
+    </li>
+  
+    <li>
+      <a href="/assets/gallery/rdz-win4.jpg" data-lightbox="1" title="Front Counter">
+        <img src="/assets/gallery/rdz-win4.jpg" alt="Front Counter" />
+      </a>
+    </li>
+  
 </ul>
 
-Last fall we converted our restaurant in Dibbersen into a [Restaurant of the Future]({% post_url 2016-11-06-the-future-is-now %}). Now we've remodeled our Hamburg, Winsener Straße restaurant so now we have doubled the future!
+Last fall we converted our restaurant in Dibbersen into a [Restaurant of the Future](/archives/2016/11/07/the-future-is-now/). Now we've remodeled our Hamburg, Winsener Straße restaurant so now we have doubled the future!
 
 The lobby here has a more urban theme that fits our gritty part of Hamburg. I was worried it would be too dark, but the spots of color make it look brighter live than it appears in the photos.
 

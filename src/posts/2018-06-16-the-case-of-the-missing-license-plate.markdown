@@ -15,6 +15,6 @@ Driving a car with a missing license plate is illegal, of course, so first we ha
 
 The car is leased, so we don't have the original papers. They have to be sent to the DMV by the leasing company which should take 2 or 3 days but actually took 2 weeks. (After one failed trip to the DMV we found out you can call to check if the papers are in without standing in line.) But finally this week after 100€ in costs and a new frame we have a new lovingly chosen number for our Kadjar.
 
-Meanwhile our son is busy with a 4-week internship at a local metal shop (required for his chosen college major, aerospace engineering), so we have the Kadjar for ourselves. But just the other day, my wife came home with the admission that she had dented the new license plate! But is the frame OK, I asked, since that's how we lost the old plate! To which our son replied, I know, I broke the frame on the Kadjar back in March, but it did hold for two months after that.
+Meanwhile our son is busy with a 4-week internship at a local metal shop (required for his chosen college major, aerospace engineering), so we have the Kadjar for ourselves. But just the other day, my wife came home with the admission that she had dented the new license plate! But is the frame OK, I asked, since that's how we lost the old plate! To which our son replied, I know, I broke the frame on the Kadjar back in March, but the frame did hold up for two months after that, didn't it?
 
 Which solved the Mystery of the Missing License Plate.

@@ -10,7 +10,6 @@ module.exports = {
       resolve: `gatsby-plugin-web-font-loader`,
       options: {
         google: {
-
           families: [`PT+Serif\:400,400italic,700`, `PT+Sans\:400`]
         }
       }

@@ -13,8 +13,8 @@ import "../css/ps.css";
 // const archives = _.rangeRight(1999, new Date().getFullYear()+1);
 
 export default ({ children }) => (
-  <StaticQuery 
-    query = {graphql`
+  <StaticQuery
+    query={graphql`
       query SidebarQuery {
         site {
           siteMetadata {
@@ -22,7 +22,7 @@ export default ({ children }) => (
             desc
           }
         }
-        archives: allMarkdownRemark(sort: {fields: [fileAbsolutePath], order: DESC}, filter: {frontmatter: {layout: {eq: "post"}}}) {
+        archives: allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {layout: {eq: "post"}}}) {
           edges {
             node {
               fields {
@@ -47,7 +47,7 @@ export default ({ children }) => (
       }
       
     `}
-    render = {data => {
+    render={data => {
       const allYears = data.archives.edges.map(item => item.node.fields.tags.replace('Y', ''));
       const archives = _.uniq(allYears);
       // console.log(archives);  
@@ -63,7 +63,8 @@ export default ({ children }) => (
           </div>
           <label htmlFor="sidebar-checkbox" className="sidebar-toggle"></label>
         </div>
-      
-    )}}
+
+      )
+    }}
   />
 )

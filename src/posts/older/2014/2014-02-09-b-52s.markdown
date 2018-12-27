@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: B-52's
+author:
+  display_name: PapaScott
+  login: root
+  email: papascott@gmail.com
+  url: https://www.papascott.de/
+author_login: root
+author_email: papascott@gmail.com
+author_url: https://www.papascott.de/
+wordpress_id: 17776
+wordpress_url: https://www.papascott.de/?p=17776
+date: '2014-02-09 09:39:32 +0100'
+date_gmt: '2014-02-09 08:39:32 +0100'
+---
+<p><iframe width="450" height="253" src="//www.youtube-nocookie.com/embed/9SOryJvTAGs?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<p>EXCLUSIVE CONTENT: I've hidden my birthday on Facebook, but you might be able to guess my new age from the title of this post.</p>

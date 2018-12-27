@@ -4,7 +4,7 @@ title: "How to build 3000 pages in Jekyll in less than 4 seconds"
 date: "2016-04-25 09:24:47 +0200"
 ---
 
-Last year I converted my Wordpress blog to [Jekyll](http://jekyllrb.com/). My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I [mentioned then](http://www.papascott.de/archives/2015/04/30/see-what-sticks/) that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.
+Last year I converted my Wordpress blog to [Jekyll](http://jekyllrb.com/). My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I [mentioned then](https://www.papascott.de/archives/2015/04/30/see-what-sticks/) that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.
 
 Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that's still too long to wait.
 

@@ -2,7 +2,6 @@
 layout: post
 date: 2018-01-17T10:26:29.830Z
 title: Hard to Get
-tags: ['tagged']
 ---
 You'd think in the current German coalition talks that the SPD could at least **play** hard to get.
 
