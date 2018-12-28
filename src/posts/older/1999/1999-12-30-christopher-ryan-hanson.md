@@ -21,7 +21,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/crh3.jpg" height="300" width="400" border="0" alt="crh3.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/crh3.jpg" height="300" width="400" border="0" alt="crh3.jpg: " /></p>
 <p>A tough day today for the new mother and son. Are the baby blues setting in already? Or are we as new parents just unsure of ourselves? Is nursing really supposed to be such a struggle? </p>
 <p>It took me a couple of days before I was ready to write a story about <a href="http://shanson.editthispage.com/stories/storyReader$50">Birthing Christopher</a>. Participating in the birth as a father is very psychologically draining. </p>
 <p>There's a new round of Christopher pictures at <a href="http://www.ofoto.com/i.cfm?m=864301102&n=3490345">Ofoto</a> (registration required). I'm still learning how to use the digital camera. I don't feel comfortable using flash in the hospital, but in low light without flash, some pictures are very blurry.</p>

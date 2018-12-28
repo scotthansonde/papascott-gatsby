@@ -22,4 +22,4 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2668895242" title="View 'CIMG0525' on Flickr.com"><img src="https://farm4.static.flickr.com/3073/2668895242_63b8e222fb.jpg" alt="CIMG0525" border="0" width="500" height="375" /></a></p>
-<p>Christopher and Frauke at the beach in Cuxhaven. No <a href="https://www.papascott.de/archives/2008/07/11/viking-camp/">Viking battles</a> were fought, and while the sun shone seldom, it did shine.</p>
+<p>Christopher and Frauke at the beach in Cuxhaven. No <a href="/archives/2008/07/11/viking-camp/">Viking battles</a> were fought, and while the sun shone seldom, it did shine.</p>

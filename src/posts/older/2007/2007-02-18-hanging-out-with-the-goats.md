@@ -23,4 +23,4 @@ author:
 ---
 <p><a href="http://www.flickr.com/photos/papascott/394292135/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/176/394292135_b92874bf52.jpg" width="500" height="375" alt="18022007071" /></a></p>
 <p>This afternoon was sunny, so we took a trip to the animal park in Nindorf so Christopher could hang out with the goats.</p>
-<p>Yes, we did pretty much <a href="https://www.papascott.de/archives/2006/02/27/karneval-in-nindorf/">the same thing a year ago</a>.</p>
+<p>Yes, we did pretty much <a href="/archives/2006/02/27/karneval-in-nindorf/">the same thing a year ago</a>.</p>

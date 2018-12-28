@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/03/crh0324.jpg" height="386" width="300" border="0" alt="crh0324.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/03/crh0324.jpg" height="386" width="300" border="0" alt="crh0324.jpg: " /></p>
 <p>Friday morning. Christopher has just had breakfast, but I haven't.</p>
 <p><a href="http://www.montechamber.com/pwaters/lqpwma.htm"><img src="/images/mausnews/geese.jpg" align="right" border="0" /></a> When Dave talks about his <a href="http://scriptingnews.userland.com/pictures/viewer$483">honkers</a> on "Scripting News", I can't help but think of the <a href="http://www.montechamber.com/pwaters/lqpwma.htm">Lac qui Parle Wildlife Management Area</a>, near where I grew up in Minnesota. Every fall 150,000 Canadian 'honkers' stop here on their way south. <i>It's loud!</i></p>
 <p>Susan has some pictures of <a href="http://2020hindsight.editthispage.com/2000/03/23">The Oldest Operating McDonald's</a></p>

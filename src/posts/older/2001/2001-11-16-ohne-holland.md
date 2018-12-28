@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/11/crhhoover.jpg" height="342" width="325" border="0" alt="crhhoover.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/11/crhhoover.jpg" height="342" width="325" border="0" alt="crhhoover.jpg: " /></p>
 <p>Christopher just rolled out the vacuum cleaner, pulled out the cord, plugged it into an supposedly child-proofed socket, turned it on, and started vacuuming. </p>
 <p>Dave's Picks: <a href="http://davespicks.com/misc/mightbefrommn.html">You might be from Minnesota if....</a>  Despite being away for so long, I answered almost all of these correctly. Scary.</p>
 <p>There are times when a book is better than the web. I wanted to check up on Perl's  "|=" operator... but try search for that on <a href="http://www.google.com/search?q=PapaScott&btnG=Google+Search">Google</a>!<br />

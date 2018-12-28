@@ -23,5 +23,5 @@ author:
   last_name: Hanson
 ---
 <p>I've been in Germany too long to be really shocked by anything anymore, but last night I had to let my jaw drop. Christopher was watching the Disney-owned TV channel SuperRTL, which was showing a Christmas special from the cartoon <a href="http://en.wikipedia.org/wiki/Recess_(TV_series)">"Recess"</a>. According to the German dub, this boy was dressed as a "Christmas Tree" (screenshot from <a href="http://www.youtube.com/watch?v=IQGJbGeccl8">YouTube</a>).</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2009/12/recess_xmas.png" alt="TJ dressed as a menorah" border="0" width="450" height="288" /></p>
+<p><img src="/wordpress/wp-content/uploads/2009/12/recess_xmas.png" alt="TJ dressed as a menorah" border="0" width="450" height="288" /></p>
 <p>I'm assuming the cause was ignorance rather than anti-Semitism, since I'm sure TV shows are translated quickly rather than carefully. But then again, you never know...</p>

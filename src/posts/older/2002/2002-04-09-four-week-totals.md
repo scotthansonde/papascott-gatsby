@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>For those keeping <a href="https://www.papascott.de/2002/04/02/index.php#001683">score</a>, I lost 1.8 kg the past week, for a 4 week total of 5.1 kg. Excuse me while I finish my bottle of lemon mineral water.</p>
+<p>For those keeping <a href="/2002/04/02/index.php#001683">score</a>, I lost 1.8 kg the past week, for a 4 week total of 5.1 kg. Excuse me while I finish my bottle of lemon mineral water.</p>

@@ -21,5 +21,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.flickr.com/photos/papascott/510374606/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/05/bergedorf-mcdonalds-1991.jpg" alt="bergedorf mcdonalds 1991" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/510374606/"><img src="/wordpress/wp-content/uploads/2007/05/bergedorf-mcdonalds-1991.jpg" alt="bergedorf mcdonalds 1991" /></a></p>
 <p>"At the McDrive a dream came true": Newspaper article on the opening of McDrive restaurant in Hamburg-Bergedorf, 1991</p>

@@ -17,6 +17,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>In defence of the <a href="https://www.papascott.de/2003/11/13/2701.php">Roadster</a> incident, MamaMaus offers this picture (taken for insurance purposes) of the gas pump in question, which at the bottom carries a V-Power sticker on the <em>diesel</em> side of the pump. Therefore, at first glance, it is not totally stupid to believe that V-Power is some sort of souped-up diesel.</p>
+<p>In defence of the <a href="/2003/11/13/2701.php">Roadster</a> incident, MamaMaus offers this picture (taken for insurance purposes) of the gas pump in question, which at the bottom carries a V-Power sticker on the <em>diesel</em> side of the pump. Therefore, at first glance, it is not totally stupid to believe that V-Power is some sort of souped-up diesel.</p>
 <p><img alt="vpowerpump.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/11/vpowerpump.jpg" width="244" height="325" border="0" /></p>
 <p>It will be interesting to see who ends paying for the damage. Unless, of course, it comes out of our pocket, in which case it would be not interesting, but tragic.</p>

@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/05/crh0525.jpg" height="369" width="350" border="0" alt="crh0525.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/05/crh0525.jpg" height="369" width="350" border="0" alt="crh0525.jpg: " /></p>
 <p>At Christopher's baptism dinner, Mama ran into an old school friend who just happened to be eating at the same restaurant. He's now a physician in Hamburg and lives just a couple of villages away and raises horses. Christopher and Mama went visiting last evening, but they sent me a picture of a <a href="http://shanson.editthispage.com/pictures/viewer$249">new foal</a>.</p>

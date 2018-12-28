@@ -20,5 +20,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.bestweekever.tv/2006/09/29/sorry-wheaties-champions-have-a-new-breakfast/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/09/microwave_chocolate_chip_pancakes_and_sausage_on_a_stick.jpg" alt="Microwave Chocolate-Chip Pancakes and Sausage on a Stick" /></a></p>
+<p><a href="http://www.bestweekever.tv/2006/09/29/sorry-wheaties-champions-have-a-new-breakfast/"><img src="/wordpress/wp-content/uploads/2006/09/microwave_chocolate_chip_pancakes_and_sausage_on_a_stick.jpg" alt="Microwave Chocolate-Chip Pancakes and Sausage on a Stick" /></a></p>
 <p>No comment.</p>

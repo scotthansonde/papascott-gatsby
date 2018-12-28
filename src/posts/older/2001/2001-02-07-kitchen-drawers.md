@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/02/crh060201.jpg" height="333" width="250" border="0" alt="crh060201.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/02/crh060201.jpg" height="333" width="250" border="0" alt="crh060201.jpg: " /></p>
 <p>I'm sure in a couple of weeks we'll no longer think that this is funny or cute. If we were smart parents, we wouldn't have rewarded such behavior by laughing and getting out the camera. But we did, and I'm sure we will suffer the consequences.</p>

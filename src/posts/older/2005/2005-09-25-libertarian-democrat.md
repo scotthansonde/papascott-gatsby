@@ -16,7 +16,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>A lot of people are trying the <a href="http://www.okcupid.com/politics">the politics test</a>. The German <a href="http://www.wahlomat.de/">Wahl-O-Mat</a> called me a <a href="https://www.papascott.de/archives/2005/08/26/wahl-o-mat/">Green Neo-Liberal</a>, this test calls me a Libertarian Democrat.</p>
+<p>A lot of people are trying the <a href="http://www.okcupid.com/politics">the politics test</a>. The German <a href="http://www.wahlomat.de/">Wahl-O-Mat</a> called me a <a href="/archives/2005/08/26/wahl-o-mat/">Green Neo-Liberal</a>, this test calls me a Libertarian Democrat.</p>
 <blockquote><p>You are a Social Liberal (85% permissive) and an Economic Conservative (66% permissive) You are best described as a: <b>Libertarian</b>.  You exhibit a very well-developed sense of Right and Wrong and believe in economic fairness.</p></blockquote>
 <table id="thetable" name="thetable" background="http://is2.okcupid.com/graphics/politics/chart_political.gif" border="0" cellpadding="0" cellspacing="0" height="375" width="375">
 <tbody>

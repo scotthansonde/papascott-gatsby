@@ -20,6 +20,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.mcdonalds-nordheide.de/2008/09/easy-morning-fruehstueckskarte/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/10/screenshot-sm.jpg" alt="screenshot_sm.jpg" border="0" width="225" height="327" /></a></p>
+<p><a href="http://www.mcdonalds-nordheide.de/2008/09/easy-morning-fruehstueckskarte/"><img src="/wordpress/wp-content/uploads/2008/10/screenshot-sm.jpg" alt="screenshot_sm.jpg" border="0" width="225" height="327" /></a></p>
 <p>We finally have a list of our <a href="http://www.mcdonalds-nordheide.de/2008/09/easy-morning-fruehstueckskarte/">new breakfast products</a> online (also <a href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2008/10/Menuekarte_Fruehstueck.pdf">as PDF</a>), for those of you that can't make it to our restaurant and have been wondering what all the fuss is about. The text and pictures are from the menu cards we've had on the tables since September,</p>
 <p>Since the new breakfast for now is only available in northern Germany, the national McDonald's website doesn't mention any of the new products yet (although they do have a <a href="http://www.mcdonalds.de/presse/index.php?pressid=266">press release</a>). We usually link to them for product information, but this time we had to rely on ourselves (and my graphic "talent" in cutting and pasting from a PDF).</p>

@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/03/20000304010.jpg" height="262" width="350" border="0" alt="crh0304.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/03/20000304010.jpg" height="262" width="350" border="0" alt="crh0304.jpg: " /></p>
 <p>Fortune: <a href="http://www.fortune.com/fortune/2000/03/06/ste.html">Hard Times: A Letter from 2035</a> (via <a href="http://slashdot.org">slashdot</a>)</p>
 <p>CNNSI <a href="http://cnnsi.com/soccer/world/news/2000/03/03/german_roundup_ap/">Hamburg held to 4-4 draw</a> (they blew1 lead in Wolfsburg), but <a href="http://cnnsi.com/soccer/world/news/2000/03/04/german_roundup/">Bayern falls in Matthäus' Bundesliga goodbye</a>. Lothar Matthäus is leaving Munich to play in the US for the MetroStars. He enjoys the sound of his own voice. Fans in New York should be glad that he can't speak English yet.</p>
 <p>Via <a href="http://cuwu.editthispage.com/">curmudgeon</a>:  "Are Europeans more mature than Americans? In an exchange between Kate Adams ("brdbrain") and Andrea Frick ("andrea"), Kate mentioned that Europeans are more mature, and Andrea thought that was strange."</p>

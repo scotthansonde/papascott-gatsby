@@ -20,6 +20,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>I was just directed to make the <a href="https://www.papascott.de/archives/2002/09/09/young-dumb-and-excited/">same blog posting</a>* that I make every year on this date (or <a href="https://www.papascott.de/archives/2006/09/10/23rd-anniversary/">close to it</a>). Ok, here it is.</p>
+<p>I was just directed to make the <a href="/archives/2002/09/09/young-dumb-and-excited/">same blog posting</a>* that I make every year on this date (or <a href="/archives/2006/09/10/23rd-anniversary/">close to it</a>). Ok, here it is.</p>
 <p>Let it be known that I gave my wife <a href="http://paulaner.de/home.html">20 beautiful flowers</a> from a meadow <a href="http://en.wikipedia.org/wiki/Oktoberfest">(<em>Wiesn</em>)</a> in Munich. I would have bought 24, but the 0.5 liter bottles came only in a case of 20.</p>
 <p>&#42;The bride now requests that the posting from 2002 be corrected from "she arrived in July, with ... nothing in her pocket" to "she arrived in July, with ... just $2000 in her pocket" (earned by delivering the Sunday papers <em>Bild am Sonntag</em> and <em>Welt am Sonntag</em>). It doesn't make any difference, by September the money was spent.</p>

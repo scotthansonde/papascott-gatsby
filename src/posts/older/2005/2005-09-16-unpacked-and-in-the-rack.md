@@ -22,6 +22,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/fotos//4dells.JPG" border="0" height="240" width="320" alt="4dells.JPG" /></p>
+<p><img src="/fotos//4dells.JPG" border="0" height="240" width="320" alt="4dells.JPG" /></p>
 <p>Just so Nico knows that I take good care of the <a href="http://lumma.de/eintrag.php?id=2047" title="Hochkantserver [Lummaland - das Weblog]">toys</a> he buys for me. The bottom two are a week old, the top two are new today. (The locks are just for show, the keys are all in the glove compartment.)</p>
 <p>This is my first experience with Dell servers. They are nice and easy to install, I'll take more anytime.</p>

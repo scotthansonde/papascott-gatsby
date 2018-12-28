@@ -22,4 +22,4 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.flickr.com/photos/papascott/330859523/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/151/330859523_f02e956099.jpg" width="500" height="375" alt="IMG 1862" /></a></p>
-<p>Christopher is ready for the dress rehearsal of our <a href="https://www.papascott.de/archives/2006/12/12/could-those-be-angels/">church Christmas program</a>.</p>
+<p>Christopher is ready for the dress rehearsal of our <a href="/archives/2006/12/12/could-those-be-angels/">church Christmas program</a>.</p>

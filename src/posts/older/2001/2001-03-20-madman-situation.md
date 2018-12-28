@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/03/office.jpg" height="244" width="325" border="0" alt="office.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/03/office.jpg" height="244" width="325" border="0" alt="office.jpg: " /></p>
 <p>Instead of quoting random songs in my page titles, I think I quote the same <a href="http://www.mandymoore4always.org/sugababes/overload.html">song</a> for a few days, at least until I get tired of it. Americans probably won't recognize it, since the <a href="http://www.uk.bol.com/cec/cstage?ecaction=bolprditmview&PrdId=1000002001773781">Sugababes</a> haven't arrived there yet.</p>
 <p>My employer's semi-relaunch went off without a hitch last night. To roll out the new logo for CeBIT, we basically bolted the agency's new navigation onto the old content. In a couple weeks we'll get it done right. I'm no designer, but to my eye the site looks alright. There's an awful lot of JavaScript, though.</p>
 <p>As new parents, you can find all sorts of timetables and milestones your child should be reaching, and you might even take some of them seriously. Christopher is now 15 months old, an age at which 90% of children can walk. He's in the other 10%. He's almost there, but other than a breathless half-step from the couch to the coffee table, he's not walking. He's big for his age, and his coordination needs to catch up to his size, so we're not at all worried. </p>

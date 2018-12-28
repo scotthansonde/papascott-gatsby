@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/01/crhescape.jpg" height="244" width="325" border="0" alt="crhescape.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2002/01/crhescape.jpg" height="244" width="325" border="0" alt="crhescape.jpg: " /></p>
 <p>This is a sad day for humanity. Christopher can now crawl out the crib by himself. Nobody is safe anymore. Nobody.</p>
 <p>My brother Steve turns 36 today... Happy Birthday!</p>
 <p>On the Euro front, my last DM coins are now gone, and my last outdated currency is a single 50 DM note. <a href="http://www.faz.com/IN/INtemplates/eFAZ/docmain.asp?rub=&#123;B1311FCC-FBFB-11D2-B228-00105A9CAF88&#125;&doc=&#123;0A8FA8E3-017E-4C42-8ED3-84D9DC903CC0&#125;">German banks are packed</a>, much more than expected, full with people willing to wait hours to change all the cash in their wallet at once and be done with it. </p>

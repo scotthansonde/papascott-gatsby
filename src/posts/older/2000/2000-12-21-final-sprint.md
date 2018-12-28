@@ -22,4 +22,4 @@ author:
 <p>I've also been practicing working early shifts. 7:30 is a lonely time at the office, especially for a sys admin.</p>
 <p>In anticipation of working several hours a week at home, I've bought a used notebook... an IBM ThinkPad 390X. Now we just need to come up with a way to wire our network into the living room... or is wireless the way to go?</p>
 <p>In anticipation of once again driving a company car, Mama has put an ad in Annoncen Avis to sell the Mama Auto. If anyone is interested in a red Fiat Seicento, just let us know.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/12/crhauto.jpg" height="333" width="250" border="0" alt="crhauto.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/12/crhauto.jpg" height="333" width="250" border="0" alt="crhauto.jpg: " /></p>

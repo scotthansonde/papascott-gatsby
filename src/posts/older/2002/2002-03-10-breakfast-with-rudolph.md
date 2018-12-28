@@ -17,4 +17,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/03/crhbreakfast.jpg" height="244" width="325" border="0" alt="crhbreakfast.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2002/03/crhbreakfast.jpg" height="244" width="325" border="0" alt="crhbreakfast.jpg: " /></p>

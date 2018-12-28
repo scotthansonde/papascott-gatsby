@@ -26,4 +26,4 @@ author:
 <p>Heiko Hebig: What is the best and the worst thing to happen as the result of your weblog? Maybe something we can all think about.</p>
 <p>Scott Hanson: Do spammers have freedom of expression?</p>
 <p>Mu Zimei: Charity blogs: a way for blogs to make a real difference?</p>
-<p>(And at this point the live blogging ended. More posts on the evening are <a href="https://www.papascott.de/archives/2004/11/23/">here</a>.</p>
+<p>(And at this point the live blogging ended. More posts on the evening are <a href="/archives/2004/11/23/">here</a>.</p>

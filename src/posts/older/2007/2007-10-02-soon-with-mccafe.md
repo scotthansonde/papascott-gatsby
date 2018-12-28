@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/10/demnachst.jpg" alt="demna&#776;chst.jpg" border="0" width="450" height="636" /></p>
+<p><img src="/wordpress/wp-content/uploads/2007/10/demnachst.jpg" alt="demna&#776;chst.jpg" border="0" width="450" height="636" /></p>
 <p>The remodeling won't start for another 6 weeks, but our first in-store posters are on their way.</p>

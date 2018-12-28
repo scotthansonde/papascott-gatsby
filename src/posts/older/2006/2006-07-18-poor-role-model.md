@@ -20,7 +20,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.amazon.com/gp/product/0836218256"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/07/drooling.jpeg" alt="drooling" /></a></p>
+<p><a href="http://www.amazon.com/gp/product/0836218256"><img src="/wordpress/wp-content/uploads/2006/07/drooling.jpeg" alt="drooling" /></a></p>
 <p>When Christopher was born, his uncle gave him a framed print of <a href="http://en.wikipedia.org/wiki/Calvin_and_Hobbes">Calvin and Hobbes</a> for his bedroom.</p>
 <p>This week Christopher discovered a <a href="http://www.amazon.com/gp/product/0836218256">book</a> to go along with with his print.</p>
 <p>I think he's just found a very poor role model. I suspect that was his uncle's plan all along.</p>

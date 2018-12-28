@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/12/snow122000.jpg" height="225" width="300" border="0" alt="snow122000.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/12/snow122000.jpg" height="225" width="300" border="0" alt="snow122000.jpg: " /></p>
 <p>It's snowing again today, so we still have our fresh white landscape in the backyard. Northern Germany usually gets snow only every 7 years. This is now our second year in a row.</p>

@@ -17,8 +17,8 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://Mama.editthispage.com"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/06/crazyboys.jpg" height="262" width="350" alt="crazyboys.jpg: " border="0" /></a>
-<p><a href="http://Mama.editthispage.com"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/06/20000518014.jpg" height="133" width="100" align="right" onmouseout="this.src='http://static.userland.com/images/mausnews/20000518014.jpg'" onmouseover="this.src='http://static.userland.com/images/mausnews/20000518013.jpg'" alt="crh0518bThumb.jpg: " border="0" /></a>Hey, cool, a <a href="http://macros.userland.com/basic/pictureRef">pictureRef</a> macro! Does it work yet? Yes, it seems to (although Netscape doesn't like the rollover).</p>
+<p><a href="http://Mama.editthispage.com"><img src="/wordpress/wp-content/uploads/2000/06/crazyboys.jpg" height="262" width="350" alt="crazyboys.jpg: " border="0" /></a>
+<p><a href="http://Mama.editthispage.com"><img src="/wordpress/wp-content/uploads/2000/06/20000518014.jpg" height="133" width="100" align="right" onmouseout="this.src='http://static.userland.com/images/mausnews/20000518014.jpg'" onmouseover="this.src='http://static.userland.com/images/mausnews/20000518013.jpg'" alt="crh0518bThumb.jpg: " border="0" /></a>Hey, cool, a <a href="http://macros.userland.com/basic/pictureRef">pictureRef</a> macro! Does it work yet? Yes, it seems to (although Netscape doesn't like the rollover).</p>
 <p><b>Music</b></p>
 <p><a href="http://wmf.editthispage.com/">Wes</a> mentions "The Man Who" from Travis, which has apparently just been released in the States. I got this for my birthday in February from my brother-in-law Roland. Mama's comment: "It's not wierd like the other CDs he gives you."</p>
 <p>If McDonald's can sell Big Macs around the world, why can't record companies manage to release music to both the US and Europe?</p>

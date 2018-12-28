@@ -16,7 +16,7 @@ wordpress_url: https://www.papascott.de/?p=4739
 date: '2012-05-16 10:16:29 +0200'
 date_gmt: '2012-05-16 08:16:29 +0200'
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2012/05/twoglasses.jpg"  alt="Two Glasses"  border="0"  width="500"  height="145" /></p>
+<p><img src="/wordpress/wp-content/uploads/2012/05/twoglasses.jpg"  alt="Two Glasses"  border="0"  width="500"  height="145" /></p>
 <p>One of the joys of getting older is deteriorating eyesight. Having been near-sighted all my life, my near vision is now getting worse so that I'm now in effect no-sighted.</p>
 <p>I have experienced the joy of bifocals for the past couple of years, and have learned to unconsciously tilt my head to the appropriate angle for looking things near and far. Things in the middle (i.e. somewhat beyond arm's length) are problematic, since they are in the transition zone of the lens and one can only focus on a thin horizontal stripe at one time. That makes it difficult to look at a larger surface, like, say, a computer screen, without constantly bobbing one's head to continually adjust the angle.</p>
 <p>But modern optometry has the solution: a separate set of computer glasses focused at the distance between your eyes and the monitor. Voilà! I could see the entire screen at once for the first time in ages! However, every medical wonder has a dark side. Or multiple dark sides. The first is having to keep track of two pairs of glasses. Given that one can only wear one pair at a time on one's face, the other pair is always someplace else, and that someplace else is never the same place where one needs them. (I have an app to ping my iPhone when I've misplaced it. There is no such app to ping my glasses.)</p>

@@ -19,5 +19,5 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.flickr.com/photos/papascott/68949023/" title="Photo Sharing"><img src="https://static.flickr.com/6/68949023_390b39cb4b_m.jpg" width="240" height="180" alt="IMG_0469" /></a></p>
-<p>Hey, for <a href="https://www.papascott.de/archives/2005/04/03/cat-content/">Nena</a> it looks like the Nikolaus came early!</p>
+<p>Hey, for <a href="/archives/2005/04/03/cat-content/">Nena</a> it looks like the Nikolaus came early!</p>
 <p>Actually, I'm sure she brought the present herself and left it at the front door. It's been there all night, since none of us felt like picking it up last night, so it must be frozen solid by now.</p>

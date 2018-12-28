@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>I've now tried twice to write a post about the current situation at work, one week before <a href="https://www.papascott.de/archives/2004/08/03/black-thursday/">Black Thursday</a>. But the suspense is just too great to reveal any details. Will the bad guys succeed with their evil plan? Will the good guys triumph in the end? All possibilities are open, and it makes no sense to post any details until the outcome is known next week.</p>
+<p>I've now tried twice to write a post about the current situation at work, one week before <a href="/archives/2004/08/03/black-thursday/">Black Thursday</a>. But the suspense is just too great to reveal any details. Will the bad guys succeed with their evil plan? Will the good guys triumph in the end? All possibilities are open, and it makes no sense to post any details until the outcome is known next week.</p>
 <p>This is no longer just a soap opera, this is a movie serial. It's all the more exciting because, unlike a movie, it's by no means clear that the good guys will win in the end.</p>

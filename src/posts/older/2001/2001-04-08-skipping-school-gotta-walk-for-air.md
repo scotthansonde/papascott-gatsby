@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/banana.jpg" height="244" width="325" border="0" alt="banana.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/04/banana.jpg" height="244" width="325" border="0" alt="banana.jpg: " /></p>
 <p>The banana man.</p>

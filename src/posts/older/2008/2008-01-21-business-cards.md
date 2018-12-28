@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/01/visitenkarte.jpg" alt="visitenkarte.jpg" border="0" width="500" height="295" /></p>
+<p><img src="/wordpress/wp-content/uploads/2008/01/visitenkarte.jpg" alt="visitenkarte.jpg" border="0" width="500" height="295" /></p>
 <p>I finally got around to ordering business cards.</p>

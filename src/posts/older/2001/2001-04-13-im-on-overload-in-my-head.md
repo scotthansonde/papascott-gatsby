@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/splashday.jpg" height="244" width="325" border="0" alt="splashday: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/04/splashday.jpg" height="244" width="325" border="0" alt="splashday: " /></p>
 <p><i>Since today is a holiday we moved up Christopher's  weekly bathday. He didn't mind and splashed at his best.</i></p>
 <p><a href="http://www.dangerousmeta.com/">Garret</a>, my windows telnet client of choice is <a href="http://hp.vector.co.jp/authors/VA002416/teraterm.html">TeraTerm Pro</a>. It's clean, free, and has an <a href="http://www.zip.com.au/~roca/ttssh.html">SSH extension</a>.</p>
 <p>6:45 am on a holiday, and Christopher is already awake. I thought we wore him yesterday so we could sleep in.</p>

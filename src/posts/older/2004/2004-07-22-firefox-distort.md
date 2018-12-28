@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/07/pm_distort.gif" alt="" /></p>
+<p><img src="/wordpress/wp-content/uploads/2004/07/pm_distort.gif" alt="" /></p>
 <p>Is it just me, or does Firefox 0.9x on OS X distort the display of certain .gif images?</p>

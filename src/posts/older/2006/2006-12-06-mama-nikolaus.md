@@ -20,7 +20,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>We once again celebrated the Nikolaus holiday <a href="https://www.papascott.de/archives/2004/12/05/american-nikolaus/">in American fashion</a>, with a Christmas stocking instead of a shoe. As Christopher was enjoying his present before getting ready for school, he suddenly asked:</p>
+<p>We once again celebrated the Nikolaus holiday <a href="/archives/2004/12/05/american-nikolaus/">in American fashion</a>, with a Christmas stocking instead of a shoe. As Christopher was enjoying his present before getting ready for school, he suddenly asked:</p>
 <blockquote><p>
   Mama, were you the Nikolaus?
 </p></blockquote>

@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.tierschutzverein-lueneburg.de/vermittlung.php?rubrik=Katzen" title="Emilia's Homepage at Tierschutzverein L&#252;neburg"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/05/emilia.jpg" height="158" width="320" border="0" alt="emilia" /></a></p>
+<p><a href="http://www.tierschutzverein-lueneburg.de/vermittlung.php?rubrik=Katzen" title="Emilia's Homepage at Tierschutzverein L&#252;neburg"><img src="/wordpress/wp-content/uploads/2004/05/emilia.jpg" height="158" width="320" border="0" alt="emilia" /></a></p>
 <p>and had her own home page at the animal shelter in L&#252;neburg.</p>

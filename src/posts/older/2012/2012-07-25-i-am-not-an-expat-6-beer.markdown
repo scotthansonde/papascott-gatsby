@@ -17,4 +17,4 @@ date: '2012-07-25 08:03:34 +0200'
 date_gmt: '2012-07-25 06:03:34 +0200'
 ---
 <p><strong>I don't drink beer.</strong> Well, not much anyway. We used to, but we've now switched to wine.</p>
-<p>(part of a <a href="https://www.papascott.de/archives/category/not-an-expat/">series</a>)</p>
+<p>(part of a <a href="/archives/category/not-an-expat/">series</a>)</p>

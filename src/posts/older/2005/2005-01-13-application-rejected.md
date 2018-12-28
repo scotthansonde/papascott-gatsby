@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>I haven't <a href="https://www.papascott.de/archives/2004/01/24/windmill-poster/">posted</a> in a while about our <a href="http://www.luellauergegenwind.de/">local anti-wind generator group</a>, but we just got a notice in the <a href="http://www.abendblatt.de/daten/2005/01/13/386274.html">Hamburger Abendblatt</a>. Rough translation: the county has now twice denied a building permit for the generators. If the developers now wish to pursue the project further, they would have to go to court. We're 90% sure the proposal is now dead.</p>
+<p>I haven't <a href="/archives/2004/01/24/windmill-poster/">posted</a> in a while about our <a href="http://www.luellauergegenwind.de/">local anti-wind generator group</a>, but we just got a notice in the <a href="http://www.abendblatt.de/daten/2005/01/13/386274.html">Hamburger Abendblatt</a>. Rough translation: the county has now twice denied a building permit for the generators. If the developers now wish to pursue the project further, they would have to go to court. We're 90% sure the proposal is now dead.</p>

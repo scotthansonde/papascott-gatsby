@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/images/crhmama1102.jpg" border="0" alt="Christopher and Mama shopping on ebay" title="Christopher and Mama shopping on ebay" /></p>
+<p><img src="/images/crhmama1102.jpg" border="0" alt="Christopher and Mama shopping on ebay" title="Christopher and Mama shopping on ebay" /></p>

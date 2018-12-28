@@ -17,6 +17,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/08/floor.jpg" height="290" width="342" border="0" alt="crh0208.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/08/floor.jpg" height="290" width="342" border="0" alt="crh0208.jpg: " /></p>
 <p>Yes, that's a hard tile kitchen floor that Christopher is rolling on. </p>
 <p>The <a href="http://www.abendblatt.de">Hamburger Abendblatt</a> confirmed yesterday what I already knew. Last month had the worst weather for July in the past 50 years.</p>

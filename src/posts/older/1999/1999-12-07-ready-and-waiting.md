@@ -21,6 +21,6 @@ author:
   last_name: Hanson
 ---
 <p>We're still learning how to use the new camera (Nikon Coolpix 800, by the way)... good thing that we still have a couple of weeks to try things out. Here's a view of the future baby bed (should last for the first 6 months or so).</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/dotty.jpg" height="300" width="400" border="0" alt="dotty.jpg: Dotty the spotted cow" /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/dotty.jpg" height="300" width="400" border="0" alt="dotty.jpg: Dotty the spotted cow" /></p>
 <p>Our cradle is on loan from Roland and Kirsten (stuffed animals not included). The baby blanket with the cats is my original baby blanket, sent in by my folks in their Christmas package.</p>
 <p>The blue cow was my present to Mama the last time she was in the hospital... 1986 in Minneapolis. It was an ad promotion by the Polka Dot Dairy, and is likely the only one in Germany.</p>

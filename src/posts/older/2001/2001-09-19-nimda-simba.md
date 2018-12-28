@@ -18,8 +18,8 @@ author:
   last_name: Hanson
 ---
 <p>AOL/Time/Warner/Netscape/CNN is a worldwide media company, so they have to twist the news differently for different parts of the world.</p>
-<p>In the <a href="http://www.cnn.com/">US</a> <img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/09/newwar.gif" height="26" width="270" border="0" alt="new.war.gif: " /></p>
-<p>In <a href="http://europe.cnn.com/">Europe</a> <img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/09/warterror.gif" height="19" width="211" border="0" alt="war.terror.gif: " /></p>
+<p>In the <a href="http://www.cnn.com/">US</a> <img src="/wordpress/wp-content/uploads/2001/09/newwar.gif" height="26" width="270" border="0" alt="new.war.gif: " /></p>
+<p>In <a href="http://europe.cnn.com/">Europe</a> <img src="/wordpress/wp-content/uploads/2001/09/warterror.gif" height="19" width="211" border="0" alt="war.terror.gif: " /></p>
 <table cellspacing="0" border="0" cellpadding="0">
 <tr>
 <td>In&nbsp;<a href="http://asia.cnn.com/">Asia</a> </td>

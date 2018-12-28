@@ -17,9 +17,9 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/10/mosssfront.jpg" height="263" width="350" border="0" alt="mosssfront.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/10/mosssfront.jpg" height="263" width="350" border="0" alt="mosssfront.jpg: " /></p>
 <p>Christopher Ryan 'Randy' Moss is dressed up for Monday Night Football tonight.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/10/mosssback.jpg" height="467" width="350" border="0" alt="mosssback.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/10/mosssback.jpg" height="467" width="350" border="0" alt="mosssback.jpg: " /></p>
 <hr />
 I see the weblog is on still on European time, so the date says Monday, even though it's still Sunday evening here in west-central Minnesota. We've got pictures from both Arizona and Minnesota at "photopoint".</p>
 <p>We've both had fun watching the baseball divisional playoffs, especially knowing about the fervent Mariners and Mets fans in the editthispage audience. </p>

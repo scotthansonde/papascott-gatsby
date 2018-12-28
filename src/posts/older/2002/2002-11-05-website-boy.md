@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>After <a href="https://www.papascott.de/index.php?p=1839&more=1&c=1">gracing the pages</a> of the magazine of the national <em>Tagesmütter</em> association, Christopher is now doing online advertising for <a href="http://www.tagesmuetter-niedersachsen.de/bundesverband/aufgaben.html">the state association for Niedersachsen</a>. Well, he's being used for space-filling decoration, anyway. Gratis.</p>
+<p>After <a href="/index.php?p=1839&more=1&c=1">gracing the pages</a> of the magazine of the national <em>Tagesmütter</em> association, Christopher is now doing online advertising for <a href="http://www.tagesmuetter-niedersachsen.de/bundesverband/aufgaben.html">the state association for Niedersachsen</a>. Well, he's being used for space-filling decoration, anyway. Gratis.</p>
 <p><a href="http://www.tagesmuetter-niedersachsen.de/bundesverband/aufgaben.html"><img alt="crhdeko.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/11/crhdeko.jpg" width="235" height="261" border="0" /></a></p>

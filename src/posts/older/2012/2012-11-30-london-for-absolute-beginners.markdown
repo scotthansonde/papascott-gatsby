@@ -16,7 +16,7 @@ wordpress_url: https://www.papascott.de/?p=15409
 date: '2012-11-30 22:03:13 +0100'
 date_gmt: '2012-11-30 21:03:13 +0100'
 ---
-<p>Some random points from our <a href="https://www.papascott.de/archives/2012/10/08/antalya-and-london/">visit to London</a> last month.<a href="http://www.flickr.com/photos/51035717986@N01/8231128036" title="View 'IMG_1186' on Flickr.com"><img style="float:right;" border="0" alt="IMG_1186" width="240" src="9.staticflickr.com/8067/8231128036_de59d8944c_m.jpg" height="180"/></a></p>
+<p>Some random points from our <a href="/archives/2012/10/08/antalya-and-london/">visit to London</a> last month.<a href="http://www.flickr.com/photos/51035717986@N01/8231128036" title="View 'IMG_1186' on Flickr.com"><img style="float:right;" border="0" alt="IMG_1186" width="240" src="9.staticflickr.com/8067/8231128036_de59d8944c_m.jpg" height="180"/></a></p>
 <ul>
 <li>Taking the cheap train from Gatwick to London makes a whole lot a stops and is probably not worth the trouble</li>
 <li>If you are at all claustrophobic and get cold shivers from the elevator scenes in Speed, you certainly want to avoid the Covent Garden tube station at all costs. Only way out are crowded elevators or 193 steps.</li>

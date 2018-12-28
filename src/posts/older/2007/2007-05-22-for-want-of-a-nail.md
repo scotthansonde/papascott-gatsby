@@ -21,7 +21,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>We've known for months that MamaMaus would have to give up her company car, and we've known for months that we would replace it with a <a href="https://www.papascott.de/archives/2007/03/18/crosstouran/">VW CrossTouran</a>. It's roomy inside, and has a lot of surface area for company logos. We can also take advantage of the fleet rebate by ordering through McDonald's. We just had to wait until the firm was officially formed before placing the order.</p>
+<p>We've known for months that MamaMaus would have to give up her company car, and we've known for months that we would replace it with a <a href="/archives/2007/03/18/crosstouran/">VW CrossTouran</a>. It's roomy inside, and has a lot of surface area for company logos. We can also take advantage of the fleet rebate by ordering through McDonald's. We just had to wait until the firm was officially formed before placing the order.</p>
 <p>We got the paperwork for the GmbH back today, and MamaMaus called the fleet coordinator to say that the order could now be placed. "Great," she said, "I'll just need you to send back a paper copy with your signature and company stamp, then we can send in the order."</p>
 <p>Company rubber stamp? We just ordered it today as well, delivery takes 14 days. Noone told us we'd need a stamp immediately. Looks like we'll pick up an instant stamp from Staples and somehow add a logo to it. The Touran is going to take 9 weeks as it is.</p>
 <p>On a related note, MamaMaus ordered business cards for herself, but not for me because we don't know what title I should have. "Co-debtor" probably does not give a good impression.</p>

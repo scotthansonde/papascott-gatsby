@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/emcarflags.jpg" alt="Euro Auto Flags" align="right" />Driving in Harburg this afternoon, one day before the start of Euro 2008, here are the numbers of car-flags I noticed (German flags excluded):</p>
+<p><img src="/wordpress/wp-content/uploads/2008/06/emcarflags.jpg" alt="Euro Auto Flags" align="right" />Driving in Harburg this afternoon, one day before the start of Euro 2008, here are the numbers of car-flags I noticed (German flags excluded):</p>
 <p>* POR 3<br />
 * ITA 2<br />
 * POL 2<br />

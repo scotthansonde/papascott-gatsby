@@ -21,4 +21,4 @@ author:
   last_name: Hanson
 ---
 <p>I can only agree with <a href="http://sprechblase.wordpress.com/2007/11/09/der-beste-online-shop-aller-zeiten/" title="Der beste Online-Shop aller Zeiten">Cem</a> and <a href="http://www.shopblogger.de/blog/archives/5858-Kettenreaktion.html" title="Kettenreaktion">Der Shopblogger</a>. <a href="http://producten.hema.nl/">The Hema Shop</a> beats Amazon, Ebay, and everything else. It is the best online shop ever and is worth a visit, even if you can't read Dutch.</p>
-<p><a href="http://producten.hema.nl/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/11/hema.jpg" alt="hema.jpg" border="0" width="300" height="259" /></a></p>
+<p><a href="http://producten.hema.nl/"><img src="/wordpress/wp-content/uploads/2007/11/hema.jpg" alt="hema.jpg" border="0" width="300" height="259" /></a></p>

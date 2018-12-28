@@ -21,5 +21,5 @@ author:
   last_name: Hanson
 ---
 <p>My boss had some problems <a href="http://sibylle.blogg.de/eintrag.php?id=432">creating a Advent calendar</a> for his daughter, but luckily <a href="http://greenhaddock2.blogspot.com/2006/12/1st-advent.html">Green Haddock has a calendar</a> that anyone (even men) can put together. It's so beautiful, though, you probably won't want to give it away. Happy Advent!</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/12/bitburger_advent_calendar.jpg" alt="Bitburger Advent Calendar" title="Bitburger Advent Calendar" /></p>
+<p><img src="/wordpress/wp-content/uploads/2006/12/bitburger_advent_calendar.jpg" alt="Bitburger Advent Calendar" title="Bitburger Advent Calendar" /></p>
 <p>Tip: if you use the 30-pack of Astra Urtyp, you can enjoy your calendar for nearly a week longer!</p>

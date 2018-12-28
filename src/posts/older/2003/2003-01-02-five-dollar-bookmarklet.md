@@ -16,7 +16,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>About the time my New Year's hangover was starting, Phil Ringnalda had come up with a <a title="phil ringnalda dot com: Five dollar bookmarklet" href="http://philringnalda.com/archives/002438.php">Five dollar bookmarklet</a> in response to my <a href="https://www.papascott.de/2002/12/31/2056.php">authoring app</a> post. While hacking the MT bookmarklet is a cool idea, and it's handy to know where to do it, it's not really what I had in mind. Of course, I didn't really say what I had in mind. I just made a throwaway cute comment about a two-bit bookmarklet not expecting anyone to take it seriously. </p>
+<p>About the time my New Year's hangover was starting, Phil Ringnalda had come up with a <a title="phil ringnalda dot com: Five dollar bookmarklet" href="http://philringnalda.com/archives/002438.php">Five dollar bookmarklet</a> in response to my <a href="/2002/12/31/2056.php">authoring app</a> post. While hacking the MT bookmarklet is a cool idea, and it's handy to know where to do it, it's not really what I had in mind. Of course, I didn't really say what I had in mind. I just made a throwaway cute comment about a two-bit bookmarklet not expecting anyone to take it seriously. </p>
 <p>However, if I were designing the million dollar authoring app, off the top of my head, I would expect it to:</p>
 <ul>
 <li>warn me if I were submitting invalid HTML</li>

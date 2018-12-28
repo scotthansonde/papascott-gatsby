@@ -21,4 +21,4 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.creamaid.com/">Earn $10 from home!</a><br />
-Simply write about <a href="http://www.creamaid.com/mclovers.html">McDonalds</a> for your blog. We'll see if they also take <a href="https://www.papascott.de/archives/2005/09/17/mccafe-elmshorn/">old posts</a>. :-)(via <a href="http://www.metafilter.com/mefi/55540">MetaFilter</a>)</p>
+Simply write about <a href="http://www.creamaid.com/mclovers.html">McDonalds</a> for your blog. We'll see if they also take <a href="/archives/2005/09/17/mccafe-elmshorn/">old posts</a>. :-)(via <a href="http://www.metafilter.com/mefi/55540">MetaFilter</a>)</p>

@@ -17,4 +17,4 @@ author:
   last_name: Hanson
 ---
 <p>After an experience with small children in a crowded restaurant, <a href="http://www.yarinareth.net/caveatlector/archive/week_2002_11_24.html#e001092">Dorothea</a> says she doesn't care about my kid. Well, I don't care about her peace and quiet in a public place. I guess that makes us even. Maybe she'd prefer that Christopher stay home and bake muffins. Well, then.</p>
-<p><img src="https://www.papascott.de/images/crhmuffin1102.jpg" border="0" alt="Christopher stays home and bakes muffins" title="Christopher stays home and bakes muffins" /></p>
+<p><img src="/images/crhmuffin1102.jpg" border="0" alt="Christopher stays home and bakes muffins" title="Christopher stays home and bakes muffins" /></p>

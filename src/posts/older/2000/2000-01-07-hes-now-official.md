@@ -18,7 +18,7 @@ author:
   last_name: Hanson
 ---
 <p>We finally took the baby carriage out for a spin this afternoon. Of course, I left the camera inside, but here you can see Christopher all bundled up for the ride.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0107.jpg" height="300" width="400" border="0" alt="crh0107.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/01/crh0107.jpg" height="300" width="400" border="0" alt="crh0107.jpg: " /></p>
 <p>Now that we have Christopher's papers, we can start our tour of German bureaucracy.</p>
 <p>At our local city hall, I registered Christopher's official residence and had a exemption added to my income tax card. I also changed my tax status from secondary earner to main earner, since Mama is on maternity leave this year.</p>
 <p>The first eight weeks of maternity leave are paid, and the unpaid leave can last until the child turns 3, during which the mother and father can alternate. As part of maternity leave, Mama receives a 'Child Rearing Payment' of DM 600 for 6 months.  Low income families receive this for 2 years. The application is more complicated than a tax return!</p>

@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>My <a href="https://www.papascott.de/archives/2006/06/02/mb-13183-cto-white/" title="PapaScott &raquo; Blog Archive &raquo; MB 13/1.83 CTO WHITE">MacBook</a>, ordered on 31 May from the German Apple Store, hasn't been delivered yet. But thanks to the <a href="http://www.apecode.com/appletrack/">Apple Tracking</a> site at apecode, where one can track European Apple Store orders, I know my MacBook is out of the factory and waiting for a flight out of Shanghai. Expected delivery date: 29 June.</p>
+<p>My <a href="/archives/2006/06/02/mb-13183-cto-white/" title="PapaScott &raquo; Blog Archive &raquo; MB 13/1.83 CTO WHITE">MacBook</a>, ordered on 31 May from the German Apple Store, hasn't been delivered yet. But thanks to the <a href="http://www.apecode.com/appletrack/">Apple Tracking</a> site at apecode, where one can track European Apple Store orders, I know my MacBook is out of the factory and waiting for a flight out of Shanghai. Expected delivery date: 29 June.</p>
 <p>Four weeks from order to delivery? Next time I think I'll try a local dealer.</p>

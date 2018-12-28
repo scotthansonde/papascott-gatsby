@@ -22,4 +22,4 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.flickr.com/photos/papascott/232015136/" title="Photo Sharing"><img src="https://static.flickr.com/95/232015136_94450efa53.jpg" width="375" height="500" alt="CIMG0101" /></a></p>
-<p>Two years ago he was <a href="https://www.papascott.de/archives/2004/08/05/1st-day-kindergarten/">holding his invitation to kindergarten</a>. Today on the same spot he's holding a <a href="http://en.wikipedia.org/wiki/Schult%C3%BCte"><em>Schultüte</em></a>, a cone filled with presents and candy for the first day of school. This time he decided not to smile.</p>
+<p>Two years ago he was <a href="/archives/2004/08/05/1st-day-kindergarten/">holding his invitation to kindergarten</a>. Today on the same spot he's holding a <a href="http://en.wikipedia.org/wiki/Schult%C3%BCte"><em>Schultüte</em></a>, a cone filled with presents and candy for the first day of school. This time he decided not to smile.</p>

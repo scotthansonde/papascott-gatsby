@@ -21,4 +21,4 @@ author:
 <p>We also won't be going to the fireworks at the harbor in Hamburg. That will be cold, crowded, and with kids throwing firecrackers around, more than a little dangerous. It seems that this time of year normally safety-conscious Germans take leave of their senses. First they put lit candles in their Christmas trees, then they throw firecrackers at one another on New Years Eve. Or fall down drunk into the River Elbe.</p>
 <p>Speaking of safety, Christopher is at this moment happily pulling up the little rubber anti-slip mats in the shower. Don't ask why...</p>
 <p>You don't believe the part about the cabbage leaves last year? Here's proof...</p>
-<p><a href="http://albums.photopoint.com/j/ViewPhoto?u=185392&a=1369040&p=14798052"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/12/cabbagepatch.jpg" height="225" width="300" border="0" alt="cabbagepatch.jpg: " /></a></p>
+<p><a href="http://albums.photopoint.com/j/ViewPhoto?u=185392&a=1369040&p=14798052"><img src="/wordpress/wp-content/uploads/2000/12/cabbagepatch.jpg" height="225" width="300" border="0" alt="cabbagepatch.jpg: " /></a></p>

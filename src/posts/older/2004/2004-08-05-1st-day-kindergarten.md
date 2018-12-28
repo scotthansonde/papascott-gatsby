@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/08/crh_1stdaykg.jpg" alt="1st Day Kindergarten" /></p>
+<p><img src="/wordpress/wp-content/uploads/2004/08/crh_1stdaykg.jpg" alt="1st Day Kindergarten" /></p>
 <p>Christopher, first day of kindergarten.</p>

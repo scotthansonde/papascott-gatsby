@@ -18,8 +18,8 @@ author:
   last_name: Hanson
 ---
 <p>(for <a href="http://magpierss.sourceforge.net/">Magpie RSS 0.52</a> and <a href="http://minutillo.com/steve/feedonfeeds/">Feed on Feeds 0.1.1</a>).  Many blogs are already sporting Atom 0.3 feeds, and <a href="http://www.diveintomark.org/">some</a> have even declared their RSS to be deprecated. So I decided to try to bolt Atom support onto my aggregator of choice. It turned out to be pretty easy, requiring patching just 2 files. </p>
-<p>However, my approach is very simplistic, simply representing Atom items in Magpie such that FoF can understand and display them. I'm sure that Kellan and Steve will eventually fully support Atom feeds. But until they do, here is the <a href="https://www.papascott.de/wordpress/wp-content/uploads/2004/01/rsas.patch.gz">patch to init.php and parse_rss.inc</a>. I thought about calling it 'Really Stupid Support for Atom', but the acronym 'RSS for Atom' would have confusing to say the least.</p>
-<p>Disclaimer: this works for me, at least for the <a href="https://www.papascott.de/atom.xml">three</a> <a href="http://diveintomark.org/xml/atom.xml">Atom</a> <a href="http://www.ahawkins.org/atom.xml">feeds</a> I've tried. It may not work for you.<br />
+<p>However, my approach is very simplistic, simply representing Atom items in Magpie such that FoF can understand and display them. I'm sure that Kellan and Steve will eventually fully support Atom feeds. But until they do, here is the <a href="/wordpress/wp-content/uploads/2004/01/rsas.patch.gz">patch to init.php and parse_rss.inc</a>. I thought about calling it 'Really Stupid Support for Atom', but the acronym 'RSS for Atom' would have confusing to say the least.</p>
+<p>Disclaimer: this works for me, at least for the <a href="/atom.xml">three</a> <a href="http://diveintomark.org/xml/atom.xml">Atom</a> <a href="http://www.ahawkins.org/atom.xml">feeds</a> I've tried. It may not work for you.<br />
 <!--more--><br />
 If you're interested in the gory details, I basically made 3 changes:</p>
 <ol>

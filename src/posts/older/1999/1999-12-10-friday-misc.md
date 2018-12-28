@@ -21,6 +21,6 @@ author:
   last_name: Hanson
 ---
 <p>Still no word from VA Linux. A note on slashdot says to be patient. So I am. I tried calling, but the helpful folks couldn't find my name on any list.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/scottfon.jpg" height="206" width="300" border="0" alt="scottfon.jpg: Scott phoning home" /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/scottfon.jpg" height="206" width="300" border="0" alt="scottfon.jpg: Scott phoning home" /></p>
 <p>Mama took a quiet day today. Her childbirth class had their final session here at our house last night. The 5 are all in Week 36 or better, and even the midwife is pregnant. </p>
 <p>Thanks to Userland for implementing the "multiple days on the home page" feature in Manila! That's a main feature of a squishdot site that can now be done in Manila by changing just one preference.</p>

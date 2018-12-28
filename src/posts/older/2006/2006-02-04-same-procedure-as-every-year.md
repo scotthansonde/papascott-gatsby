@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>We&rsquo;re gone. <a href="https://www.papascott.de/archives/2005/02/26/vacation/" title="PapaScott &raquo; Blog Archive &raquo; Vacation">Again.</a> To Leogang. In Austria. See you. Again. Same time. Next week. </p>
+<p>We&rsquo;re gone. <a href="/archives/2005/02/26/vacation/" title="PapaScott &raquo; Blog Archive &raquo; Vacation">Again.</a> To Leogang. In Austria. See you. Again. Same time. Next week. </p>

@@ -19,4 +19,4 @@ author:
 ---
 <p>We were both out a couple days with the flu. We're both better now (just in time for the long weekend). But now Mama has it.</p>
 <p>Saturday is bath day, when we try to take at least one picture of Christopher with funny hair.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/04/hair.jpg" height="299" width="350" border="0" alt="crh0429.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/04/hair.jpg" height="299" width="350" border="0" alt="crh0429.jpg: " /></p>

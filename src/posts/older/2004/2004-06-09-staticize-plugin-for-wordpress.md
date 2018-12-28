@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.cowpimp.com/archives/2004/06/08/staticize-plugin-for-wordpress/">Staticize Plugin for Wordpress</a> Static pages for WordPress, protection against <a href="https://www.papascott.de/archives/2004/05/15/what-wordpress-does-wrong/">database crapout</a>. It caches the entire page, even the parts I would rather have dynamic, so for now my <a href="https://www.papascott.de/archives/2004/06/05/held-o-matic/">held-o-matic</a> is more of a held-o-static.</p>
+<p><a href="http://www.cowpimp.com/archives/2004/06/08/staticize-plugin-for-wordpress/">Staticize Plugin for Wordpress</a> Static pages for WordPress, protection against <a href="/archives/2004/05/15/what-wordpress-does-wrong/">database crapout</a>. It caches the entire page, even the parts I would rather have dynamic, so for now my <a href="/archives/2004/06/05/held-o-matic/">held-o-matic</a> is more of a held-o-static.</p>

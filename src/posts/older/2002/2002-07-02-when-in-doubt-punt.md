@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>... or, in this case, redirect. For now I've worked around my problems with the daily links (documented <a href="http://www.movabletype.org/support/ib3/ikonboard.cgi?s=3d211b8658daffff;act=ST;f=9;t=685">here </a>at the MT Support Forum) by redirecting to the monthly archive, since rebuilding the daily archives works if I don't actually put any data on the page. Whatever, as long as important links like <a href="https://www.papascott.de/1999/12/27">https://www.papascott.de/1999/12/27</a> continue to work.</p>
+<p>... or, in this case, redirect. For now I've worked around my problems with the daily links (documented <a href="http://www.movabletype.org/support/ib3/ikonboard.cgi?s=3d211b8658daffff;act=ST;f=9;t=685">here </a>at the MT Support Forum) by redirecting to the monthly archive, since rebuilding the daily archives works if I don't actually put any data on the page. Whatever, as long as important links like <a href="/1999/12/27">https://www.papascott.de/1999/12/27</a> continue to work.</p>

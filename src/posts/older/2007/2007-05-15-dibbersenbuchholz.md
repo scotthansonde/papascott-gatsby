@@ -22,4 +22,4 @@ author:
 <p><a href="http://www.flickr.com/photos/papascott/499677510/" title="Photo Sharing"><img src="1.static.flickr.com/208/499677510_c2fb7ddf5c.jpg" width="500" height="375" alt="Dibbersen" /></a></p>
 <p>The restaurant with McDrive was opened in 2003 and does not yet have a McCafé. It is located near a thriving commercial area with the furniture store Möbel Kraft and a new Obi home improvement store. A Famila supermarket and a MediaMarkt electronics store are planned for this year. We have every reason to expect satisfaction and success for years to come.</p>
 <p>**Update:** MamaMaus has a soft spot for signage. This will be ours.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/05/dibberson-sign.jpg" alt="sign" height="352" width="264" /></p>
+<p><img src="/wordpress/wp-content/uploads/2007/05/dibberson-sign.jpg" alt="sign" height="352" width="264" /></p>

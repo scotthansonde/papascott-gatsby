@@ -20,8 +20,8 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/snow.jpg" height="300" width="400" border="0" alt="snow.jpg: Snow in Lüllau 19 Dec 1999" /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/snow.jpg" height="300" width="400" border="0" alt="snow.jpg: Snow in Lüllau 19 Dec 1999" /></p>
 <p>This is the view from our living room this morning. Our backyard only extends to the fence; the horse pasture isn't ours, it's just part of our view.</p>
 <p>I seem to have caught a cold, and I have a pounding headache. I'm glad I didn't have to go outside for these pictures! Even zooming in on the horses through the window seems to have worked out.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/snowhorses.jpg" height="300" width="400" border="0" alt="snowhorses.jpg: Horses in the snow" /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/snowhorses.jpg" height="300" width="400" border="0" alt="snowhorses.jpg: Horses in the snow" /></p>
 <p>Even my PC seems to be under the weather. My 128 MB RAM chip sputtered out around 12:30 am Saturday morning, so I only have 64 MB left. It's feeling somewhat underpowered, even just using Netscape under Linux starts swapping to disk.</p>

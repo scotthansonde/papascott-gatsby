@@ -17,4 +17,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/08/poster.jpg" height="350" width="279" border="0" alt="gateway.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/08/poster.jpg" height="350" width="279" border="0" alt="gateway.jpg: " /></p>

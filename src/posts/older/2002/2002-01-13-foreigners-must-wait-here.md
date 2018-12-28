@@ -19,5 +19,5 @@ author:
 ---
 <p><a href="http://www.heise.de/tp/deutsch/inhalt/co/11556/1.html">Telepolis</a>: Pirna: Everyday Racism<br />
 In front of a drug store in Pirna (Saxony) hung until a few days ago the following hand-written sign: Foreigners must wait here! You can express your wishes. Entry to shop only when accompanied by an employee.<br />
-<img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/01/11556_1.jpg" width="250" height="193" alt="Pirna" /><br />
+<img src="/wordpress/wp-content/uploads/2002/01/11556_1.jpg" width="250" height="193" alt="Pirna" /><br />
 (Via <a href="http://www.schockwellenreiter.de/2002/01/13.html">SWR</a>)</p>

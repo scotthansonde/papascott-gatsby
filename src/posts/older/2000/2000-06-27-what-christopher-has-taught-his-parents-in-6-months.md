@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/06/2000062604.jpg" height="319" width="350" border="0" alt="crh0627.jpg: Christopher not sleeping" /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/06/2000062604.jpg" height="319" width="350" border="0" alt="crh0627.jpg: Christopher not sleeping" /></p>
 <p>Christopher is 6 months old today. I'm sure in the future we'll celebrate on June 27 as well as on December 27. After all, a 'Sommerfest' is more fun than an afterthought to Christmas. In the meantime, after over 15 years together without children Mama and I have learned an awful lot from our son the past 6 months.</p>
 <p>Making progress is important. The rate of change and learning is amazing to an adult, especially in the first month. Even now, every day brings sometng new. (Progress doesn't have to mean moving forward. Rolling from side to side counts too.)</p>
 <p>Laughing a lot is important, even if you do have an ornry period in the late afternoon. Christopher smiles at everything and everyone, although that will pass. He laughs when he gets home from a trip, and smiles at me every evening when I get back from work.</p>

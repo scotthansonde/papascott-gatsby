@@ -20,6 +20,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://creativeclass.typepad.com/thecreativityexchange/2007/04/fast_food_geogr.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/04/fast-food-markets-in-the-us.jpg" alt="Fast food markets in the US" /></a></p>
+<p><a href="http://creativeclass.typepad.com/thecreativityexchange/2007/04/fast_food_geogr.html"><img src="/wordpress/wp-content/uploads/2007/04/fast-food-markets-in-the-us.jpg" alt="Fast food markets in the US" /></a></p>
 <p><a href="http://sprechblase.wordpress.com/">Cem</a> sent us this link about <a href="http://creativeclass.typepad.com/thecreativityexchange/2007/04/fast_food_geogr.html">fast food markets in the US</a>. The map shows the cities with the highest and lowest number of fast food meals per capita per month. Do I detect a geographical pattern here?</p>
 <p>I wonder what the numbers for Germany would look like... not just fast-food chains, of course, but also including <em>Currywurst</em>, <em>Döner</em>, <em>Brathähnchen</em> and <em>Fischbrötchen</em>.</p>

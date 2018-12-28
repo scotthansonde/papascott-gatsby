@@ -17,4 +17,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="https://www.papascott.de/2002/02/23"><img alt="PapaScott in red, white and blue warpaint" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/06/smhmakeup-thumb.jpg" width="125" height="98" border="0" align="right" /></a>Now that Germany and the US are meeting in the World Cup quarterfinals, my co-workers are asking if I'm going to come to work on Friday like <a href="https://www.papascott.de/2002/02/23">this</a>.</p>
+<p><a href="/2002/02/23"><img alt="PapaScott in red, white and blue warpaint" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/06/smhmakeup-thumb.jpg" width="125" height="98" border="0" align="right" /></a>Now that Germany and the US are meeting in the World Cup quarterfinals, my co-workers are asking if I'm going to come to work on Friday like <a href="/2002/02/23">this</a>.</p>

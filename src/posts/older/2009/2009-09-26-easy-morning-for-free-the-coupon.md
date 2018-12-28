@@ -18,5 +18,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>The coupon for <a href="https://www.papascott.de/archives/2009/09/20/easy-morning-for-free-goes-nationwide/">tomorrow's free breakfast on election day</a> just went online today. They are good at all McDonald's nationwide, but only tomorrow from 9 to 11 am, so you have to be quick! Print out the <a href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2009/09/mcdonalds_wahlfruehstueck.pdf">PDF</a> and you won't have to buy a newspaper!</p>
+<p>The coupon for <a href="/archives/2009/09/20/easy-morning-for-free-goes-nationwide/">tomorrow's free breakfast on election day</a> just went online today. They are good at all McDonald's nationwide, but only tomorrow from 9 to 11 am, so you have to be quick! Print out the <a href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2009/09/mcdonalds_wahlfruehstueck.pdf">PDF</a> and you won't have to buy a newspaper!</p>
 <p><a href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2009/09/mcdonalds_wahlfruehstueck.pdf"><img src="https://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2009/09/mcdonalds_wahlfruehst.00001.jpg" alt="mcdonalds_wahlfruehst.00001.jpg" border="0" width="450" height="159" /></a></p>

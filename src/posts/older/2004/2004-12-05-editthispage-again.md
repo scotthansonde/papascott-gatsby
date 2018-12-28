@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>Last year I <a href="https://www.papascott.de/archives/2003/12/05/">nearly forgot</a> my blog anniversary. This year I <a href="https://www.papascott.de/archives/1999/12/05/">nearly forgot again</a> (although I already <a href="https://www.papascott.de/archives/2004/08/24/happy-birthday-to-me/">unofficially celebrated</a> this summer when Blogger turned 5). So happy 5th birthday to me (again), and to my fellow <a href="http://rpc.bloglines.com/blogroll?html=1&id=papascott&folder=etp%20vets">EditThisPage veterans</a>!</p>
+<p>Last year I <a href="/archives/2003/12/05/">nearly forgot</a> my blog anniversary. This year I <a href="/archives/1999/12/05/">nearly forgot again</a> (although I already <a href="/archives/2004/08/24/happy-birthday-to-me/">unofficially celebrated</a> this summer when Blogger turned 5). So happy 5th birthday to me (again), and to my fellow <a href="http://rpc.bloglines.com/blogroll?html=1&id=papascott&folder=etp%20vets">EditThisPage veterans</a>!</p>

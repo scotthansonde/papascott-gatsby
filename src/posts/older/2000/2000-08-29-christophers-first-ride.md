@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/08/carousel.jpg" height="400" width="300" border="0" alt="carousel: PapaScott & Christopher are riding the fire truck" /><br />
+<p><img src="/wordpress/wp-content/uploads/2000/08/carousel.jpg" height="400" width="300" border="0" alt="carousel: PapaScott & Christopher are riding the fire truck" /><br />
 <b><i>Christopher did all right for his first big ride. He was ready to get off after the second round. But he was brave and stayed on without making a fuss.</i></b></p>

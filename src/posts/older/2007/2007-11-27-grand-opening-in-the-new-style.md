@@ -17,4 +17,4 @@ author:
   last_name: Hanson
 ---
 <p>The past 10 days have been crazy hectic, but we can now say with 99% certainty that we will open our McCaf&eacute; this Saturday. We've been handing out coupons, we've given interviews, we'll be giving a reception for press and politicians (and a few friends) next week, and we've got an ad in the local paper...</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/11/anzeige.jpg" alt="anzeige.jpg" border="0" width="500" height="762" /></p>
+<p><img src="/wordpress/wp-content/uploads/2007/11/anzeige.jpg" alt="anzeige.jpg" border="0" width="500" height="762" /></p>

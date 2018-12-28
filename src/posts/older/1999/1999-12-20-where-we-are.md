@@ -22,5 +22,5 @@ author:
 ---
 <p>Dave Winer wants us to <a href="http://subhonker2.userland.com/weblogMonitor/categories">classify</a> ourselves by <a href="http://subhonker2.userland.com/weblogMonitor/categories/Geography">geography</a>. "Where is Lüllau?" </p>
 <p>Here's the first step:</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/jestmap.gif" height="300" width="460" border="0" alt="jestmap.gif: Where is Jesteburg, Germany?" /></p>
+<p><img src="/wordpress/wp-content/uploads/1999/12/jestmap.gif" height="300" width="460" border="0" alt="jestmap.gif: Where is Jesteburg, Germany?" /></p>
 <p>That nice looking snow from yesterday is going to be gone by Christmas Eve, say the weather folks.</p>

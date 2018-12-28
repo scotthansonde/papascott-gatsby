@@ -20,5 +20,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>Our directional sign in Buchholz, which was <a href="https://www.papascott.de/archives/2008/03/10/vandalism/">vandalized last month</a> and was just replaced last week, was spray painted again Monday evening. This time it was covered more thoroughly and as a bonus included an obscenity in English. I would say someone in our area has some serious brand trust issues with us, to put it in marketing terms.</p>
+<p>Our directional sign in Buchholz, which was <a href="/archives/2008/03/10/vandalism/">vandalized last month</a> and was just replaced last week, was spray painted again Monday evening. This time it was covered more thoroughly and as a bonus included an obscenity in English. I would say someone in our area has some serious brand trust issues with us, to put it in marketing terms.</p>
 <p>The signs are rented and insured against vandalism, so such actions don't cost us any money, but they're a pain to deal with nonetheless.</p>

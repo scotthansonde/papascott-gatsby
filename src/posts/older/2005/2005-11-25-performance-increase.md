@@ -16,7 +16,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>After <a href="https://www.papascott.de/archives/2005/11/23/blogstats-down-will-be-back/" title="PapaScott &raquo; Blog Archive &raquo; Blogstats down, will be back">tuning the database</a> at blogstats, it's nice to see this in <a href="http://jeremy.zawodny.com/mysql/mytop/">mytop</a>:</p>
+<p>After <a href="/archives/2005/11/23/blogstats-down-will-be-back/" title="PapaScott &raquo; Blog Archive &raquo; Blogstats down, will be back">tuning the database</a> at blogstats, it's nice to see this in <a href="http://jeremy.zawodny.com/mysql/mytop/">mytop</a>:</p>
 <p><code>up 0+16:02:43<br />
 Queries: 7.4M   qps:  136 Slow:     1.0</code>    </p>
 <p>Exactly 1 slow query. Looks like we did something right. I can't really take the credit, though, it was my colleague P (whom I not sure I can name).</p>

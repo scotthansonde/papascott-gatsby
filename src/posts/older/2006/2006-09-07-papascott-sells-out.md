@@ -20,4 +20,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>A couple of days ago I reinserted <a href="http://google.com/adsense/">Google AdSense</a> ads on my archive pages. If after my complaining about <a href="https://www.papascott.de/archives/2006/04/22/googles-china-problem/">Google in China</a> anyone thinks I'm selling out, they're right.</p>
+<p>A couple of days ago I reinserted <a href="http://google.com/adsense/">Google AdSense</a> ads on my archive pages. If after my complaining about <a href="/archives/2006/04/22/googles-china-problem/">Google in China</a> anyone thinks I'm selling out, they're right.</p>

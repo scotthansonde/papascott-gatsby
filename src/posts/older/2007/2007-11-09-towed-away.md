@@ -20,5 +20,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/11/sturmflut.jpg" alt="sturmflut.jpg" border="0" width="450" height="420" /></p>
+<p><img src="/wordpress/wp-content/uploads/2007/11/sturmflut.jpg" alt="sturmflut.jpg" border="0" width="450" height="420" /></p>
 <p>This is what can happen in Hamburg if you park near the river and you don't pay attention to the weather report (from <a href="http://www.jenskunath.eu/2007/11/09/sturmflut-in-hamburg/">jenskunath.eu</a>).</p>

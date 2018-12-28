@@ -28,4 +28,4 @@ author:
 </li>
 </ul>
 <p>Hundreds, if not thousands, of old bombs are still found every year. Last week over 20000 residents in Hannover were evacuated from their homes to defuse 3 bombs. The NY Times article quotes the owner of a munitions clears firm: "Well have enough work to keep us busy for the next 100 to 120 years".</p>
-<p>I've <a href="https://www.papascott.de/archives/2002/01/15/bombs-along-the-highway/">said it before</a>, but I'll say it again. If a rich, developed country is still clearing munitions 60 years after being devestated by war, how long will it take poor countries to recover from war, especially since modern explosives are smaller and harder to find?</p>
+<p>I've <a href="/archives/2002/01/15/bombs-along-the-highway/">said it before</a>, but I'll say it again. If a rich, developed country is still clearing munitions 60 years after being devestated by war, how long will it take poor countries to recover from war, especially since modern explosives are smaller and harder to find?</p>

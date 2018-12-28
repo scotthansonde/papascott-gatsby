@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/11/crhread.jpg" height="262" width="349" border="0" alt="crhread.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/11/crhread.jpg" height="262" width="349" border="0" alt="crhread.jpg: " /></p>
 <p>Christopher is reading quite intensely.</p>

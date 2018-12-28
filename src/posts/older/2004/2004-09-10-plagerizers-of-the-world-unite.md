@@ -16,4 +16,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>Since I misspellt the permalink, this post is now <a href="https://www.papascott.de/archives/2004/09/10/plagiarizers-of-the-world-unite/">here</a>.</p>
+<p>Since I misspellt the permalink, this post is now <a href="/archives/2004/09/10/plagiarizers-of-the-world-unite/">here</a>.</p>

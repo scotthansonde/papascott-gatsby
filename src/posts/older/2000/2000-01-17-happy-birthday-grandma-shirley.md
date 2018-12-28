@@ -19,9 +19,9 @@ author:
 ---
 <p>We just called Grandma at home in Minnesota to wish her a happy birthday, but I thought we'd repeat the wish here for all to see! </p>
 <p>Our cats have been complaining that Christopher has been getting too much face time on this website. In order to keep peace in the household, here they are. We've had all three for over 10 years now, since we were in Minneapolis.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/mausi0117.jpg" height="225" width="300" border="0" alt="mausi0117.jpg: " /><br />
+<p><img src="/wordpress/wp-content/uploads/2000/01/mausi0117.jpg" height="225" width="300" border="0" alt="mausi0117.jpg: " /><br />
 This is Mausi, the oldest and smallest. He's too sophisticated to have anything to do with the baby or the other cats. Here he's alone in our bedroom when everyone else is downstairs.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/helga0117.jpg" height="225" width="300" border="0" alt="helga0117.jpg: " /><br />
+<p><img src="/wordpress/wp-content/uploads/2000/01/helga0117.jpg" height="225" width="300" border="0" alt="helga0117.jpg: " /><br />
 This is Helga, our streetwise tabby cat. She likes adults, but stays away from children. She's taken the longest to acknowledge the baby, although she's gotten pretty close here. (And, yes, that's a stuffed version of the Maus Newsletter mascot behind her.)</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/karlheinz0117.jpg" height="225" width="300" border="0" alt="karlheinz0117.jpg: " /><br />
+<p><img src="/wordpress/wp-content/uploads/2000/01/karlheinz0117.jpg" height="225" width="300" border="0" alt="karlheinz0117.jpg: " /><br />
 This is Karl-Heinz, Mama's favorite. He's accepted Christopher, if only to stay close to her. This is a typical pose, sleeping obscenely on his back.</p>

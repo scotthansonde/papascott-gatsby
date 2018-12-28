@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>I was planning on taking vacation this week, but then at work we <a href="https://www.papascott.de/2002/09/26/1907.html">agreed</a> to give back 3 vacation days. So I'm working for nothing this week, and Mama is home alone with Christopher the Wonder Boy.</p>
+<p>I was planning on taking vacation this week, but then at work we <a href="/2002/09/26/1907.html">agreed</a> to give back 3 vacation days. So I'm working for nothing this week, and Mama is home alone with Christopher the Wonder Boy.</p>
 <p>I had a bad dream about the US Postal Service last night. I'm not ususally so introspective as to blog about my dreams, but I found it interesting that after 12 years of German and European bureaucracy, my bureaucratic nightmares are still American.</p>

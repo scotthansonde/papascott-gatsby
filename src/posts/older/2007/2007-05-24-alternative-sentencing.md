@@ -23,7 +23,7 @@ author:
 <p>Does the sentence fit the crime?</p>
 <ul>
 <li>
-<p>In Hildesheim, the founder of Heros, once Germany's leading money transport company, was <a href="http://www.iht.com/articles/ap/2007/05/23/business/EU-FIN-Germany-Embezzlement-Trial.php">convicted</a> (along with 3 managers) of <a href="https://www.papascott.de/archives/2006/02/20/if-you-cant-trust-your-armored-car-company/">embezzling half a billion Euros</a> over 2 decades, and was sentenced to 10 years in prison.</p>
+<p>In Hildesheim, the founder of Heros, once Germany's leading money transport company, was <a href="http://www.iht.com/articles/ap/2007/05/23/business/EU-FIN-Germany-Embezzlement-Trial.php">convicted</a> (along with 3 managers) of <a href="/archives/2006/02/20/if-you-cant-trust-your-armored-car-company/">embezzling half a billion Euros</a> over 2 decades, and was sentenced to 10 years in prison.</p>
 </li>
 <li>
 <p>In Atanta, a former secretary for Coca-Cola was <a href="http://www.businessweek.com/ap/financialnews/D8PA8HM80.htm">convicted of conspiring to sell trade secrets</a> to Pepsi for $1.5 million, and was sentenced to 8 years in prison (longer than was recommended by the prosecution).</p>

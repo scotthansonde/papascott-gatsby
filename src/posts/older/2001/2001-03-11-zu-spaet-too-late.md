@@ -28,4 +28,4 @@ dann tut es dir leid, doch dann ist es <a href="http://mode.exit.mytoday.de/jb-3
 <p>(Some day I'll have my revenge // I'll break the hearts of all the girls //<br />
 I'll be star who is in the newspaper // then you'll be sorry, but then it will be too late)</p>
 <p>An old adolescent punk song from a German band that still hasn't grown up. Christopher is already breaking hearts, but hopefully he can skip the star bit.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/03/ball.jpg" height="332" width="249" border="0" alt="ball.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/03/ball.jpg" height="332" width="249" border="0" alt="ball.jpg: " /></p>

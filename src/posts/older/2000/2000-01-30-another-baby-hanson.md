@@ -23,4 +23,4 @@ author:
 <p>We've been trying out our new <a href="http://www.aventbaby.com">Avent</a> breast pump. Sometime I'm going to have to be able to feed Christopher when Mama's not here!</p>
 <p>Bill Gates took time off from Davos to appear Saturday evening on Wetten Dass, a talk/game show that is the highest rated German TV show. He looked <a href="http://212.227.136.156/slideshow/2/full/7.jpg"> uncomfortable</a> between Naomi Campbell and <a href="http://212.227.136.156/slideshow/1/full/2.jpg">Pamela Anderson</a>. <i>The ZDF network is a partner of Microsoft.</i></p>
 <p>The storm made a lot of noise last night, with winds up to 90 mph. Flooding on the coast was 'nothing unusual', but the next high tide at 11 am might also bring flooding. The Sunday morning 'Fischmarkt' has been cancelled.</p>
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0130.jpg" height="305" width="350" border="0" alt="crh0130.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2000/01/crh0130.jpg" height="305" width="350" border="0" alt="crh0130.jpg: " /></p>

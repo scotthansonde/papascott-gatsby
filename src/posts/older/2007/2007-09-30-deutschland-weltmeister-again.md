@@ -20,4 +20,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p>It was worth mentioning the <a href="https://www.papascott.de/archives/2003/10/13/deutschland-weltmeister/">first time</a> 4 years ago, and even more so today. <a href="http://sports.yahoo.com/sow/news;_ylt=Ah.TALJzgoNRNYrgW0dPpn4mw7YF?slug=ap-wwcup-germany-brazil&amp;prov=ap&amp;type=lgns">Germany defeated Brazil 2-0</a> to win their second straight Women's World Cup. Germany did not give up a single goal in the tournament, and keeper Nadine Angerer stopped a penalty and a number of good shots to ensure the win.</p>
+<p>It was worth mentioning the <a href="/archives/2003/10/13/deutschland-weltmeister/">first time</a> 4 years ago, and even more so today. <a href="http://sports.yahoo.com/sow/news;_ylt=Ah.TALJzgoNRNYrgW0dPpn4mw7YF?slug=ap-wwcup-germany-brazil&amp;prov=ap&amp;type=lgns">Germany defeated Brazil 2-0</a> to win their second straight Women's World Cup. Germany did not give up a single goal in the tournament, and keeper Nadine Angerer stopped a penalty and a number of good shots to ensure the win.</p>

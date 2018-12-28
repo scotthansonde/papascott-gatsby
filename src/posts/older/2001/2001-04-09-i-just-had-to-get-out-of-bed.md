@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/blossom.jpg" height="320" width="240" border="0" alt="Blossom: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2001/04/blossom.jpg" height="320" width="240" border="0" alt="Blossom: " /></p>
 <p><i><b>Our first blossom in the garden. Spring is finally here. Thanks to Daylight Savings Time I can still see what's going on in the garden when I get home!</b></i></p>
 <p>Easter week. The spring German holidays coming up means a lot of 4-day work weeks; Good Friday, Easter Monday, May Day, Ascension, Pentecost. </p>
 <p>Mama just asked me where the past few page titles come from. Overload, from the Sugababes, and I'm noteven halfway through the song yet.</p>

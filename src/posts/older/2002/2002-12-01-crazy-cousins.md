@@ -17,4 +17,4 @@ author:
   last_name: Hanson
 ---
 <p>I promised Christopher's cousins yesterday that I would post their picture on the Internet, and that they would become famous. Well, I can fulfil the first promise anyway. From left to right, Lennart, Jakob, Freya and Mareike</p>
-<p><img src="https://www.papascott.de/images/cousins1102.jpg" border="0" alt="Christopher cousin's, 30 Nov 2002" /></p>
+<p><img src="/images/cousins1102.jpg" border="0" alt="Christopher cousin's, 30 Nov 2002" /></p>

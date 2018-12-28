@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/02/crhbathfeb02.jpg" height="325" width="244" border="0" alt="crhbathfeb02.jpg: " /></p>
+<p><img src="/wordpress/wp-content/uploads/2002/02/crhbathfeb02.jpg" height="325" width="244" border="0" alt="crhbathfeb02.jpg: " /></p>
 <p>Milestone check for Christopher:
 <ul>
 <li>We recognized his first sentence yesterday, "Nana essen" (Eat banana), which of course has to do with eating. Earlier in the week he said "Mama mehr" (Mama more), which was disqualified for not having a verb.

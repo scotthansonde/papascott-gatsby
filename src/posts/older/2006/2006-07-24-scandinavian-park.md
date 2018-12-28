@@ -20,6 +20,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.scandinavian-park.com/index.php?id=10"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/07/scandinavian_park_flyer.jpg" alt="scandinavian_park_flyer" /></a></p>
+<p><a href="http://www.scandinavian-park.com/index.php?id=10"><img src="/wordpress/wp-content/uploads/2006/07/scandinavian_park_flyer.jpg" alt="scandinavian_park_flyer" /></a></p>
 <p>We took a trip up north to Denmark for the weekend, and I was most impressed by our stop Sunday morning at <a href="http://www.scandinavian-park.com/index.php?id=10">Scandinavian Park</a> in Flensburg, a shopping center for Danes just inside Germany with a business plan based entirely on selling Danish beer at German prices. Prices are prominently displayed in Danish Kroner, and it's open <a href="http://www.scandinavian-park.com/index.php?id=33">late evenings and Sundays</a>. Among other shops there's a cheap <a href="http://www.etaphotel.com/etaphotel/fichehotel/gb/etp/6299/fiche_hotel.shtml">Etap hotel</a>, a <a href="http://www.heingericke-flensburg.de/">motorcycle supply shop</a>, a <a href="http://www.hier-bin-ich-koenig.de/">slot-machine arcade</a>, and a <a href="http://www.beate-uhse.com/">Beate Uhse</a> sex shop. One stop shopping at its finest.</p>
 <p>Of course if the EU ever equalized alcohol taxes the whole concept would be bankrupt in an instant.</p>
