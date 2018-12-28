@@ -1,6 +1,7 @@
-import React from "react";
-import { Link } from "gatsby";
-import Layout from "../components/layout";
+import React from 'react';
+import { Link } from 'gatsby';
+import Layout from '../components/layout';
+import TwitterTimeline from '../components/twitterTimeline';
 
 const NavLink = props => {
   if (!props.test) {
@@ -16,21 +17,22 @@ const NavLink = props => {
 
 export default ({ data, pageContext }) => {
   const { group, index, first, last } = pageContext;
-  const previousUrl = index - 1 == 1 ? "" : (index - 1).toString();
+  const previousUrl = index - 1 == 1 ? '' : (index - 1).toString();
   const nextUrl = (index + 1).toString();
 
   return (
     <Layout>
-      {group && group.map(({ node }, idx) => (
-        <div className="post" key={idx}>
-        <h1 className="post-title">
-          <Link to={node.fields.slug} >
-            {node.fields.title}
-          </Link></h1>
-          <span className="post-date">{node.fields.date}</span>
-          <div dangerouslySetInnerHTML={{ __html: node.html }} />
-        </div>
-      ))}
+      <TwitterTimeline />
+      {group &&
+        group.map(({ node }, idx) => (
+          <div className="post" key={idx}>
+            <h1 className="post-title">
+              <Link to={node.fields.slug}>{node.fields.title}</Link>
+            </h1>
+            <span className="post-date">{node.fields.date}</span>
+            <div dangerouslySetInnerHTML={{ __html: node.html }} />
+          </div>
+        ))}
       {/* <div className="pagination">
         <NavLink test={last} url={nextUrl} text="Older" />
         <NavLink test={first} url={previousUrl} text="Newer" />

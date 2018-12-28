@@ -20,7 +20,8 @@
     "gatsby-transformer-remark": "^2.1.17",
     "prismjs": "^1.15.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "twitter-fetcher": "^18.0.2"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0"
