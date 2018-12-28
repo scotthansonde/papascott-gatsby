@@ -1,0 +1,58 @@
+#!/usr/bin/perl -w
+
+use strict;
+use XML::Twig;
+
+my $caltwig = 
+  new XML::Twig( 
+		TwigHandlers => {msg => \&msg,}  
+	       );         
+$caltwig->parsefile("homePageCalendar.xml");    # build the twig
+$caltwig->purge;
+ 
+
+
+sub msg { 
+  my( $twig, $msg)= @_;
+  my $value = $msg->att('msgNum');
+  my $fn = sprintf( "%07d", $value);
+  #print "$fn.xml:\n";
+
+  my $twig1 = new XML::Twig(TwigHandlers => {'msg' => \&msg1,});  
+  $twig1->parsefile("./discussionGroup/messages/$fn.xml");
+  $twig->purge;
+}
+
+
+sub msg1 { 
+  use Date::Manip qw(ParseDate UnixDate);
+  my( $twig, $msg)= @_;
+  my $text = $msg->first_child('body')->text;
+  my $date = $msg->first_child('postTime')->text;
+  my $subject = $msg->first_child('subject')->text;
+  $date = UnixDate(ParseDate($date),
+		   "%m/%d/%Y %I:%M:%S %p");
+
+  
+  print "AUTHOR: shanson
+TITLE: $subject
+PRIMARY CATEGORY: oldblog
+CATEGORY: oldblog
+
+DATE: $date
+-----
+BODY:
+$text
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+
+--------
+";
+
+  $twig->purge;
+}

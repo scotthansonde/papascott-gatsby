@@ -1,0 +1,32 @@
+#!/usr/bin/perl -w
+
+#use strict;
+use XML::Twig;
+
+my $glostwig = 
+  new XML::Twig( 
+		TwigHandlers => {item => \&item,}  
+	       );         
+
+$glostwig->parsefile("glossary.xml");    # build the twig
+$glostwig->purge;
+ 
+while (<>) {
+  s/(\"(.+?)\")/ $gloshash{$2} ? $gloshash{$2} : $1/ge ;
+  #s/(\"(.+?)\")/$gloshash{$2}/g ;
+ # while (m/(\"(.+?)\")/g) {
+#    print "$2 ";
+#    print $gloshash{$2} ? 1 :0 ; 
+#    print "\n";
+#  }
+    print;
+}
+
+
+sub item { 
+  my( $twig, $item)= @_;
+  my $value = $item->att('value');
+  my $text = $item->text;
+  $gloshash{$text}=$value;
+  $twig->purge;
+}

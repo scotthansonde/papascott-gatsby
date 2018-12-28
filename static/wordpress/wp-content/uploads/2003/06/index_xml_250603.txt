@@ -1,0 +1,27 @@
+<MTEntries lastn="1">
+<?xml version="1.0" encoding="<$MTPublishCharset$>"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title><$MTBlogName remove_html="1" encode_xml="1"$></title>
+    <link><$MTBlogURL$></link>
+    <description><$MTBlogDescription remove_html="1" encode_xml="1"$></description>
+    <language>en-us</language>
+    <managingEditor><$MTEntryAuthorEmail$></managingEditor>
+    <webMaster><$MTEntryAuthorEmail$></webMaster>
+    <copyright>Copyright <$MTDate format="%Y"> Scott Hanson. All rights reserved.</copyright>
+	<lastBuildDate><$MTEntryDate format="%a, %d %b %Y %H:%M:%S "$>GMT</lastBuildDate>
+    <generator>Moveable Type <$MTVersion$></generator>
+    <ttl>30</ttl>
+</MTEntries>
+<MTEntries lastn="10">
+    <item>
+      <title><$MTEntryTitle remove_html="1" encode_xml="1"$></title>
+      <link><$MTEntryLink encode_xml="1"$></link>
+      <guid isPermaLink="false"><$MTEntryID$>@<$MTBlogURL$></guid>
+      <description><$MTEntryExcerpt remove_html="1"$></description>
+      <content:encoded><![CDATA[<$MTEntryBody$>]]></content:encoded>
+      <pubDate><$MTEntryDate format="%a, %d %b %Y %H:%M:%S "$>GMT</pubDate>
+    </item>
+</MTEntries>
+  </channel>
+</rss>
