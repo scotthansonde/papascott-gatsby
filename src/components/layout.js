@@ -1,14 +1,14 @@
-import React from "react";
-import { Link, StaticQuery, graphql } from "gatsby";
-import _ from "lodash";
+import React from 'react';
+import { Link, StaticQuery, graphql } from 'gatsby';
+import _ from 'lodash';
 
-import Sidebar from "./sidebar";
-import Masthead from "./masthead";
+import Sidebar from './sidebar';
+import Masthead from './masthead';
 
-import "../css/poole.css";
-import "../css/syntax.css";
-import "../css/lanyon.css";
-import "../css/ps.css";
+import '../css/poole.css';
+import '../css/syntax.css';
+import '../css/lanyon.css';
+import '../css/ps.css';
 
 // const archives = _.rangeRight(1999, new Date().getFullYear()+1);
 
@@ -20,9 +20,13 @@ export default ({ children }) => (
           siteMetadata {
             title
             desc
+            emoji
           }
         }
-        archives: allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {frontmatter: {layout: {eq: "post"}}}) {
+        archives: allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { frontmatter: { layout: { eq: "post" } } }
+        ) {
           edges {
             node {
               fields {
@@ -34,7 +38,10 @@ export default ({ children }) => (
             }
           }
         }
-        pages: allMarkdownRemark(sort: {fields: [frontmatter___title]}, filter: {frontmatter: {layout: {eq: "page"}}}) {
+        pages: allMarkdownRemark(
+          sort: { fields: [frontmatter___title] }
+          filter: { frontmatter: { layout: { eq: "page" } } }
+        ) {
           edges {
             node {
               fields {
@@ -45,26 +52,34 @@ export default ({ children }) => (
           }
         }
       }
-      
     `}
     render={data => {
-      const allYears = data.archives.edges.map(item => item.node.fields.tags.replace('Y', ''));
+      const allYears = data.archives.edges.map(item =>
+        item.node.fields.tags.replace('Y', ''),
+      );
       const archives = _.uniq(allYears);
-      // console.log(archives);  
+      // console.log(archives);
       // const archives = _.rangeRight(1999, new Date().getFullYear()+1);
 
       return (
         <div className="theme-base-08">
-          <input type="checkbox" className="sidebar-checkbox" id="sidebar-checkbox" />
-          <Sidebar metadata={data.site.siteMetadata} pages={data.pages.edges} archives={archives} />
+          <input
+            type="checkbox"
+            className="sidebar-checkbox"
+            id="sidebar-checkbox"
+          />
+          <Sidebar
+            metadata={data.site.siteMetadata}
+            pages={data.pages.edges}
+            archives={archives}
+          />
           <div className="wrap">
             <Masthead metadata={data.site.siteMetadata} />
             <div className="content container">{children}</div>
           </div>
-          <label htmlFor="sidebar-checkbox" className="sidebar-toggle"></label>
+          <label htmlFor="sidebar-checkbox" className="sidebar-toggle" />
         </div>
-
-      )
+      );
     }}
   />
-)
+);
