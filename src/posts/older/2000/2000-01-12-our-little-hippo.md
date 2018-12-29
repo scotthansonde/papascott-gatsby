@@ -17,6 +17,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/01/crh0112.jpg" height="400" width="300" border="0" alt="crh0112.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/01/crh0112.jpg" height="400" width="300" border="0" alt="crh0112.jpg: " /></p>
 <p>We've started calling Christopher our "Nilpferd" (Hippopatomus, but it sounds better in German) because of all the interesting sounds he makes. The grunts, snorts and wheezes sound mostly happy.</p>
 <p><a href="http://www.geocities.com/Yosemite/Trails/5542/Hippopotamus.html">A hippopotamus song</a>: <i>They ooze in the gooze without any shoes - They waide in the water 'til their lips turn blue - THAT'S WHAT HIPPOS DO!</i></p>

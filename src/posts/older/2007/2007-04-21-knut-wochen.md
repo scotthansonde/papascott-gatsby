@@ -20,5 +20,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2007/04/knut-wochen.jpg" alt="Knut Wochen" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2007/04/knut-wochen.jpg" alt="Knut Wochen" /></p>
 <p>No, <a href="http://technorati.com/videos/tag/Knut">Knutmania</a> has not come to this, not yet (via <a href="http://www.dornhoff.net/2007/04/20/knut-und-marketing/">ChrisNux</a>, who has some more examples).</p>

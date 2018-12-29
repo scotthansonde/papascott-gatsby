@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2001/06/crhrain.jpg" height="225" width="300" border="0" alt="crhrain.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2001/06/crhrain.jpg" height="225" width="300" border="0" alt="crhrain.jpg: " /></p>
 <p>This is Christopher sitting (under the awning) outside in the rain this evening. It was raining this morning too. On our walk in the 10 steps between our front door and my car, I tripped over 4 giant, evil, ferocious black slugs. The kind that eat every living plant in their path. Gruesome creatures.</p>
 <p>Christopher had much more energy than I did this afternoon. I was barely able to keep up with his path of destruction. Here is his damage report for today.</p>
 <ul>

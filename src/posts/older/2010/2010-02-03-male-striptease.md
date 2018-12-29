@@ -20,7 +20,7 @@ author:
   last_name: Hanson
 ---
 <p>(That title should attract attention!) Or, A Different Kind of Dollar Menu. </p>
-<p><a href="/wordpress/wp-content/uploads/2010/02/han-winsen.jpg"><img src="/wordpress/wp-content/uploads/2010/02/han-winsen-150x150.jpg" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-3710" align="left<br />
+<p><a href="/wordpress/wp-content/uploads/2010/02/han-winsen.jpg"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2010/02/han-winsen-150x150.jpg" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-3710" align="left<br />
 " /></a>We've been giggling about this <a href="/wordpress/wp-content/uploads/2010/02/han-winsen.jpg">story</a> all day, but this was a nearby restaurant. If it were one of ours we wouldn't think it was so funny. I won't quote the brand or location to protect the innocent.</p>
 <p>Quick translation: "Male strip tease starts fight in fast-food restaurant. According to police a fight broke out Monday evening with a 30-year-old injured with pepper spray. A young man had dropped his pants. At 11:35 several young men entered the restaurant. As a 20-year-old admitted he didn't have enough to pay for his order, the 27-year-old female cashier told him 'you can strip for it'. The young man pulled down his pants. The cashier's boyfriend (waiting for her in the lobby) did not find that funny at all, and attacked the young man. In the resulting tumult the 30-year-old was sprayed in the eye, and both sides filed assault charges with the police." </p>
 <p>Moral: be careful with suggestive selling!</p>

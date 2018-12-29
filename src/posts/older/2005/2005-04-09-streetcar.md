@@ -17,6 +17,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="/fotos/streetcar1.php" onclick="window.open('https://www.papascott.de/fotos/streetcar1.php','popup','width=640,height=399,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="/wordpress/wp-content/uploads/2005/04/streetcar-thumb.jpg" width="320" height="199" border="0" alt="streetcar" /></a></p>
+<p><a href="/fotos/streetcar1.php" onclick="window.open('https://www.papascott.de/fotos/streetcar1.php','popup','width=640,height=399,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2005/04/streetcar-thumb.jpg" width="320" height="199" border="0" alt="streetcar" /></a></p>
 <p>We were in Braunschweig yesterday as first leg of our (ill-fated) Berlin trip. Christopher was impressed by the streetcars. <a href="/fotos/streetcar1.php" onclick="window.open('https://www.papascott.de/fotos/streetcar1.php','popup','width=640,height=399,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Click</a> for an enlargement.</p>
 <p>(This is a negative of his drawing, since his yellow outline is very hard to see on the white paper. So call this a streetcar at night.)</p>

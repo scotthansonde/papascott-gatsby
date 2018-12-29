@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2001/04/oma.jpg" height="243" width="325" border="0" alt="oma.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2001/04/oma.jpg" height="243" width="325" border="0" alt="oma.jpg: " /></p>
 <p><b>Late</b><br />
 Luckily, it didn't stay cold the whole day. We went to visit Christopher's grandmother in Eckernförde, and while the weather wasn't particularly pleasant, it wasn't cold. Christopher was in a better mood than he looks like in the pictureand yes, he has a new haircut.</p>
 <p><b>Early</b><br />

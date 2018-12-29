@@ -20,4 +20,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.blutspende-nstob.de/"><img src="/wordpress/wp-content/uploads/2007/09/logo-blutspendedienste.gif" alt="Logo Blutspendedienste" /></a> The <a href="http://www.blutspende-nstob.de/">Red Cross Bloodmobile</a> will be at our restaurant in Dibbersen on 18 September from 14:00 to 20:00, for those who prefer to give blood without playing rugby.</p>
+<p><a href="http://www.blutspende-nstob.de/"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2007/09/logo-blutspendedienste.gif" alt="Logo Blutspendedienste" /></a> The <a href="http://www.blutspende-nstob.de/">Red Cross Bloodmobile</a> will be at our restaurant in Dibbersen on 18 September from 14:00 to 20:00, for those who prefer to give blood without playing rugby.</p>

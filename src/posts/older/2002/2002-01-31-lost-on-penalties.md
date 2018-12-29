@@ -17,6 +17,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2002/01/crhccsalsa.jpg" height="244" width="325" border="0" alt="crhccsalsa.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2002/01/crhccsalsa.jpg" height="244" width="325" border="0" alt="crhccsalsa.jpg: " /></p>
 <p>Here's the <a href="/2002/01/30">cottage cheese and salsa</a> picture I promised last night.</p>
 <p><a href="http://diveintomark.org">diveintomark</a> has a new URL. Please make a note of it.</p>

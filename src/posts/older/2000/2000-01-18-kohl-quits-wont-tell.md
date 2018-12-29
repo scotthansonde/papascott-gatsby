@@ -23,4 +23,4 @@ author:
 <p>This is Germany's Watergate, and it's not over yet. The main difference is that it wasn't brought to light until after the Chief Executive was voted out of office.</p>
 <hr />
 I'm on the lookout for a good hippo graphic. Here's the first candidate. Mama says he's not friendly enough.</p>
-<p><img src="/wordpress/wp-content/uploads/2000/01/hippo3.gif" height="105" width="156" border="0" alt="hippo3.gif: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/01/hippo3.gif" height="105" width="156" border="0" alt="hippo3.gif: " /></p>

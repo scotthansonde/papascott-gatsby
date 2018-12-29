@@ -16,26 +16,26 @@ images:
 <ul class="photo-gallery">
   
     <li>
-      <a href="/assets/gallery/rdz-win3.jpg" data-lightbox="1" title="Kiosks">
-        <img src="/assets/gallery/rdz-win3.jpg" alt="Kiosks" />
+      <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win3.jpg" data-lightbox="1" title="Kiosks">
+        <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win3.jpg" alt="Kiosks" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win1.jpg" data-lightbox="1" title="Front Counter and McCafé">
-        <img src="/assets/gallery/rdz-win1.jpg" alt="Front Counter and McCafé" />
+      <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win1.jpg" data-lightbox="1" title="Front Counter and McCafé">
+        <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win1.jpg" alt="Front Counter and McCafé" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win2.jpg" data-lightbox="1" title="McCafé Lounge with 'Broken' Logo">
-        <img src="/assets/gallery/rdz-win2.jpg" alt="McCafé Lounge with 'Broken' Logo" />
+      <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win2.jpg" data-lightbox="1" title="McCafé Lounge with 'Broken' Logo">
+        <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win2.jpg" alt="McCafé Lounge with 'Broken' Logo" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win4.jpg" data-lightbox="1" title="Front Counter">
-        <img src="/assets/gallery/rdz-win4.jpg" alt="Front Counter" />
+      <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win4.jpg" data-lightbox="1" title="Front Counter">
+        <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win4.jpg" alt="Front Counter" />
       </a>
     </li>
   

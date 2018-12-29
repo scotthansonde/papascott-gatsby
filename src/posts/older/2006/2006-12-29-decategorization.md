@@ -20,7 +20,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2006/12/my_google_reader_tags.jpg" alt="my google reader tags" title="my google reader tags" align="right" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2006/12/my_google_reader_tags.jpg" alt="my google reader tags" title="my google reader tags" align="right" /></p>
 <p>A while ago I figured out that the websites I follow via RSS feeds fall into 3 categories:</p>
 <ol>
 <li>Sites I want to read as quickly as possible when there is something new</li>

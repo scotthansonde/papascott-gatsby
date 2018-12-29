@@ -23,4 +23,4 @@ author:
   first_name: Root
   last_name: User
 ---
-<p><a href="http://www.economist.com/node/17722567"><img src="/wordpress/wp-content/uploads/2011/02/economist.jpg" alt="economist.jpg" class="alignright" /></a> Time to <a href="/archives/2009/02/09/mr-boombastic/">turn the calendar</a> once again! And since The Economist recently declared that <a href="http://www.economist.com/node/17722567http://www.economist.com/node/17722567">life begins at 46</a>, things can only keep getting better, right?</p>
+<p><a href="http://www.economist.com/node/17722567"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2011/02/economist.jpg" alt="economist.jpg" class="alignright" /></a> Time to <a href="/archives/2009/02/09/mr-boombastic/">turn the calendar</a> once again! And since The Economist recently declared that <a href="http://www.economist.com/node/17722567http://www.economist.com/node/17722567">life begins at 46</a>, things can only keep getting better, right?</p>

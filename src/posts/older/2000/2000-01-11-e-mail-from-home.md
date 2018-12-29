@@ -27,4 +27,4 @@ From: Christopher Ryan Hanson &lt;crh@mausnews.de></p>
 it!</p>
 <hr />
 "Fliegergriff" is a grip the midwife showed us. It looks something like this:</p>
-<p><img src="/wordpress/wp-content/uploads/2000/01/crh0111.jpg" height="504" width="400" border="0" alt="crh0111.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/01/crh0111.jpg" height="504" width="400" border="0" alt="crh0111.jpg: " /></p>

@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2006/03//minus15.jpg" border="0" height="165" width="260" alt="minus15.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2006/03//minus15.jpg" border="0" height="165" width="260" alt="minus15.jpg" /></p>
 <p>It was bad enough that we got 24 hours of snowfall on Friday, but the temperature this morning is ridiculous! So much for "meteorological spring" starting on March 1. The graphic is in Celcius, that's 5&deg;F for Americans.</p>

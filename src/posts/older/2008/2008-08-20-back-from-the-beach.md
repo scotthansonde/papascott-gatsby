@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2008/08/spo.jpg" alt="spo.jpg" border="0" width="300" height="400" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2008/08/spo.jpg" alt="spo.jpg" border="0" width="300" height="400" /></p>
 <p>We've just returned from a couple of days at St. Peter-Ording on the North Sea. Details later.</p>

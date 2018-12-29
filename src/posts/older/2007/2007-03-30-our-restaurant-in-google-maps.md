@@ -20,6 +20,6 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2007/03/our-restaurant-in-google-maps.jpg" alt="Our Restaurant in Google Maps" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2007/03/our-restaurant-in-google-maps.jpg" alt="Our Restaurant in Google Maps" /></p>
 <p>We can't tell you where it is yet, but we can show it to you, thanks to <a href="http://maps.google.de">Google Maps</a>.</p>
 <p><strong>Update:</strong> I guess we can paint a <a href="http://gizmodo.com/gadgets/maps/roof-wanted-for-google-maps-ad-149029.php">logo on the roof</a>, then wait a couple years for Google to update their images... although a Target store has somewhat more roof space than we will. (Seriously, we will look into it... MamaMaus says the store is clearly visible to planes landing at Hamburg Airport from the south. And it would be a great way to get free publicity for a day.)</p>

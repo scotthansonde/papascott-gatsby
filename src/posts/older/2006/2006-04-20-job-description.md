@@ -16,5 +16,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2006/04//basecamp2.jpg" border="0" height="192" width="450" alt="basecamp.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2006/04//basecamp2.jpg" border="0" height="192" width="450" alt="basecamp.jpg" /></p>
 <p>I hadn't realized that Nico had entered my job description in <a href="http://www.basecamphq.com/">Basecamp</a>.</p>

@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/01/crh0113.jpg" height="300" width="400" border="0" alt="crh0113.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/01/crh0113.jpg" height="300" width="400" border="0" alt="crh0113.jpg: " /></p>
 <p>After taking several days off after returning from the hospital, Mama is again writing for the <a href="http://www.mausnews.de">Maus Newsletter</a>, mostly in German. Today she started her childbirth report.</p>
 <p>It's hard to hold a baby and type at the computer simultaneously. Is there such a thing as a keyboard that can be used with one hand?</p>
 <p>Oma is here for her first visit of Christopher. We have a couple of pictures in the Week 3 album at <a href="http://albums.photopoint.com/j/AlbumList?u=185392">Photopoint</a></p>

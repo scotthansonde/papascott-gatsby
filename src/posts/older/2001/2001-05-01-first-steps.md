@@ -17,4 +17,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2001/05/FirstSteps.jpg" height="533" width="400" border="0" alt="First Steps: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2001/05/FirstSteps.jpg" height="533" width="400" border="0" alt="First Steps: " /></p>

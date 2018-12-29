@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2004/12/crh_boxes.jpg" border="0" height="240" width="320" alt="crh_boxes.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/12/crh_boxes.jpg" border="0" height="240" width="320" alt="crh_boxes.jpg" /></p>
 <p>Papa was late coming home this afternoon, so he had to build a cardboard train for Christopher to make up for it. That white styrofoam thing is supposed to be a smokestack.</p>

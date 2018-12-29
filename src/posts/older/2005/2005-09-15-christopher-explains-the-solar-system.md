@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2005/09/crh_solar1.jpg" border="0" height="240" width="320" alt="crh_solar1.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2005/09/crh_solar1.jpg" border="0" height="240" width="320" alt="crh_solar1.jpg" /></p>
 <p>Christopher gives a seminar on the solar system using two flashlights.</p>
-<p><img src="/wordpress/wp-content/uploads/2005/09/crh_solar2.jpg" border="0" height="240" width="320" alt="crh_solar2.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2005/09/crh_solar2.jpg" border="0" height="240" width="320" alt="crh_solar2.jpg" /></p>
 <p>Here is the sun and Mercury on our dining room ceiling.</p>

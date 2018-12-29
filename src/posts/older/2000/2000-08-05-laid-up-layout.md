@@ -21,4 +21,4 @@ author:
 <hr />
 <font color="maroon">Okay, now that our home page doesn't resemble the front of our kitchen stove anymore I can contribute something!</p>
 <p>I've kept busy keeping Christopher from pulling <a href="http://shanson.editthispage.com/pictures/viewer$317">cables</a>. Yes, any electrical cords that we've tried to hide he'll go after.<br />
-<a href="http://w3.one.net/~voyager/candl.html"><img src="/wordpress/wp-content/uploads/2000/08/cl.jpg" height="123" width="118" align="left" alt="c&l: " border="0" /></a> I've re-discovered my favorite TV series <a href="http://w3.one.net/~voyager/candl.html">Cagney and Lacey</a>. The re-runs are on every afternoon and are a highlight in my daily routine.</font></p>
+<a href="http://w3.one.net/~voyager/candl.html"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/08/cl.jpg" height="123" width="118" align="left" alt="c&l: " border="0" /></a> I've re-discovered my favorite TV series <a href="http://w3.one.net/~voyager/candl.html">Cagney and Lacey</a>. The re-runs are on every afternoon and are a highlight in my daily routine.</font></p>

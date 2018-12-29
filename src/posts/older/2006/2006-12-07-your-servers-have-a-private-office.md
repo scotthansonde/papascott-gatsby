@@ -21,4 +21,4 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20061207.html">Today's Dilbert</a> sums up modern system administration.</p>
-<p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20061207.html"><img src="/wordpress/wp-content/uploads/2006/12/dilbert_servers.gif" alt="Dilbert Servers" /></a></p>
+<p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20061207.html"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2006/12/dilbert_servers.gif" alt="Dilbert Servers" /></a></p>

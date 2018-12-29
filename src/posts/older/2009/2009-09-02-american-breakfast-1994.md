@@ -19,4 +19,4 @@ author:
   last_name: Hanson
 ---
 <p>A guest brought us this post card advertising breakfast at McDonald's in Germany. It must be from 1994.. the prices on the back are in "Marks" and Denglish was obviously very in. Modern breakfast marketing looks <a href="http://www.mcdonalds.de/produkte/easy_morning.html">different</a>.</p>
-<p><img src="/wordpress/wp-content/uploads/2009/09/american_breakfast.jpg" alt="Willst you go fr&uuml;hst&uuml;cken with me?" border="0" width="342" height="450" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2009/09/american_breakfast.jpg" alt="Willst you go fr&uuml;hst&uuml;cken with me?" border="0" width="342" height="450" /></p>

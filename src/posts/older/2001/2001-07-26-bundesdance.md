@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2001/07/crhopengrin.jpg" height="241" width="300" border="0" alt="crhopengrin.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2001/07/crhopengrin.jpg" height="241" width="300" border="0" alt="crhopengrin.jpg: " /></p>
 <p>Christopher <a href="http://shcon.com/index.php?album=07_2001%2F20010726&dispsize=512&start=0">cools off</a> after a long hot day in the sandbox. (<br />
 <a href="http://phpix2.sourceforge.net/">PHPix</a> seems to be working quite well for the pictures, even though it's running on a very underpowered box. I think we'll keep it!)</p>
 <p>Posted in our company intranet: <a href="http://www.sueddeutsche.de/sz/kultur/bundesdance/start.html">Bundesdance</a> (Flash alert!) with Schröder, Merkel and Stoiber. You can pick their music and dance moves. Knowledge of German language and politics helpful but not required. </p>

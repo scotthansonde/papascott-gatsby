@@ -18,5 +18,5 @@ author:
   last_name: Hanson
 ---
 <p>My cousin Tracy wanted to see some Grandma and Grandpa pictures.</p>
-<p><img src="/wordpress/wp-content/uploads/2000/04/crhgg1.jpg" height="236" width="350" border="0" alt="crhgg1.jpg: " /></p>
-<p><img src="/wordpress/wp-content/uploads/2000/04/crhgg2.jpg" height="317" width="350" border="0" alt="crhgg2.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/04/crhgg1.jpg" height="236" width="350" border="0" alt="crhgg1.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/04/crhgg2.jpg" height="317" width="350" border="0" alt="crhgg2.jpg: " /></p>

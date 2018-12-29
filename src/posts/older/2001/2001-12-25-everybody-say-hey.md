@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2001/12/crhheyxmas.jpg" height="263" width="350" border="0" alt="crhheyxmas.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2001/12/crhheyxmas.jpg" height="263" width="350" border="0" alt="crhheyxmas.jpg: " /></p>
 <p>Christopher wishes everyone Merry Christmas, in his own unique way.</p>

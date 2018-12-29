@@ -20,7 +20,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2007/04/netter-versuch-mama.jpg" alt="Netter Versuch, Mama" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2007/04/netter-versuch-mama.jpg" alt="Netter Versuch, Mama" /></p>
 <p>MamaMaus brought home this picture and said it would be good for PapaScott. File it under McDonald's humor that McDonald's people find funny. If you've never sent a child to a German school, this is obviously a school lunch <em>Pausenbrot</em> in a different wrapping.</p>
 <p>It seems to come from an <a href="http://derstandard.at/?url=/?id=2464453">ad campaign for McDonald's Austria</a>.</p>
 <p>No, we don't do this. We wrap Christopher's <em>Pausenbrot</em> in normal waxed paper like all other parents.</p>

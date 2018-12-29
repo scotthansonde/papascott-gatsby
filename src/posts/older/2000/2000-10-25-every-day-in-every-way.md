@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/10/hairnet.jpg" height="284" width="350" border="0" alt="hairnet.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/10/hairnet.jpg" height="284" width="350" border="0" alt="hairnet.jpg: " /></p>
 <p>Christopher says thanks to "andrea" and "al" for the good wishes. (Actually, he's really saying "Get me out of this stupid hairnet!" Sorry, guy, you need it to keep your IV from flapping in the wind.)</p>
 <p>We've finally got our vacation pictures up at "photopoint", sorted by date but with no comments.</p>
 <p>I was with Christopher most of the afternoon, giving Mama a chance to get out. His blood gas is now normal, say the doctors. As a layman, I would say that he's at 90% and should be back to normal by the weekend in time to face Roger Clemens in Game 6. </p>

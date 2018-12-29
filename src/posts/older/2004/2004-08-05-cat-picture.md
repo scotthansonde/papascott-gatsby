@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2004/08/nena_killer.jpg" alt="" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/08/nena_killer.jpg" alt="" /></p>
 <p>Nena with half of a mouse, minus head. (If Lyssa can post <a href="http://www.lyssas-lounge.de/peepshow/archiv/000137.html">half mouse pictures</a>, so can I.)</p>

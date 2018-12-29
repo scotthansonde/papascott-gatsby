@@ -17,4 +17,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2004/06/crh_ahoy.jpg" alt="Christopher the pirate" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/06/crh_ahoy.jpg" alt="Christopher the pirate" /></p>

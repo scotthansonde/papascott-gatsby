@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><a href="http://www.overshadowed.com/mt/archives/000250.html"><img src="/wordpress/wp-content/uploads/2004/09/leuchtturm.jpg" border="0" title="Link to full image" alt="" /> </a></p>
+<p><a href="http://www.overshadowed.com/mt/archives/000250.html"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/09/leuchtturm.jpg" border="0" title="Link to full image" alt="" /> </a></p>
 <p><a href="http://www.overshadowed.com/mt/archives/000250.html">NYC Tribute in Light by Keith Kin Yan</a> <a href="http://www.kottke.org/remainder/04/09/6477.html">(via kottke)</a></p>
 <p>Ich geh mit dir wohin du willst<br />
 Auch bis ans Ende dieser Welt<br />

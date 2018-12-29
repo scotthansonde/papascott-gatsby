@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/03/20000307010.jpg" height="262" width="350" border="0" alt="crh0307.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/03/20000307010.jpg" height="262" width="350" border="0" alt="crh0307.jpg: " /></p>
 <p>We're all to tired today to think of any entries. Maybe tomorrow!</p>

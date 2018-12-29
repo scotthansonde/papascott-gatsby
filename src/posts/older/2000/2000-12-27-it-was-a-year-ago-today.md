@@ -22,11 +22,11 @@ author:
 <tr valign="top">
 <td>
 Christopher then:<br />
-<a href="/1999/12/27"><img src="/wordpress/wp-content/uploads/2000/12/crh1again.jpg" height="143" width="150" border="0" alt="crh1again.jpg: " /></a>
+<a href="/1999/12/27"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/12/crh1again.jpg" height="143" width="150" border="0" alt="crh1again.jpg: " /></a>
 </td>
 <td>
 And now:<br />
-<a href="http://albums.photopoint.com/j/ViewPhoto?u=185392&a=10613082&p=36250364"><img src="/wordpress/wp-content/uploads/2000/12/crh261200.jpg" height="250" width="178" border="0" alt="crh261200.jpg: " /></a>
+<a href="http://albums.photopoint.com/j/ViewPhoto?u=185392&a=10613082&p=36250364"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/12/crh261200.jpg" height="250" width="178" border="0" alt="crh261200.jpg: " /></a>
 </td>
 </tr>
 </table>

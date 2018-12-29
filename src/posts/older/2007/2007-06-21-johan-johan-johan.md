@@ -21,4 +21,4 @@ author:
   last_name: Hanson
 ---
 <p>Ladies, gentlemen and children of all ages, reintroducing the reigning best pitcher in major league baseball, <a href="http://www.startribune.com/blogs/sinker/?p=126">Mr. Johan Alexander Santana</a>!</p>
-<p><img src="/assets/0ajohan.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/assets/0ajohan.jpg" /></p>

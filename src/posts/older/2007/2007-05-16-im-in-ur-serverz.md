@@ -21,5 +21,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2007/05/im-in-ur-serverz.gif" alt="im in ur serverz" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2007/05/im-in-ur-serverz.gif" alt="im in ur serverz" /></p>
 <p>This seems to be <a href="http://static.twitter.com/system/maintenance/maintenance.gif">Twitter's</a> maintenance graphic, as opposed to a <a href="http://www.flickr.com/photos/elderzhang/268338116/">plumber</a> or a  <a href="http://www.flickr.com/photos/teo/6126518/">massage</a>. <a href="http://www.dashes.com/anil/2007/04/cats-can-has-gr.html">Lolcats</a> must be the new black.</p>

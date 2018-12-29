@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/12/Travel.jpg" height="467" width="350" border="0" alt="Travel: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/12/Travel.jpg" height="467" width="350" border="0" alt="Travel: " /></p>
 <p>PapaScott, MamaMaus and Christopher are all packed up for their trip to Munich.</p>

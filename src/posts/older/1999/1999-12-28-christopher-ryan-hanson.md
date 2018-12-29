@@ -21,4 +21,4 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/1999/12/crh2.jpg" height="300" width="400" border="0" alt="crh2.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/1999/12/crh2.jpg" height="300" width="400" border="0" alt="crh2.jpg: " /></p>

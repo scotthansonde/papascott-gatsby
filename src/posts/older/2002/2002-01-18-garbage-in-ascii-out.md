@@ -18,5 +18,5 @@ author:
   last_name: Hanson
 ---
 <p>Here's what Christopher and I do after work. First we do our chores, then we go surfing!</p>
-<p><img src="/wordpress/wp-content/uploads/2002/01/crhabwasch.jpg" height="244" width="325" border="0" alt="crhabwasch.jpg: " /></p>
-<p><img src="/wordpress/wp-content/uploads/2002/01/crhdangmeta.jpg" height="244" width="325" border="0" alt="crhdangmeta.jpg: Christopher checking out dangerousmeta in Opera" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2002/01/crhabwasch.jpg" height="244" width="325" border="0" alt="crhabwasch.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2002/01/crhdangmeta.jpg" height="244" width="325" border="0" alt="crhdangmeta.jpg: Christopher checking out dangerousmeta in Opera" /></p>

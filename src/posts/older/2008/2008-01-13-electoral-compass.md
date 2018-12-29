@@ -21,6 +21,6 @@ author:
   last_name: Hanson
 ---
 <p><a href="http://www.electoralcompass.com/"></p>
-<div style="text-align:center;"><img src="/wordpress/wp-content/uploads/2008/01/position.jpg" alt="position.jpg" border="0" width="351" height="235" /></div>
+<div style="text-align:center;"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2008/01/position.jpg" alt="position.jpg" border="0" width="351" height="235" /></div>
 <p></a></p>
 <p>At <a href="http://www.electoralcompass.com/">Electoral Compass USA</a> you can take a survey and compare yourself to the major US presidential candidates. But I already knew I liked Obama, so I didn't learn anything new. (<a href="http://www.davosnewbies.com/2008/01/10/the-us-electoral-compass/">via Davos Newbies</a>)</p>

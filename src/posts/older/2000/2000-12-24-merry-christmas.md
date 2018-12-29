@@ -17,7 +17,7 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/12/crhxmas2000.jpg" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/12/crhxmas2000.jpg" /></p>
 <p>from Christopher and his parents</p>
 <p>Our plans for the day are pretty much the same as <a href="/1999/12/24">last year</a>, except that our evening meal will be quesadillas instead of raclette.</p>
 <p>I'm writing this paragraph with the ThinkPad from our kitchen. There's a phone jack there, so I can connect to T-Offline (as long as the LAN upstairs is offline... the <a href="http://www.t-online.de">big pink T</a> doesn't want me logging on twice).</p>

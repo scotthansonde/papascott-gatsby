@@ -17,5 +17,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2000/04/Dscn0007001.jpg" height="332" width="350" border="0" alt="crh03Apr.jpg: " /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2000/04/Dscn0007001.jpg" height="332" width="350" border="0" alt="crh03Apr.jpg: " /></p>
 <p>The best picture from Christopher's party was in fact taken by accident. This is his "Mamma Rhino / Rhino Runt" headband.</p>

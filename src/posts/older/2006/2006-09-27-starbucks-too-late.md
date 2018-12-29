@@ -20,5 +20,5 @@ author:
   first_name: Scott
   last_name: Hanson
 ---
-<p><img src="/wordpress/wp-content/uploads/2006/09/starbucks_rathausmarkt_hh.jpg" alt="Starbucks Rathausmarkt HH" /></p>
+<p><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2006/09/starbucks_rathausmarkt_hh.jpg" alt="Starbucks Rathausmarkt HH" /></p>
 <p>Starbucks has <a href="http://www.ankegroener.de/?p=1688">finally arrived in Hamburg</a>, about a decade too late (photo stolen from Anke Gröner, I hope she doesn't mind... it's not like I ever get to downtown anymore).</p>

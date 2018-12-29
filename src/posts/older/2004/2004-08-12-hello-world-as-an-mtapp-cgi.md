@@ -96,8 +96,8 @@ sub hello {
 Hello, world!
 &lt;tmpl_include NAME="footer.tmpl"&gt;</pre>
 <p>And no description of a web application is complete without a couple of screenshots:</p>
-<p>Main screen:<a href="/wordpress/wp-content/uploads/2004/08/hello_main.gif"><img src="/wordpress/wp-content/uploads/2004/08/hello_mainthumb.gif" alt="Main screen" border="0" /></a></p>
-<p>CGI screen:<a href="/wordpress/wp-content/uploads/2004/08/hello_cgi.gif"><img src="/wordpress/wp-content/uploads/2004/08/hello_cgithumb.gif" alt="CGI screen" border="0" /></a></p>
+<p>Main screen:<a href="/wordpress/wp-content/uploads/2004/08/hello_main.gif"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/08/hello_mainthumb.gif" alt="Main screen" border="0" /></a></p>
+<p>CGI screen:<a href="/wordpress/wp-content/uploads/2004/08/hello_cgi.gif"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2004/08/hello_cgithumb.gif" alt="CGI screen" border="0" /></a></p>
 <p>Now I just have to write a CGI that actually does something, like, ummm, what did I want to do again? Oh yes, set a couple of configuration variables for my plugin.</p>
 <p><strong>Update 28 Oct 2004:</strong> David Jacobs noticed some missing backslashes, which I'm guessing went missing when I reimported all my blog entries into Movable Type. Sorry about that!</p>
 <p><strong>18 Mar 2005</strong> MySQL ate my blackslashes again! Crucial backslashes were missing in <code>$app-&gt;add_methods (hello =&gt; &hello);</code> and <code>$app-&gt;build_page('hello.tmpl', %param);</code>. Thanks to the ProNet mailing list for pointing this out in February and to Nathanial Irons for reminding me that I hadn't yet corrected this page.</p>
