@@ -5,9 +5,11 @@ export default ({ metadata }) => (
     <div className="container">
       <h3 className="masthead-title">
         <a href="/" title="Home">
-          {metadata.title} {metadata.emoji}
+          {metadata.title}
         </a>{' '}
-        <small>{metadata.desc}</small>
+        <small>
+          {metadata.desc} {metadata.emoji}
+        </small>
       </h3>
     </div>
   </div>
