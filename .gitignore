@@ -60,5 +60,5 @@ typings/
 .cache/
 public
 yarn-error.log
-old_posts/
+inactive_posts/
 notes.txt
