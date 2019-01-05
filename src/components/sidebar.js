@@ -31,9 +31,14 @@ export default ({ metadata, pages, archives }) => (
 
     <div className="sidebar-nav-item">
       Archives:&nbsp;
-      {[...archives, ...archivesStatic].map(yr => (
+      {archives.map(yr => (
         <span key={yr}>
           <Link to={`/archives/${yr}`}>{yr}</Link>{' '}
+        </span>
+      ))}
+      {archivesStatic.map(yr => (
+        <span key={yr}>
+          <a href={`/archives/${yr}`}>{yr}</a>{' '}
         </span>
       ))}
     </div>
