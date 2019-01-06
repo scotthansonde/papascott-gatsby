@@ -1,11 +1,12 @@
-import React from "react";
-import { Link, graphql } from 'gatsby'; 
-import Layout from "../components/layout";
+import React from 'react';
+import { Link, graphql } from 'gatsby';
+import Layout from '../components/layout';
+import RecentPosts from '../components/recentPosts';
 
 const RelatedPost = ({ type, slug, title, date }) => (
   <li>
     <h3>
-      {type}:{" "}
+      {type}:{' '}
       <Link to={slug}>
         {title} <small>{date}</small>
       </Link>
@@ -22,16 +23,25 @@ export default ({ data, pageContext }) => {
         <span className="post-date">{post.fields.date}</span>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </div>
-      <div className="related">
-        <ul className="related-posts">
-          {pageContext.prev ? (
-            <RelatedPost type="Previous" slug={pageContext.prev.fields.slug} title={pageContext.prev.fields.title} date={pageContext.prev.fields.date} />
-          ) : null}
-          {pageContext.next ? (
-            <RelatedPost type="Next" slug={pageContext.next.fields.slug} title={pageContext.next.fields.title} date={pageContext.next.fields.date} />
-          ) : null}
-        </ul>
+      <div>
+        {pageContext.prev && (
+          <span className="post-date">
+            Previous Post:{' '}
+            <Link to={pageContext.prev.fields.slug}>
+              {pageContext.prev.fields.title}
+            </Link>
+          </span>
+        )}
+        {pageContext.next && (
+          <span className="post-date">
+            Next Post:{' '}
+            <Link to={pageContext.next.fields.slug}>
+              {pageContext.next.fields.title}
+            </Link>
+          </span>
+        )}
       </div>
+      <RecentPosts />
     </Layout>
   );
 };
