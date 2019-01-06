@@ -4,7 +4,7 @@ module.exports = {
     emoji: `🚀`,
     desc: 'I like big blogs and I cannot lie',
     description: 'I like big blogs and I cannot lie',
-    siteUrl: 'https://next.papascott.de',
+    siteUrl: 'https://www.papascott.de',
     pagination: 5,
   },
   pathPrefix: '/',
