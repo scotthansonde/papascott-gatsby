@@ -48,9 +48,10 @@ export default ({ metadata, pages, archives }) => (
     </a>
 
     <div className="sidebar-nav-item">
-      Powered by <a href="https://www.gatsbyjs.org/">gatsby</a>, styled by{' '}
+      Powered by <a href="https://www.gatsbyjs.org/">gatsby</a>, older posts by{' '}
+      <a href="https://jekyllrb.com/">jekyll</a>, styled by{' '}
       <a href="http://lanyon.getpoole.com/">lanyon</a>, served by{' '}
-      <a href="https://www.netlify.com/">netlify</a>
+      <a href="https://www.netlify.com/">netlify</a>.
       <p>&copy; {moment().format('YYYY')}. All rights reserved.</p>
     </div>
   </div>
