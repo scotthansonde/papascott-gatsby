@@ -33,10 +33,6 @@ export default ({ data, pageContext }) => {
             <div dangerouslySetInnerHTML={{ __html: node.html }} />
           </div>
         ))}
-      {/* <div className="pagination">
-        <NavLink test={last} url={nextUrl} text="Older" />
-        <NavLink test={first} url={previousUrl} text="Newer" />
-      </div> */}
     </Layout>
   );
 };

@@ -10,8 +10,6 @@ import '../css/syntax.css';
 import '../css/lanyon.css';
 import '../css/ps.css';
 
-// const archives = _.rangeRight(1999, new Date().getFullYear()+1);
-
 export default ({ children }) => (
   <StaticQuery
     query={graphql`
@@ -58,8 +56,6 @@ export default ({ children }) => (
         item.node.fields.tags.replace('Y', ''),
       );
       const archives = _.uniq(allYears);
-      // console.log(archives);
-      // const archives = _.rangeRight(1999, new Date().getFullYear()+1);
 
       return (
         <div className="theme-base-08">
