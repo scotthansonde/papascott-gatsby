@@ -15,3 +15,4 @@
 /archives/2013/* https://archive.papascott.de/archives/2013/:splat 200!
 /archives/2014/* https://archive.papascott.de/archives/2014/:splat 200!
 /public/* https://archive.papascott.de/public/:splat 200!
+/feed /feed/index.xml 301
