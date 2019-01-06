@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
+import { DiscussionEmbed } from 'disqus-react';
 import Layout from '../components/layout';
 import RecentPosts from '../components/recentPosts';
 
 export default ({ data, pageContext }) => {
   const post = data.post;
+  const disqusShortName = 'papascott';
   return (
     <Layout>
       <div className="post">
@@ -31,6 +33,7 @@ export default ({ data, pageContext }) => {
         )}
       </div>
       <RecentPosts />
+      <DiscussionEmbed shortname={disqusShortName} />
     </Layout>
   );
 };
