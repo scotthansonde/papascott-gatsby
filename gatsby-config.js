@@ -10,6 +10,9 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     {
+      resolve: `gatsby-plugin-react-helmet`,
+    },
+    {
       resolve: `gatsby-plugin-web-font-loader`,
       options: {
         google: {
@@ -81,7 +84,7 @@ module.exports = {
                 }
               }
             `,
-            output: '/rss.xml',
+            output: '/feed/index.xml',
             title: 'Gatsby RSS Feed',
           },
         ],
