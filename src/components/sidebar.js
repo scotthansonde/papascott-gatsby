@@ -51,7 +51,8 @@ export default ({ metadata, pages, archives }) => (
       Powered by <a href="https://www.gatsbyjs.org/">gatsby</a>, older posts by{' '}
       <a href="https://jekyllrb.com/">jekyll</a>, styled by{' '}
       <a href="http://lanyon.getpoole.com/">lanyon</a>, served by{' '}
-      <a href="https://www.netlify.com/">netlify</a>.
+      <a href="https://www.netlify.com/">netlify</a>, code and posts at{' '}
+      <a href="https://github.com/papascott/papascott-gatsby">GitHub</a>.
       <p>&copy; {moment().format('YYYY')}. All rights reserved.</p>
     </div>
   </div>
