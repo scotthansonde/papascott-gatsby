@@ -9,9 +9,10 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
-    {
-      resolve: `gatsby-plugin-react-helmet`,
-    },
+    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-transformer-remark`,
+    `gatsby-transformer-json`,
     {
       resolve: `gatsby-plugin-web-font-loader`,
       options: {
@@ -26,12 +27,6 @@ module.exports = {
         name: `src`,
         path: `${__dirname}/src/`,
       },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-    },
-    {
-      resolve: `gatsby-transformer-json`,
     },
     {
       resolve: `gatsby-plugin-feed`,
