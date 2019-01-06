@@ -28,7 +28,7 @@ export default ({ children }) => (
         <h2>Recent Posts</h2>
         <ul className="related-posts">
           {data.allMarkdownRemark.edges.map(post => (
-            <li>
+            <li key={post.node.fields.slug}>
               <h3>
                 <Link to={post.node.fields.slug}>
                   {post.node.fields.title}{' '}

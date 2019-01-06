@@ -3,17 +3,6 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/layout';
 import RecentPosts from '../components/recentPosts';
 
-const RelatedPost = ({ type, slug, title, date }) => (
-  <li>
-    <h3>
-      {type}:{' '}
-      <Link to={slug}>
-        {title} <small>{date}</small>
-      </Link>
-    </h3>
-  </li>
-);
-
 export default ({ data, pageContext }) => {
   const post = data.post;
   return (
