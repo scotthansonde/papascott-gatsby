@@ -8,6 +8,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "acorn": "^6.1.1",
     "disqus-react": "^1.0.5",
     "gatsby": "^2.8.6",
     "gatsby-paginate": "1.0.17",
@@ -21,6 +22,7 @@
     "gatsby-transformer-remark": "^2.3.12",
     "immutable": "^3.8.2",
     "netlify-cms": "^2.9.1",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
