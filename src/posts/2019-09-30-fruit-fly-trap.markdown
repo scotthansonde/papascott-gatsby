@@ -3,7 +3,7 @@ layout: post
 date: 2019-09-30T19:48:28.864Z
 title: Fruit Fly Trap
 ---
-We left some cut flowers in the house too long, and the flowers wilted and the kitchen is full of fruit flies. I made a fruit fly trap with a glass of apple vinegar (with a few drops of dish soap) covered with plastic wrap with some pin holes.
+We left some cut flowers in the house too long. The flowers wilted and the kitchen is now full of fruit flies. I made a fruit fly trap with a glass of apple vinegar (with a few drops of dish soap) covered with plastic wrap with some pin holes.
 
 ![Glass of apple vinegar covered with plastic wrap with pin holes](/assets/fruitflytrap.jpg "Fruit Fly Trap")
 
