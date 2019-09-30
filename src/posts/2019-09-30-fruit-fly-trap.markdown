@@ -7,6 +7,6 @@ We left some cut flowers in the house too long, and the flowers wilted and the k
 
 ![Glass of apple vinegar covered with plastic wrap with pin holes](/assets/fruitflytrap.jpg "Fruit Fly Trap")
 
-The fruit flies smell the vinegar and struggle through the pin holes to get to it. Once they're in, they forget how they got there and crawl around aimlessly inside of the glass until they fall in and drown.
+The fruit flies smell the vinegar and struggle through the pin holes to get to it. Once they're in, they forget how they got there and crawl around aimlessly inside the glass until they fall in the vinegar and drown.
 
 There's a lesson there for humans, I'm sure.
