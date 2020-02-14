@@ -17,6 +17,6 @@ After that, we were lucky enough that local high school basketball tournaments (
 
 But when was that exactly? If memory serves, tournament games tended to be on Thursdays and Saturdays, so the first one could have been on Thursday, the 14th. Or maybe not. 
 
-A week later on the 22nd was the [Miracle on Ice](https://www.history.com/this-day-in-history/u-s-hockey-team-makes-miracle-on-ice), a big event in Minnesota at the time. We must have "dated" before that, because I remember thinking of her at the time. Anyway, after 2 or 3 weeks both basketball tournaments were over, and we had to go on an actual date with just the two of us. That was a movie, [Moonraker](https://www.imdb.com/title/tt0079574/).
+A week later on the 22nd was the [Miracle on Ice](https://www.history.com/this-day-in-history/u-s-hockey-team-makes-miracle-on-ice), a big event in Minnesota in 1980. We must have "dated" before that, because I remember thinking of her at the time. Anyway, after 2 or 3 weeks both basketball tournaments were over, and we had to go on an actual date with just the two of us. That was a movie, [Moonraker](https://www.imdb.com/title/tt0079574/).
 
 And that brings us to today. As I said, we were going to have big plans for the evening, but it turned out Frauke has a business trip with an indeterminate end. Even if she does get home early, we have no plans. Maybe we can find a basketball game.
