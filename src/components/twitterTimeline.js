@@ -8,7 +8,7 @@ if (typeof window !== `undefined`) {
 class twitterTimeline extends Component {
   componentDidMount() {
     twitterFetcher.fetch({
-      profile: { screenName: 'papascott' },
+      profile: { screenName: 'ScottHansonDE' },
       domId: 'twitter-news',
       maxTweets: 3,
       enableLinks: true,
@@ -22,7 +22,7 @@ class twitterTimeline extends Component {
     return (
       <div className="post" id="twitterWrapper">
         <p className="twitter-header">
-          <a href="https://twitter.com/papascott">Tweets by @papascott</a>
+          <a href="https://twitter.com/papascott">Tweets by @ScottHansonDE</a>
         </p>
         <div id="twitter-news" />
       </div>

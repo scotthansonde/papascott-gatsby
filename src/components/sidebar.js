@@ -13,9 +13,9 @@ export default ({ metadata, pages, archives }) => (
         Hanson.
       </p>
       <p>
-        Twitter: <a href="https://twitter.com/papascott">@papascott</a>
+        Twitter: <a href="https://twitter.com/ScottHansonDE">@ScottHansonDE</a>
         <br />
-        Facebook: <a href="https://www.facebook.com/papascott">papascott</a>
+        Facebook: <a href="https://www.facebook.com/ScottHansonDE/">ScottHansonDE</a>
         <br />
         GitHub: <a href="http://github.com/papascott">papascott</a>
       </p>
