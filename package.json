@@ -21,7 +21,7 @@
     "gatsby-transformer-json": "^2.1.11",
     "gatsby-transformer-remark": "^2.3.12",
     "immutable": "^3.8.2",
-    "netlify-cms": "^2.9.1",
+    "netlify-cms": "^2.10.161",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
