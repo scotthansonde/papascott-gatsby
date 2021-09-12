@@ -8,24 +8,24 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "acorn": "^6.1.1",
-    "disqus-react": "^1.0.5",
-    "gatsby": "^2.8.6",
-    "gatsby-paginate": "1.0.17",
-    "gatsby-plugin-feed": "^2.2.3",
+    "acorn": "^8.5.0",
+    "disqus-react": "^1.1.2",
+    "gatsby": "^3.13.0",
+    "gatsby-paginate": "1.1.1",
+    "gatsby-plugin-feed": "^3.13.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-netlify-cms": "^4.0.1",
-    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-netlify-cms": "^5.13.0",
+    "gatsby-plugin-react-helmet": "^4.13.0",
     "gatsby-plugin-web-font-loader": "^1.0.4",
-    "gatsby-source-filesystem": "^2.0.38",
-    "gatsby-transformer-json": "^2.1.11",
-    "gatsby-transformer-remark": "^2.3.12",
+    "gatsby-source-filesystem": "^3.13.0",
+    "gatsby-transformer-json": "^3.13.0",
+    "gatsby-transformer-remark": "^4.10.0",
     "immutable": "^3.8.2",
     "netlify-cms-app": "^2.15.41",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "twitter-fetcher": "^18.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "twitter-fetcher": "^18.0.4"
   }
 }

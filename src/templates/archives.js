@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/layout';
+import { decode } from 'html-entities';
 
-const Entities = require('html-entities').AllHtmlEntities;
-const entities = new Entities();
 
 export default function Archives({ pageContext }) {
   const { posts, post, tag } = pageContext;
@@ -18,7 +17,7 @@ export default function Archives({ pageContext }) {
               <li key={value.slug}>
                 <span className="post-date">
                   {value.date}&nbsp;
-                  <a href={value.slug}>{entities.decode(value.title)}</a>
+                  <a href={value.slug}>{decode(value.title)}</a>
                 </span>
               </li>
             );

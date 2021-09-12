@@ -1,8 +1,8 @@
 import React from "react";
-import { graphql } from 'gatsby'; 
+import { graphql } from 'gatsby';
 import Layout from "../components/layout";
 
-export default ({ data }) => {
+const Page = ({ data }) => {
   const page = data.markdownRemark;
   return (
     <Layout>
@@ -22,3 +22,4 @@ export const query = graphql`
     }
   }
 `;
+export default Page

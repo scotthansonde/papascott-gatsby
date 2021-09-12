@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/layout';
-export default () => (
+const FourOhFour = () => (
   <Layout>
     <h1>404: Page not found</h1>
     <p>
@@ -9,3 +9,4 @@ export default () => (
     </p>
   </Layout>
 );
+export default FourOhFour

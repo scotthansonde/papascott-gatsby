@@ -4,7 +4,7 @@ import { DiscussionEmbed } from 'disqus-react';
 import Layout from '../components/layout';
 import RecentPosts from '../components/recentPosts';
 
-export default ({ data, pageContext }) => {
+const Post = ({ data, pageContext }) => {
   const post = data.post;
   const disqusShortName = 'papascott';
   return (
@@ -50,3 +50,4 @@ export const query = graphql`
     }
   }
 `;
+export default Post
