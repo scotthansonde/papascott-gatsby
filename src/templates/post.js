@@ -33,7 +33,7 @@ export default ({ data, pageContext }) => {
         )}
       </div>
       <RecentPosts />
-      <DiscussionEmbed shortname={disqusShortName} />
+      {/* <DiscussionEmbed shortname={disqusShortName} /> */}
     </Layout>
   );
 };
