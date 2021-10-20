@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "If Clinton Wins"
-date: "2016-11-02 11:10:52 +0100"
+title: 'If Clinton Wins'
+date: '2016-11-02 11:10:52 +01:00'
 ---
+
 A couple of days ago Dave Winer wrote a piece about [Trump winning](http://scripting.com/2016/10/30/imOkayWithTrumpWinning.html). So what if Clinton wins?
 
 It will be like the status quo only worse.

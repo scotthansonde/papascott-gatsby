@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Future Part 2"
-date: "2017-02-26 10:03:24 +0100"
-image: "rgallery/rdz-win-fb.jpg"
+title: 'The Future Part 2'
+date: '2017-02-26 10:03:24 +01:00'
+image: 'rgallery/rdz-win-fb.jpg'
 images:
   - image_path: /assets/gallery/rdz-win3.jpg
     title: Kiosks
@@ -13,32 +13,33 @@ images:
   - image_path: /assets/gallery/rdz-win4.jpg
     title: Front Counter
 ---
+
 <ul class="photo-gallery">
-  
+
     <li>
       <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win3.jpg" data-lightbox="1" title="Kiosks">
         <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win3.jpg" alt="Kiosks" />
       </a>
     </li>
-  
+
     <li>
       <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win1.jpg" data-lightbox="1" title="Front Counter and McCafé">
         <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win1.jpg" alt="Front Counter and McCafé" />
       </a>
     </li>
-  
+
     <li>
       <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win2.jpg" data-lightbox="1" title="McCafé Lounge with 'Broken' Logo">
         <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win2.jpg" alt="McCafé Lounge with 'Broken' Logo" />
       </a>
     </li>
-  
+
     <li>
       <a href="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win4.jpg" data-lightbox="1" title="Front Counter">
         <img src="https://res.cloudinary.com/papascott/image/upload/assets/gallery/rdz-win4.jpg" alt="Front Counter" />
       </a>
     </li>
-  
+
 </ul>
 
 Last fall we converted our restaurant in Dibbersen into a [Restaurant of the Future](/archives/2016/11/07/the-future-is-now/). Now we've remodeled our Hamburg, Winsener Straße restaurant so now we have doubled the future!

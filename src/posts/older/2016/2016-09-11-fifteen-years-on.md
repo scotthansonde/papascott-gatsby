@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Fifteen Years On"
-date: "2016-09-11 21:02:52 +0200"
+title: 'Fifteen Years On'
+date: '2016-09-11 21:02:52 +02:00'
 ---
+
 [![New York Times Screenshot 9-11-2001 via scripting.com ](/assets/nyt-110916.gif)](http://scripting.com/images/nyTimesHomeBombing7AM2.gif)
 
 This screenshot from [scripting.com](http://scripting.com/images/nyTimesHomeBombing7AM2.gif) is pretty much how I first learned the the 9/11 attacks. A low-res picture on a news website from my office in Hamburg. 3 in the afternoon. The next day I was able to put my [thoughts into words](https://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/). More or less.

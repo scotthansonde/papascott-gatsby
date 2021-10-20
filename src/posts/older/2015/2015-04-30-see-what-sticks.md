@@ -8,8 +8,9 @@ author:
   login: root
   email: papascott@gmail.com
   url: https://www.papascott.de/
-date: '2015-04-30 09:00:00 +0200'
+date: '2015-04-30 09:00:00 +02:00'
 ---
+
 So now that I've [changed](/archives/2015/04/23/transition/) my blogging platform, I have something to blog about: my new blogging platform!
 
 From the WordPress eXtended RSS file of the contents of my blog I found I had exported 3273 posts. Jekyll re-renders every post every time a change is made... on the default template it takes 3 minutes, but on the Lanyon template it ran over 20 minutes before I cancelled the build. That's why I started with only a few dozen posts.

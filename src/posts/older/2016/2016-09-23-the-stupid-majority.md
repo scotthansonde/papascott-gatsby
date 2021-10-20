@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "The Stupid Majority"
-date: "2016-09-23 21:23:55 +0200"
+title: 'The Stupid Majority'
+date: '2016-09-23 21:23:55 +02:00'
 ---
+
 This election is a good reminder of the basic principles of democracy: stupid people vote. Not only that, any democracy is ruled by a stupid majority.
 
 Think about it. If you believe that you are of above-average intelligence, and who of us doesn't, then by definition there is a majority of voters more stupid than you. And since stupid people generally don't recognize their own stupidity, almost every one of us is faced with a stupid majority.
