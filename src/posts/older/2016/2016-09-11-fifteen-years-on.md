@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fifteen Years On'
-date: '2016-09-11 21:02:52 +02:00'
+date: 2016-09-11 21:02:52 +02:00
 ---
 
 [![New York Times Screenshot 9-11-2001 via scripting.com ](/assets/nyt-110916.gif)](http://scripting.com/images/nyTimesHomeBombing7AM2.gif)

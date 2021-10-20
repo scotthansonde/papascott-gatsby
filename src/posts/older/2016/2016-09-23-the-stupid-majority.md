@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Stupid Majority'
-date: '2016-09-23 21:23:55 +02:00'
+date: 2016-09-23 21:23:55 +02:00
 ---
 
 This election is a good reminder of the basic principles of democracy: stupid people vote. Not only that, any democracy is ruled by a stupid majority.

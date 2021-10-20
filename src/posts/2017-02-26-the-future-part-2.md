@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future Part 2'
-date: '2017-02-26 10:03:24 +01:00'
+date: 2017-02-26 10:03:24 +01:00
 image: 'rgallery/rdz-win-fb.jpg'
 images:
   - image_path: /assets/gallery/rdz-win3.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Winter Workshop'
-date: '2018-01-12 08:29:40 +01:00'
+date: 2018-01-12 08:29:40 +01:00
 ---
 
 How our son spent his Christmas vacation (at least when he wasn't studying for his preliminary "Vorabi" exams):

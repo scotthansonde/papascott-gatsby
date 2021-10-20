@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1999.io is simple.  And simple.'
-date: '2016-05-05 10:43:01 +02:00'
+date: 2016-05-05 10:43:01 +02:00
 ---
 
 The past few weeks I've been trying out [1999.io](http://scripting.com/2016/05/04/1238.html), the new blogging software by Dave Winer. You can either try it out at his site [my.1999.io](http://my.1999.io) (you just need a Twitter ID to log in) or you can [install the server](https://github.com/scripting/1999-project/blob/master/docs/setup.md) on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Future Is Now'
-date: '2016-11-07 07:03:55 +01:00'
+date: 2016-11-07 07:03:55 +01:00
 image: 'rdz-kiosks-061116.jpg'
 ---
 

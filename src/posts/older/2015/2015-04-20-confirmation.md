@@ -8,7 +8,7 @@ author:
   login: root
   email: papascott@gmail.com
   url: https://www.papascott.de/
-date: '2015-04-20 09:00:00 +02:00'
+date: 2015-04-20 09:00:00 +02:00
 ---
 
 [![Policke](/assets/policke-200415.jpg){: class="alignright"}](http://policke1.p2-men.de/)

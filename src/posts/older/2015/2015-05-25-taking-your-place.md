@@ -8,7 +8,7 @@ author:
   login: root
   email: papascott@gmail.com
   url: https://www.papascott.de/
-date: '2015-05-25 09:00:00 +02:00'
+date: 2015-05-25 09:00:00 +02:00
 ---
 
 _For our son's Confirmation yesterday I gave a toast that went quite well. It sums up pretty well how I feel right now about our son and parenting, so I've modified it a bit and posted it. I wrote it in English so my mother could follow along, but I gave it in German, translating on my feet._

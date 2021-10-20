@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Where and For Whom to Vote'
-date: '2016-02-19 17:48:02 +01:00'
+date: 2016-02-19 17:48:02 +01:00
 ---
 
 Like [Will Rogers](https://en.wikipedia.org/wiki/Will_Rogers), I am proud to not be a member of any organized political party. I am a Democrat.

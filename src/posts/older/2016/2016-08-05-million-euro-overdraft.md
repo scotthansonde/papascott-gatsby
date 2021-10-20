@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Million Euro Overdraft'
-date: '2016-08-05 18:56:33 +02:00'
+date: 2016-08-05 18:56:33 +02:00
 ---
 
 This happened over 9 years ago, I think it's safe to tell the story now.

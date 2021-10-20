@@ -8,7 +8,7 @@ author:
   login: root
   email: papascott@gmail.com
   url: https://www.papascott.de/
-date: '2015-04-23 09:00:00 +02:00'
+date: 2015-04-23 09:00:00 +02:00
 ---
 
 So maybe you noticed, maybe you didn't, but this blog looks a little bit different than a week ago. Behind the scenes it looks a _lot_ different. After over a decade of blogging on WordPress (I actually started using its predecessor [B2](http://cafelog.com/) in 2002), I'm now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface.

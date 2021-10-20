@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Expecting'
-date: '2016-11-01 10:56:32 +01:00'
+date: 2016-11-01 10:56:32 +01:00
 ---
 
 On this All Saints' Day we are happy and proud to announce that we are expecting!

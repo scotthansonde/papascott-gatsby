@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tee Time For Two'
-date: '2017-08-12 10:39:08 +02:00'
+date: 2017-08-12 10:39:08 +02:00
 ---
 
 My gmail address is fairly generic, and apparently there are other people who would like to be PapaScott but can't. So I get a fair amount of mail intended for other PapaScotts, including:
