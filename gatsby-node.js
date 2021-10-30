@@ -1,7 +1,7 @@
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 const createPaginatedPages = require("gatsby-paginate");
-const moment = require("moment");
+const dayjs = require("dayjs");
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
@@ -33,13 +33,13 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     if (node.frontmatter.layout !== "page") {
       createNodeField({
         node,
-        name: "date",
-        value: moment(new Date(date)).format("DD MMM YYYY")
+        name: 'date',
+        value: dayjs(new Date(date)).format('DD MMM YYYY'),
       });
       createNodeField({
         node,
-        name: "tags",
-        value: `Y${moment(new Date(date)).format("YYYY")}`
+        name: 'tags',
+        value: `Y${dayjs(new Date(date)).format('YYYY')}`,
       });
 
       createNodeField({
@@ -72,9 +72,11 @@ const createArchivePages = (createPage, edges) => {
   edges.forEach(({ node }) => {
 
     [node.fields.tags].forEach(yr => {
-      // let yr = `Y${moment(date).year().toString()}`;
+      // let yr = `Y${dayjs(date).year().toString()}`;
 
-      if (!posts[yr]) { posts[yr] = [] }
+      if (!posts[yr]) {
+        posts[yr] = [];
+      }
       posts[yr].push(node.fields);
     })
   })
@@ -107,7 +109,7 @@ exports.createPages = ({ graphql, actions }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        
+
         posts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
           filter: {
@@ -122,7 +124,7 @@ exports.createPages = ({ graphql, actions }) => {
                 slug
                 tags
               }
-              
+
               html
             }
             next {

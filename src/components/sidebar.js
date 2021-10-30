@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import moment from 'moment';
+import dayjs from 'dayjs';
 import _ from 'lodash';
 
 const archivesStatic = _.rangeRight(1999, 2014 + 1);
@@ -53,7 +53,7 @@ export default ({ metadata, pages, archives }) => (
       <a href="http://lanyon.getpoole.com/">lanyon</a>, served by{' '}
       <a href="https://www.netlify.com/">netlify</a>, code and posts at{' '}
       <a href="https://github.com/papascott/papascott-gatsby">GitHub</a>.
-      <p>&copy; {moment().format('YYYY')}. All rights reserved.</p>
+      <p>&copy; {dayjs().format('YYYY')}. All rights reserved.</p>
     </div>
   </div>
 );
