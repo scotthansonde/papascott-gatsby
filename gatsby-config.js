@@ -85,5 +85,13 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-source-opmlnote`,
+      options: {
+        url: `http://drummer.scripting.com/ScottHansonDE/papascott-de.opml`,
+        name: 'posts',
+        timezone: 'Europe/Berlin',
+      },
+    },
   ],
 };

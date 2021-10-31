@@ -2,6 +2,27 @@ const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 const createPaginatedPages = require("gatsby-paginate");
 const dayjs = require("dayjs");
+const { notEqual } = require("assert");
+
+function slugify(string) {
+  const a =
+    'àáâäæãåāăąçćčđďèéêëēėęěğǵḧîïíīįìłḿñńǹňôöòóœøōõőṕŕřßśšşșťțûüùúūǘůűųẃẍÿýžźż·/_,:;';
+  const b =
+    'aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------';
+  const p = new RegExp(a.split('').join('|'), 'g');
+
+  return string
+    .toString()
+    .toLowerCase()
+    .replace(/\s+/g, '-') // Replace spaces with -
+    .replace(p, (c) => b.charAt(a.indexOf(c))) // Replace special characters
+    .replace(/&/g, '-and-') // Replace & with 'and'
+    .replace(/[^\w\-]+/g, '') // Remove all non-word characters
+    .replace(/\-\-+/g, '-') // Replace multiple - with single -
+    .replace(/^-+/, '') // Trim - from start of text
+    .replace(/-+$/, ''); // Trim - from end of text
+}
+
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
@@ -10,14 +31,23 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     if (node.frontmatter.layout === "page") {
       basePath = "pages";
     }
-    let basename = path.basename(createFilePath({ node, getNode, basePath }));
-    let slashBasename = `/${basename}/`;
-    let slug = slashBasename.replace(/^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/');
+
+    let slug;
     let title = node.frontmatter.title;
     let date = node.frontmatter.date;
-    let nameArr = basename.split("-");
-    if (!date || date === null) {
-      date = nameArr.splice(0, 3).join("-");
+
+    if (node.frontmatter.plugin !== 'OPML') {
+      let basename = path.basename(createFilePath({ node, getNode, basePath }));
+      let slashBasename = `/${basename}/`;
+      slug = slashBasename.replace(/^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/');
+      let nameArr = basename.split("-");
+      if (!date || date === null) {
+        date = nameArr.splice(0, 3).join("-");
+      }
+    } else {
+      let dateString = dayjs(date).format('YYYY/MM/DD');
+      let titleSlug = slugify(title);
+      slug = `/archives/${dateString}/${titleSlug}/`;
     }
 
     createNodeField({
