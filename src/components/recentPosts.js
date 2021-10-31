@@ -23,11 +23,11 @@ export default ({ children }) => (
         }
       }
     `}
-    render={data => (
-      <div class="related" id="related">
+    render={(data) => (
+      <div className="related" id="related">
         <h2>Recent Posts</h2>
         <ul className="related-posts">
-          {data.allMarkdownRemark.edges.map(post => (
+          {data.allMarkdownRemark.edges.map((post) => (
             <li key={post.node.fields.slug}>
               <h3>
                 <Link to={post.node.fields.slug}>
