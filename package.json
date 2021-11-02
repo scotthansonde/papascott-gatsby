@@ -31,5 +31,9 @@
     "react-helmet": "^6.1.0",
     "twitter-fetcher": "^18.0.4",
     "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "@netlify/plugin-gatsby": "^2.0.0-beta",
+    "gatsby-plugin-netlify": "^4.0.0-next.0"
   }
 }
