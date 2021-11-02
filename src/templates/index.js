@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import Layout from '../components/layout';
-import TwitterTimeline from '../components/twitterTimeline';
+// import TwitterTimeline from '../components/twitterTimeline';
 
 const NavLink = props => {
   if (!props.test) {
@@ -22,7 +22,7 @@ const Index = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <TwitterTimeline />
+      { /* <TwitterTimeline /> */}
       {group &&
         group.map(({ node }, idx) => (
           <div className="post" key={idx}>
