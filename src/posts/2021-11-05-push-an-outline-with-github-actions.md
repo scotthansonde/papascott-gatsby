@@ -28,4 +28,4 @@ jobs:
             git push origin main
 ```
 
-NB: This post was writting in Markdown, not Drummer, since I don't know yet how to render code blocks from OPML. _Still diggin'!_
+NB: This post was written in Markdown, not Drummer, since I don't know yet how to render code blocks from OPML. _Still diggin'!_
