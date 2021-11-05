@@ -1,5 +1,4 @@
 {
-  "parser": "babel-eslint",
   "rules": {
     "strict": 0,
     "import/no-extraneous-dependencies": 0,
@@ -14,11 +13,7 @@
     "jsx-a11y/anchor-is-valid": 0
   },
   "extends": [
-    "airbnb",
-    "prettier",
-    "prettier/flowtype",
-    "prettier/react",
-    "prettier/standard"
+    "wesbos"
   ],
   "globals": { "graphql": true }
 }
