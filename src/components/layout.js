@@ -1,5 +1,6 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import React from 'react';
-import { Link, StaticQuery, graphql } from 'gatsby';
+import { StaticQuery, graphql } from 'gatsby';
 import _ from 'lodash';
 
 import Sidebar from './sidebar';
@@ -51,9 +52,9 @@ export default ({ children }) => (
         }
       }
     `}
-    render={data => {
-      const allYears = data.archives.edges.map(item =>
-        item.node.fields.tags.replace('Y', ''),
+    render={(data) => {
+      const allYears = data.archives.edges.map((item) =>
+        item.node.fields.tags.replace('Y', '')
       );
       const archives = _.uniq(allYears);
 

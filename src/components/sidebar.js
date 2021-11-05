@@ -15,28 +15,27 @@ export default ({ metadata, pages, archives }) => (
       <p>
         Twitter: <a href="https://twitter.com/ScottHansonDE">@ScottHansonDE</a>
         <br />
-        Facebook: <a href="https://www.facebook.com/ScottHansonDE/">ScottHansonDE</a>
+        Facebook:{' '}
+        <a href="https://www.facebook.com/ScottHansonDE/">ScottHansonDE</a>
         <br />
         GitHub: <a href="http://github.com/papascott">papascott</a>
       </p>
     </div>
 
-    {pages.map((page, idx) => {
-      return (
-        <Link className="sidebar-nav-item" to={page.node.fields.slug} key={idx}>
-          {page.node.fields.title}
-        </Link>
-      );
-    })}
+    {pages.map((page, idx) => (
+      <Link className="sidebar-nav-item" to={page.node.fields.slug} key={idx}>
+        {page.node.fields.title}
+      </Link>
+    ))}
 
     <div className="sidebar-nav-item">
       Archives:&nbsp;
-      {archives.map(yr => (
+      {archives.map((yr) => (
         <span key={yr}>
           <Link to={`/archives/${yr}`}>{yr}</Link>{' '}
         </span>
       ))}
-      {archivesStatic.map(yr => (
+      {archivesStatic.map((yr) => (
         <span key={yr}>
           <a href={`/archives/${yr}`}>{yr}</a>{' '}
         </span>

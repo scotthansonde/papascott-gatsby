@@ -1,12 +1,15 @@
+/* eslint-disable global-require */
 import React, { Component } from 'react';
 // twitter-fetcher references browser global "window" which doesn't
 // play nice with gatsby build. require only if window is defined
 // and use only in componentDidMount
 if (typeof window !== `undefined`) {
+  // eslint-disable-next-line no-unused-vars
   const twitterFetcher = require('twitter-fetcher');
 }
 class twitterTimeline extends Component {
   componentDidMount() {
+    // eslint-disable-next-line no-undef
     twitterFetcher.fetch({
       profile: { screenName: 'ScottHansonDE' },
       domId: 'twitter-news',
@@ -18,6 +21,7 @@ class twitterTimeline extends Component {
       showInteraction: false,
     });
   }
+
   render() {
     return (
       <div className="post" id="twitterWrapper">

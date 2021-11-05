@@ -1,8 +1,8 @@
-const path = require("path");
-const { createFilePath } = require("gatsby-source-filesystem");
-const createPaginatedPages = require("gatsby-paginate");
-const dayjs = require("dayjs");
-const { notEqual } = require("assert");
+/* eslint-disable no-useless-escape */
+const path = require('path');
+const { createFilePath } = require('gatsby-source-filesystem');
+const createPaginatedPages = require('gatsby-paginate');
+const dayjs = require('dayjs');
 
 function slugify(string) {
   const a =
@@ -23,44 +23,48 @@ function slugify(string) {
     .replace(/-+$/, ''); // Trim - from end of text
 }
 
-
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions;
-  if (node.internal.type === "MarkdownRemark") {
-    let basePath = "posts";
-    if (node.frontmatter.layout === "page") {
-      basePath = "pages";
+  if (node.internal.type === 'MarkdownRemark') {
+    let basePath = 'posts';
+    if (node.frontmatter.layout === 'page') {
+      basePath = 'pages';
     }
 
     let slug;
-    let title = node.frontmatter.title;
-    let date = node.frontmatter.date;
+    const { title } = node.frontmatter;
+    let { date } = node.frontmatter;
 
     if (node.frontmatter.plugin !== 'OPML') {
-      let basename = path.basename(createFilePath({ node, getNode, basePath }));
-      let slashBasename = `/${basename}/`;
-      slug = slashBasename.replace(/^\/(\d{4})-(\d+)-(\d+)-/, '/archives/$1/$2/$3/');
-      let nameArr = basename.split("-");
+      const basename = path.basename(
+        createFilePath({ node, getNode, basePath })
+      );
+      const slashBasename = `/${basename}/`;
+      slug = slashBasename.replace(
+        /^\/(\d{4})-(\d+)-(\d+)-/,
+        '/archives/$1/$2/$3/'
+      );
+      const nameArr = basename.split('-');
       if (!date || date === null) {
-        date = nameArr.splice(0, 3).join("-");
+        date = nameArr.splice(0, 3).join('-');
       }
     } else {
-      let dateString = dayjs(date).format('YYYY/MM/DD');
-      let titleSlug = slugify(title);
+      const dateString = dayjs(date).format('YYYY/MM/DD');
+      const titleSlug = slugify(title);
       slug = `/archives/${dateString}/${titleSlug}/`;
     }
 
     createNodeField({
       node,
-      name: "slug",
-      value: slug
+      name: 'slug',
+      value: slug,
     });
     createNodeField({
       node,
-      name: "title",
-      value: title
+      name: 'title',
+      value: title,
     });
-    if (node.frontmatter.layout !== "page") {
+    if (node.frontmatter.layout !== 'page') {
       createNodeField({
         node,
         name: 'date',
@@ -74,8 +78,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
       createNodeField({
         node,
-        name: "url",
-        value: "https://papascott.de" + slug
+        name: 'url',
+        value: `https://papascott.de${slug}`,
       });
     }
   }
@@ -84,7 +88,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 const createArchivePages = (createPage, edges) => {
   const archiveTemplate = path.resolve(`src/templates/archives.js`);
   const posts = {};
-
 
   // edges
   //   .forEach(({ node }) => {
@@ -100,51 +103,46 @@ const createArchivePages = (createPage, edges) => {
   //   });
 
   edges.forEach(({ node }) => {
-
-    [node.fields.tags].forEach(yr => {
+    [node.fields.tags].forEach((yr) => {
       // let yr = `Y${dayjs(date).year().toString()}`;
 
       if (!posts[yr]) {
         posts[yr] = [];
       }
       posts[yr].push(node.fields);
-    })
-  })
+    });
+  });
 
   createPage({
     path: '/archives',
     component: archiveTemplate,
     context: {
-      posts
-    }
+      posts,
+    },
   });
 
-  Object.keys(posts)
-    .forEach(tagName => {
-      const post = posts[tagName];
-      createPage({
-        path: `/archives/${tagName.replace('Y', '')}`,
-        component: archiveTemplate,
-        context: {
-          posts,
-          post,
-          tag: tagName
-        }
-      })
+  Object.keys(posts).forEach((tagName) => {
+    const post = posts[tagName];
+    createPage({
+      path: `/archives/${tagName.replace('Y', '')}`,
+      component: archiveTemplate,
+      context: {
+        posts,
+        post,
+        tag: tagName,
+      },
     });
+  });
 };
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve) => {
     graphql(`
       {
-
         posts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
-          filter: {
-            frontmatter: { layout: { eq: "post" } }
-          }
+          filter: { frontmatter: { layout: { eq: "post" } } }
         ) {
           edges {
             node {
@@ -174,7 +172,7 @@ exports.createPages = ({ graphql, actions }) => {
           }
         }
         pages: allMarkdownRemark(
-          filter: { frontmatter: {  layout: { eq: "page" } } }
+          filter: { frontmatter: { layout: { eq: "page" } } }
         ) {
           edges {
             node {
@@ -186,39 +184,38 @@ exports.createPages = ({ graphql, actions }) => {
           }
         }
       }
-    `).then(result => {
-
-      const posts = result.data.posts.edges;
-
+    `).then((result) => {
       createArchivePages(createPage, result.data.posts.edges);
 
       createPaginatedPages({
         edges: result.data.posts.edges.slice(0, 3),
-        createPage: createPage,
-        pageTemplate: "src/templates/index.js",
-        pageLength: 3
+        createPage,
+        pageTemplate: 'src/templates/index.js',
+        pageLength: 3,
       });
 
       result.data.posts.edges.map(({ node, next, previous }) => {
         createPage({
           path: node.fields.slug,
-          component: path.resolve("./src/templates/post.js"),
+          component: path.resolve('./src/templates/post.js'),
           context: {
             slug: node.fields.slug,
             prev: next,
-            next: previous
-          }
+            next: previous,
+          },
         });
+        return true;
       });
 
       result.data.pages.edges.map(({ node }) => {
         createPage({
           path: node.fields.slug,
-          component: path.resolve("./src/templates/page.js"),
+          component: path.resolve('./src/templates/page.js'),
           context: {
-            slug: node.fields.slug
-          }
+            slug: node.fields.slug,
+          },
         });
+        return true;
       });
       resolve();
     });

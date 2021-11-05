@@ -3,26 +3,25 @@ import { Link } from 'gatsby';
 import Layout from '../components/layout';
 // import TwitterTimeline from '../components/twitterTimeline';
 
-const NavLink = props => {
-  if (!props.test) {
-    return (
-      <Link to={props.url} className="pagination-item">
-        {props.text}
-      </Link>
-    );
-  } else {
-    return <span className="pagination-item">{props.text}</span>;
-  }
-};
+// const NavLink = (props) => {
+//   if (!props.test) {
+//     return (
+//       <Link to={props.url} className="pagination-item">
+//         {props.text}
+//       </Link>
+//     );
+//   }
+//   return <span className="pagination-item">{props.text}</span>;
+// };
 
-const Index = ({ data, pageContext }) => {
-  const { group, index, first, last } = pageContext;
-  const previousUrl = index - 1 == 1 ? '' : (index - 1).toString();
-  const nextUrl = (index + 1).toString();
+const Index = ({ pageContext }) => {
+  const { group } = pageContext;
+  // const previousUrl = index - 1 === 1 ? '' : (index - 1).toString();
+  // const nextUrl = (index + 1).toString();
 
   return (
     <Layout>
-      { /* <TwitterTimeline /> */}
+      {/* <TwitterTimeline /> */}
       {group &&
         group.map(({ node }, idx) => (
           <div className="post" key={idx}>
@@ -36,4 +35,4 @@ const Index = ({ data, pageContext }) => {
     </Layout>
   );
 };
-export default Index
+export default Index;

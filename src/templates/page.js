@@ -1,13 +1,13 @@
-import React from "react";
+import React from 'react';
 import { graphql } from 'gatsby';
-import Layout from "../components/layout";
+import Layout from '../components/layout';
 
 const Page = ({ data }) => {
   const page = data.markdownRemark;
   return (
     <Layout>
       <h1 className="page-title">{page.fields.title}</h1>
-      <div dangerouslySetInnerHTML={{ __html: page.html}} />
+      <div dangerouslySetInnerHTML={{ __html: page.html }} />
     </Layout>
   );
 };
@@ -22,4 +22,4 @@ export const query = graphql`
     }
   }
 `;
-export default Page
+export default Page;

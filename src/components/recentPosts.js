@@ -1,8 +1,7 @@
 import React from 'react';
 import { Link, StaticQuery, graphql } from 'gatsby';
-import _ from 'lodash';
 
-export default ({ children }) => (
+export default () => (
   <StaticQuery
     query={graphql`
       query RecentPostsQuery {
