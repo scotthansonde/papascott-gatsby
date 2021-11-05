@@ -174,7 +174,6 @@ exports.createPages = ({ graphql, actions }) => {
           }
         }
         pages: allMarkdownRemark(
-          sort: { fields: [fileAbsolutePath], order: DESC }
           filter: { frontmatter: {  layout: { eq: "page" } } }
         ) {
           edges {
