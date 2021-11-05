@@ -58,7 +58,7 @@ export default ({ children }) => (
       const archives = _.uniq(allYears);
 
       return (
-        <div className="theme-base-08">
+        <div className="theme-base-0e">
           <input
             type="checkbox"
             className="sidebar-checkbox"

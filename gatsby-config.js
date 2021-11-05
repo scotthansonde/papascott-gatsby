@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `PapaScott`,
     emoji: `🥁`,
-    desc: `All I do is keep the beat and the bad company`,
-    description: `All I do is keep the beat and the bad company`,
+    desc: `Savin' it up for Friday night`,
+    description: `Savin' it up for Friday night`,
     siteUrl: 'https://www.papascott.de',
     pagination: 5,
   },
