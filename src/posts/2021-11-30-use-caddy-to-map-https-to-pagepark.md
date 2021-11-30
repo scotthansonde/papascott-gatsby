@@ -5,7 +5,7 @@ date: 2021-11-30T10:15:11Z
 title: Use Caddy to map HTTPS to PagePark 
 ---
 
-<i>I've started a GitHub repository at <a href="https://github.com/papascott/DrummerNotes">papascott/DrummerNotes</a> for my notes and code about Drummer. I'm cross-posting my first note here. It isn't about Drummer per se, but would be a possible path for <a href="http://scripting.com/drummer/blog/2021/11/14/145810.html?title=pageparkUsersASimplerPathToHttps">Drummer itself to run under HTTPS</a>. This post is also a test of uploading Markdown from Drummer directly to a Gatsby blog. </i>
+<i>I've started a GitHub repository at <a href="https://github.com/papascott/DrummerNotes">papascott/DrummerNotes</a> for my notes and code about Drummer. I'm cross-posting my first note on <a href="https://github.com/papascott/DrummerNotes/blob/main/caddy.md">using Caddy with PagePark</a> here. It isn't about Drummer per se, but would be a possible path for <a href="http://scripting.com/drummer/blog/2021/11/14/145810.html?title=pageparkUsersASimplerPathToHttps">Drummer itself to run under HTTPS</a>. This post is also a test of uploading Markdown from Drummer directly to a Gatsby blog. </i>
 
 <a href="https://caddyserver.com/">Caddy</a> is a very easy way to implement HTTPS for your PagePage domains. It is a web server that can do <a href="https://caddyserver.com/docs/automatic-https">automatic HTTPS</a>, automatically provisioning TLS certificates (from <a href="https://letsencrypt.org/">Let's Encrypt</a>) for a domain and keep them renewed. It can even obtain TLS certificates on demand for your PagePark domains, without out having to configure the domains in Caddy. 
 
