@@ -16,15 +16,15 @@
 /archives/2014/_ https://archive.papascott.de/archives/2014/:splat 200!
 /public/\* https://archive.papascott.de/public/:splat 200!
 /feed /feed/index.xml
-# Send posts from 2021 to the new domain
-# /archives/2021/12/14/papascott-de-is-now-scotthanson-de/ https://www.scotthanson.de/archives/2021/12/14/papascott-de-is-now-scotthanson-de/
-/archives/2021/11/30/use-caddy-to-map-https-to-pagepark/ https://www.scotthanson.de/archives/2021/11/30/use-caddy-to-map-https-to-pagepark/
-/archives/2021/11/05/push-an-outline-with-github-actions/ https://www.scotthanson.de/archives/2021/11/05/push-an-outline-with-github-actions/
-/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/ https://www.scotthanson.de/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/
-/archives/2021/11/02/video-demo-of-posting-to-gatsby/ https://www.scotthanson.de/archives/2021/11/02/video-demo-of-posting-to-gatsby/
-/archives/2021/10/31/blogging-in-gatsby-with-drummer/ https://www.scotthanson.de/archives/2021/10/31/blogging-in-gatsby-with-drummer/
-/archives/2021/10/22/making-post-requests-from-drummer/ https://www.scotthanson.de/archives/2021/10/22/making-post-requests-from-drummer/
-/archives/2021/10/21/connecting-drummer-to-gatsby/ https://www.scotthanson.de/archives/2021/10/21/connecting-drummer-to-gatsby/
-/archives/2021/09/12/erfolgserlebnis/ https://www.scotthanson.de/archives/2021/09/12/erfolgserlebnis/
-/archives/2021/09/11/lonesome-day/ https://www.scotthanson.de/archives/2021/09/11/lonesome-day/
-/archives/2021/11/03/hide-your-secrets-in-the-root-outline/ https://www.scotthanson.de/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/
+# Send posts from 2021 to the new domain (! forces even if file exists)
+# /archives/2021/12/14/papascott-de-is-now-scotthanson-de/ https://www.scotthanson.de/archives/2021/12/14/papascott-de-is-now-scotthanson-de/ 301!
+/archives/2021/11/30/use-caddy-to-map-https-to-pagepark/ https://www.scotthanson.de/archives/2021/11/30/use-caddy-to-map-https-to-pagepark/ 301!
+/archives/2021/11/05/push-an-outline-with-github-actions/ https://www.scotthanson.de/archives/2021/11/05/push-an-outline-with-github-actions/ 301!
+/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/ https://www.scotthanson.de/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/ 301!
+/archives/2021/11/02/video-demo-of-posting-to-gatsby/ https://www.scotthanson.de/archives/2021/11/02/video-demo-of-posting-to-gatsby/ 301!
+/archives/2021/10/31/blogging-in-gatsby-with-drummer/ https://www.scotthanson.de/archives/2021/10/31/blogging-in-gatsby-with-drummer/ 301!
+/archives/2021/10/22/making-post-requests-from-drummer/ https://www.scotthanson.de/archives/2021/10/22/making-post-requests-from-drummer/ 301!
+/archives/2021/10/21/connecting-drummer-to-gatsby/ https://www.scotthanson.de/archives/2021/10/21/connecting-drummer-to-gatsby/ 301!
+/archives/2021/09/12/erfolgserlebnis/ https://www.scotthanson.de/archives/2021/09/12/erfolgserlebnis/ 301!
+/archives/2021/09/11/lonesome-day/ https://www.scotthanson.de/archives/2021/09/11/lonesome-day/ 301!
+/archives/2021/11/03/hide-your-secrets-in-the-root-outline/ https://www.scotthanson.de/archives/2021/11/03/correction-do-not-hide-your-secrets-in-the-root-outline/ 301!
