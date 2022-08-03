@@ -1,5 +1,5 @@
-[[plugins]]
-  package = "@netlify/plugin-gatsby"
+# [[plugins]]
+  # package = "@netlify/plugin-gatsby"
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"
