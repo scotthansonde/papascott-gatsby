@@ -4,12 +4,11 @@ module.exports = {
     emoji: `🥁`,
     desc: `Savin' it up for Friday night`,
     description: `Savin' it up for Friday night`,
-    siteUrl: 'https://www.papascott.de',
+    siteUrl: "https://www.papascott.de",
     pagination: 5,
   },
-  pathPrefix: '/',
+  pathPrefix: "/",
   plugins: [
-    `gatsby-plugin-netlify`,
     `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-remark`,
@@ -53,7 +52,7 @@ module.exports = {
                 date: edge.node.frontmatter.date,
                 url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                 guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                custom_elements: [{ 'content:encoded': edge.node.html }],
+                custom_elements: [{ "content:encoded": edge.node.html }],
               })),
             query: `
               {
@@ -78,8 +77,8 @@ module.exports = {
                 }
               }
             `,
-            output: '/feed/index.xml',
-            title: 'Gatsby RSS Feed',
+            output: "/feed/index.xml",
+            title: "Gatsby RSS Feed",
           },
         ],
       },
@@ -88,8 +87,8 @@ module.exports = {
       resolve: `gatsby-source-opmlnote`,
       options: {
         url: `http://drummer.scripting.com/ScottHansonDE/papascott-de.opml`,
-        name: 'posts',
-        timezone: 'Europe/Berlin',
+        name: "posts",
+        timezone: "Europe/Berlin",
       },
     },
   ],
