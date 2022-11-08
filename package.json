@@ -13,7 +13,7 @@
     "acorn": "^8.8.0",
     "dayjs": "^1.11.4",
     "disqus-react": "^1.1.3",
-    "gatsby": "^4.20.0",
+    "gatsby": "^4.24.7",
     "gatsby-paginate": "1.1.1",
     "gatsby-plugin-feed": "^4.20.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
